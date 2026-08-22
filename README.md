@@ -1,13 +1,20 @@
 # 📊 Retail Sales & Customer Insights
 > **End-to-End Enterprise Retail Analytics using PostgreSQL, Python, Pandas, Excel & Power BI**
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Interactive_Dashboard-GitHub_Pages-2563EB?style=for-the-badge)](https://utsav2311.github.io/retail-sales-customer-insights/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/utsav2311/retail-sales-customer-insights)
+
 ![Python](https://img.shields.io/badge/Python-3.13-blue.svg?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-336791.svg?logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458.svg?logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811.svg?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-Advanced_Formulas-217346.svg?logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Time_Intelligence-orange.svg)
 ![Status](https://img.shields.io/badge/Validation-100%25_PASS-success.svg)
+
+---
+
+### 🌐 Live Interactive Analytics Preview
+🔗 **[Click here to view the Live Interactive Dashboard](https://utsav2311.github.io/retail-sales-customer-insights/)** (No installation needed, interactive charts, dynamic slicers, RFM matrix, and SQL runner directly in browser).
 
 ---
 
