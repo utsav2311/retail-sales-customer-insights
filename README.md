@@ -1,8 +1,9 @@
 # 📊 Retail Sales & Customer Insights
-> **End-to-End Enterprise Retail Analytics using PostgreSQL, Python, Pandas, Excel & Power BI**
+> **End-to-End Enterprise Retail Analytics using PostgreSQL, Python, Pandas, Excel & Power BI (5-Year Depth: 2021 – 2026 YTD)**
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Interactive_Dashboard-GitHub_Pages-2563EB?style=for-the-badge)](https://utsav2311.github.io/retail-sales-customer-insights/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/utsav2311/retail-sales-customer-insights)
+[![Download Master Excel](https://img.shields.io/badge/📥_Download-Master_Excel_(Raw_+_Clean)-10B981?style=for-the-badge)](https://raw.githubusercontent.com/utsav2311/retail-sales-customer-insights/main/data/retail_raw_and_cleaned_master.xlsx)
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue.svg?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-336791.svg?logo=postgresql&logoColor=white)
@@ -13,30 +14,47 @@
 
 ---
 
-### 🌐 Live Interactive Analytics Preview
-🔗 **[Click here to view the Live Interactive Dashboard](https://utsav2311.github.io/retail-sales-customer-insights/)** (No installation needed, interactive charts, dynamic slicers, RFM matrix, and SQL runner directly in browser).
+### 🌐 Live Interactive Analytics Preview & Data Downloads
+- 🚀 **[Click here to view the Live Interactive Dashboard](https://utsav2311.github.io/retail-sales-customer-insights/)** (Interactive charts, dynamic slicers, 5-year revenue trajectory, RFM matrix, and SQL runner directly in browser).
+- 📥 **[Download Master Dataset Excel (Raw + Cleaned Data - 11 Sheets)](https://raw.githubusercontent.com/utsav2311/retail-sales-customer-insights/main/data/retail_raw_and_cleaned_master.xlsx)**
+- 📥 **[Download Excel Analytics Workbook (retail_sales_analysis.xlsx)](https://raw.githubusercontent.com/utsav2311/retail-sales-customer-insights/main/excel/retail_sales_analysis.xlsx)**
+- 📥 **[Download Multi-Tool KPI Reconciliation Matrix (kpi_reconciliation.xlsx)](https://raw.githubusercontent.com/utsav2311/retail-sales-customer-insights/main/documentation/kpi_reconciliation.xlsx)**
 
 ---
 
-## 🌟 Executive Project Summary
+## 📈 5-Year Annual Revenue Trajectory (2021 – 2026 YTD)
 
-This project delivers an **industry-grade, resume-ready Retail Sales & Customer Insights Analytics Platform** built on a single, mathematically verified master dataset of **61,926 transactions**, **19,021 orders**, **11,500 customers**, and **1,220 products** across **12 categories** and **6 geographic regions** in India over a 2-year calendar timeframe (2024–2025).
+Historical annual growth demonstrating organic revenue scaling from ₹16.4 Lakhs to ₹1.58 Crore (YTD 2026):
 
-### 🏆 Core Portfolio Metrics at a Glance
+| Calendar Year | Total Revenue (₹) | Gross Profit (₹) | Profit Margin % | Total Orders | Transactions | Average Order Value (AOV) | YoY Growth % |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **2021** | ₹1,640,390.30 | ₹618,496.64 | 37.70% | 660 | 2,195 | ₹2,485.44 | Baseline |
+| **2022** | ₹3,255,953.00 | ₹1,231,245.66 | 37.82% | 1,336 | 4,396 | ₹2,437.09 | **+98.5%** |
+| **2023** | ₹5,219,348.30 | ₹1,971,698.61 | 37.78% | 2,174 | 7,084 | ₹2,400.80 | **+60.3%** |
+| **2024** | ₹8,635,175.40 | ₹3,246,551.75 | 37.60% | 3,563 | 11,680 | ₹2,423.57 | **+65.4%** |
+| **2025** | ₹14,250,158.95 | ₹5,396,007.05 | 37.87% | 5,827 | 19,290 | ₹2,445.54 | **+65.0%** |
+| **2026 (YTD)** | ₹15,817,691.10 | ₹5,980,505.08 | 37.81% | 6,496 | 21,374 | ₹2,434.99 | **Peak Run-Rate** |
+| **5-Year Total** | **₹48,818,717.05 (₹4.88 Cr)** | **₹18,444,504.22** | **37.78%** | **20,056** | **66,019** | **₹2,434.12** | — |
+
+---
+
+## 🌟 Executive Summary & Portfolio Metrics
+
 | Core Metric | Actual Calculated Value | Project Target Range | Status |
 | :--- | :--- | :--- | :--- |
-| **Total Transactions** | **61,926** | 50,000+ | ✅ PASS |
-| **Unique Customers** | **11,500** | 10,000+ | ✅ PASS |
+| **Total Transactions** | **66,019** | 50,000+ | ✅ PASS |
+| **Total Orders** | **20,056** | - | ✅ PASS |
+| **Unique Customers** | **12,000** | 10,000+ | ✅ PASS |
 | **Unique Products** | **1,220** | 1,000+ | ✅ PASS |
 | **Product Categories** | **12** | 10+ | ✅ PASS |
 | **Geographic Regions** | **6** | 5+ | ✅ PASS |
-| **Total Net Revenue** | **₹45,828,146.55 (₹4.58 Cr)** | ₹2.00 Cr+ | ✅ PASS |
-| **Total Gross Profit** | **₹17,316,104.20** | - | ✅ PASS |
+| **Total Net Revenue** | **₹48,818,717.05 (₹4.88 Cr)** | ₹2.00 Cr+ | ✅ PASS |
+| **Total Gross Profit** | **₹18,444,504.22** | - | ✅ PASS |
 | **Gross Profit Margin**| **37.78%** | 35% - 40% | ✅ PASS |
-| **Average Order Value (AOV)** | **₹2,409.34** | ~₹2,200 | ✅ PASS |
-| **Repeat Customer Rate** | **35.19% (4,047 users)** | ~35% | ✅ PASS |
-| **Leading Category** | **Electronics (₹12.39M - 27.04%)** | Electronics #1 | ✅ PASS |
-| **Leading Region** | **West (₹11.52M - 25.13%)** | ~25% contribution | ✅ PASS |
+| **Average Order Value (AOV)** | **₹2,434.12** | ~₹2,200 | ✅ PASS |
+| **Repeat Customer Rate** | **35.40% (4,248 users)** | ~35% | ✅ PASS |
+| **Leading Category** | **Electronics (₹13.20M - 27.04%)** | Electronics #1 | ✅ PASS |
+| **Leading Region** | **West (₹12.28M - 25.15%)** | ~25% contribution | ✅ PASS |
 
 ---
 
@@ -94,45 +112,37 @@ This project delivers an **industry-grade, resume-ready Retail Sales & Customer 
 
 ## 👥 RFM Customer Segmentation (8 Segments)
 
-Calculated in Python/Pandas and PostgreSQL window functions relative to snapshot date `2026-01-01`:
-
 | Segment | Customers | Cust % | Total Revenue (₹) | Rev % | Avg Spend (₹) | Avg Recency | Actionable Business Strategy |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Champions** | 2,009 | 17.5% | ₹15,732,350.75 | 34.3% | ₹7,830.94 | 44 days | VIP loyalty rewards & exclusive early access |
-| **At Risk** | 2,593 | 22.5% | ₹9,301,426.60 | 20.3% | ₹3,587.13 | 367 days | Automated 10-15% win-back discount triggers |
-| **Loyal Customers** | 1,532 | 13.3% | ₹7,981,005.90 | 17.4% | ₹5,209.53 | 120 days | Cross-sell premium bundles & warranties |
-| **Potential Loyalists**| 1,886 | 16.4% | ₹4,421,375.40 | 9.6% | ₹2,344.31 | 51 days | Gamified 2nd-order loyalty points |
-| **Hibernating** | 1,847 | 16.1% | ₹3,771,899.50 | 8.2% | ₹2,042.18 | 198 days | Category revival campaigns & seasonal push |
-| **Can't Lose Them** | 709 | 6.2% | ₹3,135,176.80 | 6.8% | ₹4,421.97 | 509 days | High-touch personal account outreach |
-| **Lost Customers** | 727 | 6.3% | ₹1,241,388.80 | 2.7% | ₹1,707.55 | 526 days | Low-cost re-engagement email blasts |
-| **New Customers** | 197 | 1.7% | ₹243,522.80 | 0.5% | ₹1,236.16 | 48 days | Welcome onboarding sequence & review coupon |
+| **Champions** | 2,096 | 17.5% | ₹16,886,511.10 | 34.6% | ₹8,056.54 | 90 days | VIP loyalty rewards & exclusive early access |
+| **At Risk** | 2,678 | 22.3% | ₹9,891,536.80 | 20.3% | ₹3,693.63 | 844 days | Automated 10-15% win-back discount triggers |
+| **Loyal Customers** | 1,618 | 13.5% | ₹8,483,309.70 | 17.4% | ₹5,243.08 | 253 days | Cross-sell premium bundles & accessories |
+| **Potential Loyalists**| 1,922 | 16.0% | ₹4,504,826.70 | 9.2% | ₹2,343.82 | 99 days | Gamified 2nd-order loyalty points |
+| **Hibernating** | 1,959 | 16.3% | ₹4,065,646.65 | 8.3% | ₹2,075.37 | 427 days | Category revival campaigns & seasonal push |
+| **Can't Lose Them** | 748 | 6.2% | ₹3,449,255.05 | 7.1% | ₹4,611.30 | 1,196 days | High-touch personal account outreach |
+| **Lost Customers** | 736 | 6.1% | ₹1,232,103.80 | 2.5% | ₹1,674.05 | 1,263 days | Low-cost re-engagement email blasts |
+| **New Customers** | 243 | 2.0% | ₹305,527.25 | 0.6% | ₹1,257.31 | 101 days | Welcome onboarding sequence & review coupon |
 
 ---
 
 ## 🎯 100% Multi-Tool KPI Reconciliation
 
-Every single KPI across all 4 analytics tools reconciles to the exact rupee and percentage:
-
 | KPI Metric | PostgreSQL | Python/Pandas | Excel Workbook | Power BI DAX | Audit Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Total Transactions** | 61,926 | 61,926 | 61,926 | 61,926 | **PASS** |
-| **Total Orders** | 19,021 | 19,021 | 19,021 | 19,021 | **PASS** |
-| **Unique Customers** | 11,500 | 11,500 | 11,500 | 11,500 | **PASS** |
+| **Total Transactions** | 66,019 | 66,019 | 66,019 | 66,019 | **PASS** |
+| **Total Orders** | 20,056 | 20,056 | 20,056 | 20,056 | **PASS** |
+| **Unique Customers** | 12,000 | 12,000 | 12,000 | 12,000 | **PASS** |
 | **Unique Products** | 1,220 | 1,220 | 1,220 | 1,220 | **PASS** |
 | **Total Categories** | 12 | 12 | 12 | 12 | **PASS** |
 | **Total Regions** | 6 | 6 | 6 | 6 | **PASS** |
-| **Total Revenue** | ₹45,828,146.55 | ₹45,828,146.55 | ₹45,828,146.55 | ₹45,828,146.55 | **PASS** |
-| **Total Quantity Sold** | 77,567 | 77,567 | 77,567 | 77,567 | **PASS** |
-| **Average Order Value (AOV)** | ₹2,409.34 | ₹2,409.34 | ₹2,409.34 | ₹2,409.34 | **PASS** |
-| **Repeat Customers** | 4,047 | 4,047 | 4,047 | 4,047 | **PASS** |
-| **Repeat Customer Rate** | 35.19% | 35.19% | 35.19% | 35.19% | **PASS** |
-| **Total Gross Profit** | ₹17,316,104.20 | ₹17,316,104.20 | ₹17,316,104.20 | ₹17,316,104.20 | **PASS** |
+| **Total Revenue** | ₹48,818,717.05 | ₹48,818,717.05 | ₹48,818,717.05 | ₹48,818,717.05 | **PASS** |
+| **Average Order Value (AOV)** | ₹2,434.12 | ₹2,434.12 | ₹2,434.12 | ₹2,434.12 | **PASS** |
+| **Repeat Customers** | 4,248 | 4,248 | 4,248 | 4,248 | **PASS** |
+| **Repeat Customer Rate** | 35.40% | 35.40% | 35.40% | 35.40% | **PASS** |
+| **Total Gross Profit** | ₹18,444,504.22 | ₹18,444,504.22 | ₹18,444,504.22 | ₹18,444,504.22 | **PASS** |
 | **Overall Profit Margin**| 37.78% | 37.78% | 37.78% | 37.78% | **PASS** |
 | **Top Category** | Electronics | Electronics | Electronics | Electronics | **PASS** |
-| **Top Category Revenue** | ₹12,389,744.40 | ₹12,389,744.40 | ₹12,389,744.40 | ₹12,389,744.40 | **PASS** |
-| **Top Region** | West | West | West | West | **PASS** |
-| **Top Region Revenue** | ₹11,515,055.25 | ₹11,515,055.25 | ₹11,515,055.25 | ₹11,515,055.25 | **PASS** |
-| **Top Region Revenue %** | 25.13% | 25.13% | 25.13% | 25.13% | **PASS** |
+| **Top Region** | West (25.15%) | West (25.15%) | West (25.15%) | West (25.15%) | **PASS** |
 
 ---
 
@@ -140,91 +150,66 @@ Every single KPI across all 4 analytics tools reconciles to the exact rupee and 
 
 ```
 retail-sales-customer-insights/
-├── README.md
+├── README.md                                # GitHub-ready portfolio documentation
+├── index.html                               # Live Web Analytics Portal (GitHub Pages)
+├── app.py                                   # Interactive Streamlit Web BI Dashboard
+├── run_project.py                           # Master automated execution pipeline
+│
 ├── data/
-│   ├── raw/
-│   │   ├── raw_sales_transactions.csv
-│   │   ├── raw_customers.csv
-│   │   ├── raw_products.csv
-│   │   └── raw_regions.csv
-│   ├── cleaned/
-│   │   ├── fact_sales.csv
-│   │   ├── dim_customer.csv
-│   │   ├── dim_product.csv
-│   │   ├── dim_region.csv
-│   │   ├── dim_date.csv
-│   │   └── customer_rfm_segments.csv
-│   └── data_dictionary.xlsx
+│   ├── raw/                                 # 4 Raw transaction & dimension CSVs
+│   ├── cleaned/                             # 5 Cleaned Star Schema CSVs + RFM table
+│   ├── retail_raw_and_cleaned_master.xlsx   # Combined Master Excel (11 Sheets)
+│   └── data_dictionary.xlsx                 # 40-Field Data Dictionary
+│
 ├── sql/
-│   ├── 01_create_tables.sql
-│   ├── 02_load_data.sql
-│   ├── 03_data_validation.sql
-│   ├── 04_sales_analysis.sql
-│   ├── 05_customer_analysis.sql
-│   ├── 06_product_analysis.sql
-│   ├── 07_rfm_analysis.sql
-│   └── 08_advanced_analysis.sql
+│   ├── 01_create_tables.sql                 # DDL with keys, constraints & indexes
+│   ├── 02_load_data.sql                     # PostgreSQL COPY ingestion script
+│   ├── 03_data_validation.sql               # SQL audit queries
+│   ├── 04_sales_analysis.sql                # Time-series & MoM growth
+│   ├── 05_customer_analysis.sql             # Repeat customer rate & CLV
+│   ├── 06_product_analysis.sql              # Category & product profit margins
+│   ├── 07_rfm_analysis.sql                  # Pure SQL NTILE(5) RFM pipeline
+│   └── 08_advanced_analysis.sql             # Master 27 analytical queries
+│
 ├── python/
-│   ├── 01_data_validation.py
-│   ├── 02_data_cleaning.py
-│   ├── 03_sales_analysis.py
-│   ├── 04_customer_analysis.py
-│   ├── 05_product_analysis.py
-│   └── 06_rfm_segmentation.py
+│   ├── 01_data_validation.py                # Nulls, duplicates & IQR outlier audit
+│   ├── 02_data_cleaning.py                  # Standardization & export pipeline
+│   ├── 03_sales_analysis.py                 # Monthly trends & payment share
+│   ├── 04_customer_analysis.py              # Cohort retention & demographics
+│   ├── 05_product_analysis.py               # Pareto 80/20 & margin rankings
+│   └── 06_rfm_segmentation.py               # 8-Tier RFM scoring pipeline
+│
 ├── excel/
-│   └── retail_sales_analysis.xlsx
+│   └── retail_sales_analysis.xlsx           # 9-sheet Excel workbook with 5-Year Trajectory
+│
 ├── powerbi/
-│   ├── dax_measures.dax
-│   └── data_model_schema.md
+│   ├── dax_measures.dax                     # 15+ production DAX formulas
+│   └── data_model_schema.md                 # Star schema visual architecture
+│
 ├── documentation/
-│   ├── project_documentation.md
-│   ├── kpi_reconciliation.xlsx
-│   └── interview_preparation.md
+│   ├── project_documentation.md             # End-to-end technical report
+│   ├── kpi_reconciliation.xlsx              # 100% PASS multi-tool matrix
+│   └── interview_preparation.md             # 30+ Q&As & resume bullets
+│
 └── screenshots/
-    ├── executive_dashboard.png
-    ├── sales_dashboard.png
-    ├── customer_dashboard.png
-    └── product_dashboard.png
+    ├── executive_dashboard.png              # Executive Overview
+    ├── sales_dashboard.png                  # Sales Performance
+    ├── customer_dashboard.png               # Customer Insights
+    └── product_dashboard.png                # Product & Category
 ```
 
 ---
 
 ## 🚀 How to Run & Reproduce
 
-### 1. Run the Python Pipeline
 ```bash
-# Validate data quality
-python3 python/01_data_validation.py
+# 1. Clone the repository
+git clone https://github.com/utsav2311/retail-sales-customer-insights.git
+cd retail-sales-customer-insights
 
-# Clean and export star schema tables
-python3 python/02_data_cleaning.py
+# 2. Run the complete data pipeline locally
+python3 run_project.py
 
-# Run sales, customer, product & RFM analytics
-python3 python/03_sales_analysis.py
-python3 python/04_customer_analysis.py
-python3 python/05_product_analysis.py
-python3 python/06_rfm_segmentation.py
+# 3. Launch the interactive Streamlit Web Dashboard
+streamlit run app.py
 ```
-
-### 2. Execute SQL Database Scripts in PostgreSQL
-```bash
-# In PostgreSQL CLI (psql)
-psql -U postgres -d retail_db -f sql/01_create_tables.sql
-psql -U postgres -d retail_db -f sql/02_load_data.sql
-psql -U postgres -d retail_db -f sql/08_advanced_analysis.sql
-```
-
-### 3. Open Excel Analytics Workbook
-Open `excel/retail_sales_analysis.xlsx` in Microsoft Excel to interact with all 8 dynamic sheets.
-
-### 4. Build Power BI Dashboards
-Import cleaned CSV files from `data/cleaned/` into Power BI Desktop, establish star schema relationships, and paste DAX measures from `powerbi/dax_measures.dax`.
-
----
-
-## 💼 High-Impact Resume Bullets
-
-- **Engineered an end-to-end Retail Analytics Platform** analyzing 61,926 transactions, 19,021 orders, and 11,500 customers across PostgreSQL, Python, Excel, and Power BI, generating ₹4.58 Cr ($550K+) in revenue with 37.78% gross margin.
-- **Architected a Kimball Star Schema Database** in PostgreSQL with 27 analytical queries utilizing window functions (`LAG`, `DENSE_RANK`, `PARTITION BY`) to track monthly revenue velocity and product margins.
-- **Built an 8-Tier RFM Customer Segmentation Model** in Python across 11,500 customers, discovering that Champions generate 34.3% of revenue and designing automated win-back workflows for 2,593 at-risk customers.
-- **Developed an 8-Sheet Executive Excel Workbook** using `SUMIFS`, `XLOOKUP`, and Pivot Tables, alongside 4 Power BI report pages featuring 15+ custom DAX measures with 100% multi-tool mathematical reconciliation.
