@@ -36,12 +36,73 @@
                         <p class="text-xs sm:text-sm text-blue-100 font-light">Enterprise Analytics (2021 – 2026 YTD) • PostgreSQL • Python • Excel • Power BI</p>
                     </div>
                 </div>
-                <div class="hidden md:flex items-center space-x-3">
-                    <a href="#downloads-section" class="flex items-center space-x-2 px-3.5 py-1.5 rounded-lg bg-emerald-500 hover:bg-emerald-600 text-white text-xs font-semibold transition duration-150 shadow">
-                        <i data-lucide="download" class="w-4 h-4"></i>
-                        <span>Download Excel Sheets</span>
-                    </a>
-                    <a href="https://github.com/utsav2311/retail-sales-customer-insights" target="_blank" class="flex items-center space-x-2 px-4 py-2 rounded-lg bg-white/10 hover:bg-white/20 text-sm font-medium transition duration-150 border border-white/20">
+                
+                <!-- Header Action Buttons -->
+                <div class="flex items-center space-x-3">
+                    <!-- Download Dropdown Component -->
+                    <div class="relative inline-block text-left">
+                        <button onclick="toggleDownloadDropdown()" id="btn-top-download" type="button" class="flex items-center space-x-2 px-4 py-2 rounded-lg bg-emerald-500 hover:bg-emerald-600 text-white text-xs sm:text-sm font-semibold transition duration-150 shadow-lg border border-emerald-400/30">
+                            <i data-lucide="download" class="w-4 h-4"></i>
+                            <span>Download Excel Sheets</span>
+                            <i data-lucide="chevron-down" class="w-3.5 h-3.5 ml-0.5"></i>
+                        </button>
+
+                        <!-- Dropdown Menu -->
+                        <div id="download-dropdown" class="hidden absolute right-0 mt-2 w-80 bg-white rounded-xl shadow-2xl border border-slate-200 py-2 z-50 text-slate-800">
+                            <div class="px-4 py-2 border-b border-slate-100 bg-slate-50 rounded-t-xl">
+                                <p class="text-xs font-bold text-slate-900 uppercase tracking-wider">Instant 1-Click Downloads</p>
+                                <p class="text-[11px] text-slate-500">Raw & cleaned datasets (.xlsx / .csv)</p>
+                            </div>
+                            
+                            <a href="https://github.com/utsav2311/retail-sales-customer-insights/raw/main/data/retail_raw_and_cleaned_master.xlsx" download class="flex items-center px-4 py-3 hover:bg-blue-50 transition border-b border-slate-100">
+                                <div class="p-2 bg-blue-100 text-blue-600 rounded-lg mr-3">
+                                    <i data-lucide="file-spreadsheet" class="w-4 h-4"></i>
+                                </div>
+                                <div>
+                                    <p class="font-bold text-xs text-slate-900">Master Combined Excel</p>
+                                    <p class="text-[10px] text-slate-500">11 Sheets (Raw & Cleaned Data)</p>
+                                </div>
+                            </a>
+
+                            <a href="https://github.com/utsav2311/retail-sales-customer-insights/raw/main/excel/retail_sales_analysis.xlsx" download class="flex items-center px-4 py-3 hover:bg-emerald-50 transition border-b border-slate-100">
+                                <div class="p-2 bg-emerald-100 text-emerald-600 rounded-lg mr-3">
+                                    <i data-lucide="bar-chart-2" class="w-4 h-4"></i>
+                                </div>
+                                <div>
+                                    <p class="font-bold text-xs text-slate-900">Excel Analytics Workbook</p>
+                                    <p class="text-[10px] text-slate-500">9 Sheets (5-Yr Trajectory & Formulas)</p>
+                                </div>
+                            </a>
+
+                            <a href="https://github.com/utsav2311/retail-sales-customer-insights/raw/main/documentation/kpi_reconciliation.xlsx" download class="flex items-center px-4 py-3 hover:bg-purple-50 transition border-b border-slate-100">
+                                <div class="p-2 bg-purple-100 text-purple-600 rounded-lg mr-3">
+                                    <i data-lucide="check-check" class="w-4 h-4"></i>
+                                </div>
+                                <div>
+                                    <p class="font-bold text-xs text-slate-900">KPI Reconciliation Matrix</p>
+                                    <p class="text-[10px] text-slate-500">100% verified multi-tool match</p>
+                                </div>
+                            </a>
+
+                            <a href="https://github.com/utsav2311/retail-sales-customer-insights/raw/main/data/cleaned/fact_sales.csv" download class="flex items-center px-4 py-3 hover:bg-slate-50 transition">
+                                <div class="p-2 bg-slate-100 text-slate-600 rounded-lg mr-3">
+                                    <i data-lucide="database" class="w-4 h-4"></i>
+                                </div>
+                                <div>
+                                    <p class="font-bold text-xs text-slate-900">Cleaned Fact Sales CSV</p>
+                                    <p class="text-[10px] text-slate-500">66,019 rows transactional records</p>
+                                </div>
+                            </a>
+
+                            <div class="p-2.5 border-t border-slate-100 bg-slate-50 rounded-b-xl">
+                                <button onclick="goToDownloadsTab()" class="w-full text-center py-2 px-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-xs font-semibold transition">
+                                    Open Full Downloads Center →
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <a href="https://github.com/utsav2311/retail-sales-customer-insights" target="_blank" class="hidden sm:flex items-center space-x-2 px-4 py-2 rounded-lg bg-white/10 hover:bg-white/20 text-sm font-medium transition duration-150 border border-white/20">
                         <i data-lucide="github" class="w-4 h-4"></i>
                         <span>GitHub Repo</span>
                     </a>
@@ -279,7 +340,7 @@
                         <h2 class="text-lg font-bold text-slate-900">Direct Data Downloads (Raw & Cleaned Excel/CSV)</h2>
                         <p class="text-xs text-slate-500">Download the complete underlying master datasets for your own analysis or portfolio review</p>
                     </div>
-                    <span class="px-3 py-1 bg-emerald-100 text-emerald-800 text-xs font-bold rounded-full">Instant Download</span>
+                    <span class="px-3 py-1 bg-emerald-100 text-emerald-800 text-xs font-bold rounded-full">Instant 1-Click Download</span>
                 </div>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -292,7 +353,7 @@
                             </div>
                             <p class="text-xs text-slate-600 mb-4">Contains 5-Year Revenue Summary, Raw Transactions, Raw Customers/Products, Cleaned Fact Sales, Dimensions & Dictionary.</p>
                         </div>
-                        <a href="https://raw.githubusercontent.com/utsav2311/retail-sales-customer-insights/main/data/retail_raw_and_cleaned_master.xlsx" download class="w-full text-center py-2.5 px-4 bg-blue-600 hover:bg-blue-700 text-white text-xs font-bold rounded-lg transition duration-150 flex items-center justify-center space-x-2">
+                        <a href="https://github.com/utsav2311/retail-sales-customer-insights/raw/main/data/retail_raw_and_cleaned_master.xlsx" download class="w-full text-center py-2.5 px-4 bg-blue-600 hover:bg-blue-700 text-white text-xs font-bold rounded-lg transition duration-150 flex items-center justify-center space-x-2 shadow">
                             <i data-lucide="download" class="w-4 h-4"></i>
                             <span>Download Master Excel (.xlsx)</span>
                         </a>
@@ -307,7 +368,7 @@
                             </div>
                             <p class="text-xs text-slate-600 mb-4">Complete financial analysis with dynamic formulas (`SUMIFS`, `COUNTIFS`, `AVERAGEIFS`, `XLOOKUP`), RFM & Executive Summary.</p>
                         </div>
-                        <a href="https://raw.githubusercontent.com/utsav2311/retail-sales-customer-insights/main/excel/retail_sales_analysis.xlsx" download class="w-full text-center py-2.5 px-4 bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-bold rounded-lg transition duration-150 flex items-center justify-center space-x-2">
+                        <a href="https://github.com/utsav2311/retail-sales-customer-insights/raw/main/excel/retail_sales_analysis.xlsx" download class="w-full text-center py-2.5 px-4 bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-bold rounded-lg transition duration-150 flex items-center justify-center space-x-2 shadow">
                             <i data-lucide="download" class="w-4 h-4"></i>
                             <span>Download Analytics Workbook (.xlsx)</span>
                         </a>
@@ -322,7 +383,7 @@
                             </div>
                             <p class="text-xs text-slate-600 mb-4">100% verified multi-tool reconciliation table comparing PostgreSQL vs Python vs Excel vs Power BI.</p>
                         </div>
-                        <a href="https://raw.githubusercontent.com/utsav2311/retail-sales-customer-insights/main/documentation/kpi_reconciliation.xlsx" download class="w-full text-center py-2.5 px-4 bg-purple-600 hover:bg-purple-700 text-white text-xs font-bold rounded-lg transition duration-150 flex items-center justify-center space-x-2">
+                        <a href="https://github.com/utsav2311/retail-sales-customer-insights/raw/main/documentation/kpi_reconciliation.xlsx" download class="w-full text-center py-2.5 px-4 bg-purple-600 hover:bg-purple-700 text-white text-xs font-bold rounded-lg transition duration-150 flex items-center justify-center space-x-2 shadow">
                             <i data-lucide="download" class="w-4 h-4"></i>
                             <span>Download Reconciliation (.xlsx)</span>
                         </a>
@@ -337,7 +398,7 @@
                             </div>
                             <p class="text-xs text-slate-600 mb-4">Transactional star schema fact table ready for direct import into PostgreSQL or Power BI.</p>
                         </div>
-                        <a href="https://raw.githubusercontent.com/utsav2311/retail-sales-customer-insights/main/data/cleaned/fact_sales.csv" download class="w-full text-center py-2 px-3 bg-slate-800 hover:bg-slate-900 text-white text-xs font-bold rounded-lg transition duration-150 flex items-center justify-center space-x-2">
+                        <a href="https://github.com/utsav2311/retail-sales-customer-insights/raw/main/data/cleaned/fact_sales.csv" download class="w-full text-center py-2 px-3 bg-slate-800 hover:bg-slate-900 text-white text-xs font-bold rounded-lg transition duration-150 flex items-center justify-center space-x-2">
                             <i data-lucide="download" class="w-4 h-4"></i>
                             <span>Download fact_sales.csv</span>
                         </a>
@@ -352,7 +413,7 @@
                             </div>
                             <p class="text-xs text-slate-600 mb-4">12,000 customers mapped to 8 behavioral RFM segments with recency, frequency, and monetary scores.</p>
                         </div>
-                        <a href="https://raw.githubusercontent.com/utsav2311/retail-sales-customer-insights/main/data/cleaned/customer_rfm_segments.csv" download class="w-full text-center py-2 px-3 bg-slate-800 hover:bg-slate-900 text-white text-xs font-bold rounded-lg transition duration-150 flex items-center justify-center space-x-2">
+                        <a href="https://github.com/utsav2311/retail-sales-customer-insights/raw/main/data/cleaned/customer_rfm_segments.csv" download class="w-full text-center py-2 px-3 bg-slate-800 hover:bg-slate-900 text-white text-xs font-bold rounded-lg transition duration-150 flex items-center justify-center space-x-2">
                             <i data-lucide="download" class="w-4 h-4"></i>
                             <span>Download customer_rfm.csv</span>
                         </a>
@@ -367,7 +428,7 @@
                             </div>
                             <p class="text-xs text-slate-600 mb-4">Comprehensive metadata dictionary explaining all 40 schema columns, data types, and primary/foreign keys.</p>
                         </div>
-                        <a href="https://raw.githubusercontent.com/utsav2311/retail-sales-customer-insights/main/data/data_dictionary.xlsx" download class="w-full text-center py-2 px-3 bg-slate-800 hover:bg-slate-900 text-white text-xs font-bold rounded-lg transition duration-150 flex items-center justify-center space-x-2">
+                        <a href="https://github.com/utsav2311/retail-sales-customer-insights/raw/main/data/data_dictionary.xlsx" download class="w-full text-center py-2 px-3 bg-slate-800 hover:bg-slate-900 text-white text-xs font-bold rounded-lg transition duration-150 flex items-center justify-center space-x-2">
                             <i data-lucide="download" class="w-4 h-4"></i>
                             <span>Download data_dictionary.xlsx</span>
                         </a>
@@ -502,6 +563,26 @@ FROM fact_sales;
             activeBtn.classList.add('text-blue-600', 'border-b-2', 'border-blue-600', 'font-semibold');
             activeBtn.classList.remove('text-slate-500');
         }
+
+        function toggleDownloadDropdown() {
+            const dropdown = document.getElementById('download-dropdown');
+            dropdown.classList.toggle('hidden');
+        }
+
+        function goToDownloadsTab() {
+            switchTab('tab-downloads');
+            document.getElementById('download-dropdown').classList.add('hidden');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // Close dropdown when clicked outside
+        document.addEventListener('click', function(event) {
+            const btn = document.getElementById('btn-top-download');
+            const dropdown = document.getElementById('download-dropdown');
+            if (btn && dropdown && !btn.contains(event.target) && !dropdown.contains(event.target)) {
+                dropdown.classList.add('hidden');
+            }
+        });
 
         // 1. Executive Trend Line
         const ctxTrend = document.getElementById('chart-exec-trend').getContext('2d');
