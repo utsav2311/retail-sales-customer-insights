@@ -1,0 +1,1221 @@
+product_id,product_name,category,subcategory,brand,unit_cost,unit_price,demand_weight
+PRD-1001,Noise Cables & Adapter V23,Electronics,Cables & Adapters,Noise,979.51,1469.0,1.45
+PRD-1002,Zebronics Cables & Adapter V37,Electronics,Cables & Adapters,Zebronics,1041.95,1619.0,1.45
+PRD-1003,Zebronics Wearables & Smartwatche V99,Electronics,Wearables & Smartwatches,Zebronics,659.86,909.0,1.45
+PRD-1004,JBL Smart Home Device V10,Electronics,Smart Home Devices,JBL,1318.73,1789.0,1.45
+PRD-1005,JBL Wearables & Smartwatche V53,Electronics,Wearables & Smartwatches,JBL,489.91,649.0,1.45
+PRD-1006,Noise Audio & Headphone V43,Electronics,Audio & Headphones,Noise,530.71,779.0,1.45
+PRD-1007,OnePlus Audio & Headphone V80,Electronics,Audio & Headphones,OnePlus,808.12,1179.0,1.45
+PRD-1008,SanDisk Mobile Accessorie V18,Electronics,Mobile Accessories,SanDisk,218.15,329.0,1.45
+PRD-1009,Realme Audio & Headphone V22,Electronics,Audio & Headphones,Realme,400.28,539.0,1.45
+PRD-1010,Logitech Computer Peripheral V55,Electronics,Computer Peripherals,Logitech,718.22,1089.0,1.45
+PRD-1011,Logitech Wearables & Smartwatche V91,Electronics,Wearables & Smartwatches,Logitech,284.72,439.0,1.45
+PRD-1012,Zebronics Wearables & Smartwatche V91,Electronics,Wearables & Smartwatches,Zebronics,177.55,259.0,1.45
+PRD-1013,Zebronics Cables & Adapter V17,Electronics,Cables & Adapters,Zebronics,1112.21,1519.0,1.45
+PRD-1014,Boat Wearables & Smartwatche V82,Electronics,Wearables & Smartwatches,Boat,219.65,339.0,1.45
+PRD-1015,Portronics Cables & Adapter V92,Electronics,Cables & Adapters,Portronics,1267.73,1699.0,1.45
+PRD-1016,Sony Computer Peripheral V43,Electronics,Computer Peripherals,Sony,501.52,709.0,1.45
+PRD-1017,SanDisk Cables & Adapter V27,Electronics,Cables & Adapters,SanDisk,634.92,929.0,1.45
+PRD-1018,OnePlus Smart Home Device V90,Electronics,Smart Home Devices,OnePlus,815.79,1249.0,1.45
+PRD-1019,JBL Wearables & Smartwatche V69,Electronics,Wearables & Smartwatches,JBL,568.49,799.0,1.45
+PRD-1020,Logitech Smart Home Device V24,Electronics,Smart Home Devices,Logitech,320.05,499.0,1.45
+PRD-1021,Zebronics Cables & Adapter V47,Electronics,Cables & Adapters,Zebronics,319.31,469.0,1.45
+PRD-1022,Sony Computer Peripheral V43,Electronics,Computer Peripherals,Sony,871.02,1169.0,1.45
+PRD-1023,Sony Smart Home Device V91,Electronics,Smart Home Devices,Sony,442.61,619.0,1.45
+PRD-1024,SanDisk Smart Home Device V77,Electronics,Smart Home Devices,SanDisk,1034.58,1569.0,1.45
+PRD-1025,SanDisk Audio & Headphone V49,Electronics,Audio & Headphones,SanDisk,420.08,559.0,1.45
+PRD-1026,Boat Wearables & Smartwatche V72,Electronics,Wearables & Smartwatches,Boat,1148.88,1769.0,1.45
+PRD-1027,Zebronics Audio & Headphone V80,Electronics,Audio & Headphones,Zebronics,166.59,239.0,1.45
+PRD-1028,Logitech Wearables & Smartwatche V79,Electronics,Wearables & Smartwatches,Logitech,709.62,939.0,1.45
+PRD-1029,Realme Cables & Adapter V57,Electronics,Cables & Adapters,Realme,244.28,339.0,1.45
+PRD-1030,Zebronics Computer Peripheral V12,Electronics,Computer Peripherals,Zebronics,459.21,709.0,1.45
+PRD-1031,Zebronics Smart Home Device V90,Electronics,Smart Home Devices,Zebronics,920.25,1419.0,1.45
+PRD-1032,Realme Audio & Headphone V75,Electronics,Audio & Headphones,Realme,835.29,1229.0,1.45
+PRD-1033,Logitech Wearables & Smartwatche V83,Electronics,Wearables & Smartwatches,Logitech,176.43,269.0,1.45
+PRD-1034,OnePlus Smart Home Device V22,Electronics,Smart Home Devices,OnePlus,1149.69,1669.0,1.45
+PRD-1035,JBL Audio & Headphone V16,Electronics,Audio & Headphones,JBL,609.06,819.0,1.45
+PRD-1036,Noise Cables & Adapter V23,Electronics,Cables & Adapters,Noise,1419.88,1929.0,1.45
+PRD-1037,Realme Wearables & Smartwatche V45,Electronics,Wearables & Smartwatches,Realme,1138.84,1649.0,1.45
+PRD-1038,Realme Computer Peripheral V80,Electronics,Computer Peripherals,Realme,168.76,229.0,1.45
+PRD-1039,Boat Audio & Headphone V21,Electronics,Audio & Headphones,Boat,249.65,389.0,1.45
+PRD-1040,Sony Wearables & Smartwatche V17,Electronics,Wearables & Smartwatches,Sony,638.89,859.0,1.45
+PRD-1041,JBL Wearables & Smartwatche V68,Electronics,Wearables & Smartwatches,JBL,1193.63,1589.0,1.45
+PRD-1042,JBL Mobile Accessorie V94,Electronics,Mobile Accessories,JBL,329.57,449.0,1.45
+PRD-1043,OnePlus Cables & Adapter V84,Electronics,Cables & Adapters,OnePlus,1133.61,1499.0,1.45
+PRD-1044,Zebronics Cables & Adapter V71,Electronics,Cables & Adapters,Zebronics,974.84,1509.0,1.45
+PRD-1045,Zebronics Smart Home Device V33,Electronics,Smart Home Devices,Zebronics,1402.52,2159.0,1.45
+PRD-1046,SanDisk Audio & Headphone V82,Electronics,Audio & Headphones,SanDisk,1417.52,2059.0,1.45
+PRD-1047,SanDisk Wearables & Smartwatche V84,Electronics,Wearables & Smartwatches,SanDisk,655.1,949.0,1.45
+PRD-1048,Zebronics Smart Home Device V50,Electronics,Smart Home Devices,Zebronics,517.94,719.0,1.45
+PRD-1049,Logitech Wearables & Smartwatche V50,Electronics,Wearables & Smartwatches,Logitech,668.56,989.0,1.45
+PRD-1050,Boat Audio & Headphone V19,Electronics,Audio & Headphones,Boat,910.68,1199.0,1.45
+PRD-1051,Realme Smart Home Device V18,Electronics,Smart Home Devices,Realme,435.72,639.0,1.45
+PRD-1052,Portronics Wearables & Smartwatche V48,Electronics,Wearables & Smartwatches,Portronics,584.6,829.0,1.45
+PRD-1053,Zebronics Smart Home Device V94,Electronics,Smart Home Devices,Zebronics,1364.69,2019.0,1.45
+PRD-1054,Sony Audio & Headphone V29,Electronics,Audio & Headphones,Sony,823.14,1129.0,1.45
+PRD-1055,Logitech Mobile Accessorie V91,Electronics,Mobile Accessories,Logitech,677.06,1019.0,1.45
+PRD-1056,Zebronics Mobile Accessorie V21,Electronics,Mobile Accessories,Zebronics,844.61,1139.0,1.45
+PRD-1057,JBL Cables & Adapter V26,Electronics,Cables & Adapters,JBL,142.13,209.0,1.45
+PRD-1058,Logitech Cables & Adapter V81,Electronics,Cables & Adapters,Logitech,1187.75,1639.0,1.45
+PRD-1059,Noise Audio & Headphone V79,Electronics,Audio & Headphones,Noise,1556.07,2079.0,1.45
+PRD-1060,Portronics Audio & Headphone V49,Electronics,Audio & Headphones,Portronics,425.29,649.0,1.45
+PRD-1061,Boat Mobile Accessorie V23,Electronics,Mobile Accessories,Boat,180.21,269.0,1.45
+PRD-1062,Zebronics Mobile Accessorie V29,Electronics,Mobile Accessories,Zebronics,242.21,339.0,1.45
+PRD-1063,Sony Wearables & Smartwatche V13,Electronics,Wearables & Smartwatches,Sony,357.22,479.0,1.45
+PRD-1064,Portronics Wearables & Smartwatche V41,Electronics,Wearables & Smartwatches,Portronics,244.21,339.0,1.45
+PRD-1065,Sony Mobile Accessorie V70,Electronics,Mobile Accessories,Sony,177.97,239.0,1.45
+PRD-1066,Realme Wearables & Smartwatche V39,Electronics,Wearables & Smartwatches,Realme,242.91,359.0,1.45
+PRD-1067,Boat Wearables & Smartwatche V18,Electronics,Wearables & Smartwatches,Boat,228.29,339.0,1.45
+PRD-1068,Portronics Mobile Accessorie V78,Electronics,Mobile Accessories,Portronics,613.01,809.0,1.45
+PRD-1069,Boat Mobile Accessorie V43,Electronics,Mobile Accessories,Boat,1434.64,2169.0,1.45
+PRD-1070,Noise Audio & Headphone V65,Electronics,Audio & Headphones,Noise,564.73,769.0,1.45
+PRD-1071,Zebronics Smart Home Device V15,Electronics,Smart Home Devices,Zebronics,1391.24,2099.0,1.45
+PRD-1072,JBL Cables & Adapter V95,Electronics,Cables & Adapters,JBL,1493.08,2119.0,1.45
+PRD-1073,Portronics Wearables & Smartwatche V89,Electronics,Wearables & Smartwatches,Portronics,877.33,1169.0,1.45
+PRD-1074,Noise Mobile Accessorie V62,Electronics,Mobile Accessories,Noise,202.46,299.0,1.45
+PRD-1075,JBL Mobile Accessorie V95,Electronics,Mobile Accessories,JBL,257.92,389.0,1.45
+PRD-1076,Sony Computer Peripheral V10,Electronics,Computer Peripherals,Sony,528.61,749.0,1.45
+PRD-1077,Logitech Mobile Accessorie V51,Electronics,Mobile Accessories,Logitech,1410.63,1979.0,1.45
+PRD-1078,OnePlus Computer Peripheral V31,Electronics,Computer Peripherals,OnePlus,480.08,689.0,1.45
+PRD-1079,Noise Cables & Adapter V21,Electronics,Cables & Adapters,Noise,699.31,979.0,1.45
+PRD-1080,Logitech Wearables & Smartwatche V41,Electronics,Wearables & Smartwatches,Logitech,899.46,1399.0,1.45
+PRD-1081,SanDisk Computer Peripheral V90,Electronics,Computer Peripherals,SanDisk,151.05,219.0,1.45
+PRD-1082,Realme Smart Home Device V28,Electronics,Smart Home Devices,Realme,226.34,329.0,1.45
+PRD-1083,Boat Cables & Adapter V64,Electronics,Cables & Adapters,Boat,372.38,499.0,1.45
+PRD-1084,Sony Wearables & Smartwatche V81,Electronics,Wearables & Smartwatches,Sony,305.43,439.0,1.45
+PRD-1085,Noise Wearables & Smartwatche V81,Electronics,Wearables & Smartwatches,Noise,769.8,1069.0,1.45
+PRD-1086,Portronics Smart Home Device V74,Electronics,Smart Home Devices,Portronics,363.18,509.0,1.45
+PRD-1087,Zebronics Computer Peripheral V67,Electronics,Computer Peripherals,Zebronics,482.45,649.0,1.45
+PRD-1088,Realme Mobile Accessorie V72,Electronics,Mobile Accessories,Realme,219.26,299.0,1.45
+PRD-1089,Realme Cables & Adapter V44,Electronics,Cables & Adapters,Realme,403.9,599.0,1.45
+PRD-1090,Portronics Mobile Accessorie V59,Electronics,Mobile Accessories,Portronics,150.7,229.0,1.45
+PRD-1091,Sony Cables & Adapter V79,Electronics,Cables & Adapters,Sony,150.87,219.0,1.45
+PRD-1092,JBL Computer Peripheral V84,Electronics,Computer Peripherals,JBL,1393.39,2029.0,1.45
+PRD-1093,Boat Cables & Adapter V10,Electronics,Cables & Adapters,Boat,321.57,469.0,1.45
+PRD-1094,Logitech Mobile Accessorie V63,Electronics,Mobile Accessories,Logitech,376.45,499.0,1.45
+PRD-1095,Zebronics Smart Home Device V44,Electronics,Smart Home Devices,Zebronics,355.58,509.0,1.45
+PRD-1096,OnePlus Computer Peripheral V61,Electronics,Computer Peripherals,OnePlus,1110.38,1539.0,1.45
+PRD-1097,Sony Cables & Adapter V78,Electronics,Cables & Adapters,Sony,393.24,519.0,1.45
+PRD-1098,JBL Audio & Headphone V64,Electronics,Audio & Headphones,JBL,636.42,979.0,1.45
+PRD-1099,OnePlus Wearables & Smartwatche V68,Electronics,Wearables & Smartwatches,OnePlus,991.07,1459.0,1.45
+PRD-1100,Portronics Mobile Accessorie V63,Electronics,Mobile Accessories,Portronics,240.25,329.0,1.45
+PRD-1101,Noise Mobile Accessorie V54,Electronics,Mobile Accessories,Noise,671.45,1039.0,1.45
+PRD-1102,Noise Wearables & Smartwatche V41,Electronics,Wearables & Smartwatches,Noise,313.39,429.0,1.45
+PRD-1103,Boat Wearables & Smartwatche V24,Electronics,Wearables & Smartwatches,Boat,487.08,699.0,1.45
+PRD-1104,Realme Smart Home Device V87,Electronics,Smart Home Devices,Realme,491.99,719.0,1.45
+PRD-1105,Noise Smart Home Device V84,Electronics,Smart Home Devices,Noise,175.43,259.0,1.45
+PRD-1106,Logitech Audio & Headphone V35,Electronics,Audio & Headphones,Logitech,780.26,1139.0,1.45
+PRD-1107,SanDisk Audio & Headphone V48,Electronics,Audio & Headphones,SanDisk,273.28,419.0,1.45
+PRD-1108,SanDisk Cables & Adapter V15,Electronics,Cables & Adapters,SanDisk,339.09,479.0,1.45
+PRD-1109,Zebronics Mobile Accessorie V53,Electronics,Mobile Accessories,Zebronics,552.86,789.0,1.45
+PRD-1110,JBL Audio & Headphone V91,Electronics,Audio & Headphones,JBL,180.52,239.0,1.45
+PRD-1111,Sony Computer Peripheral V44,Electronics,Computer Peripherals,Sony,777.78,1029.0,1.45
+PRD-1112,Zebronics Smart Home Device V85,Electronics,Smart Home Devices,Zebronics,265.33,359.0,1.45
+PRD-1113,Portronics Mobile Accessorie V67,Electronics,Mobile Accessories,Portronics,318.05,489.0,1.45
+PRD-1114,OnePlus Wearables & Smartwatche V73,Electronics,Wearables & Smartwatches,OnePlus,666.08,979.0,1.45
+PRD-1115,Sony Mobile Accessorie V45,Electronics,Mobile Accessories,Sony,522.71,779.0,1.45
+PRD-1116,Logitech Smart Home Device V40,Electronics,Smart Home Devices,Logitech,589.34,889.0,1.45
+PRD-1117,JBL Cables & Adapter V92,Electronics,Cables & Adapters,JBL,751.07,1039.0,1.45
+PRD-1118,OnePlus Cables & Adapter V61,Electronics,Cables & Adapters,OnePlus,377.5,559.0,1.45
+PRD-1119,Realme Cables & Adapter V77,Electronics,Cables & Adapters,Realme,647.32,929.0,1.45
+PRD-1120,JBL Mobile Accessorie V68,Electronics,Mobile Accessories,JBL,265.38,389.0,1.45
+PRD-1121,Logitech Mobile Accessorie V25,Electronics,Mobile Accessories,Logitech,417.1,629.0,1.45
+PRD-1122,Zebronics Cables & Adapter V71,Electronics,Cables & Adapters,Zebronics,291.05,439.0,1.45
+PRD-1123,SanDisk Mobile Accessorie V22,Electronics,Mobile Accessories,SanDisk,255.43,379.0,1.45
+PRD-1124,Logitech Wearables & Smartwatche V78,Electronics,Wearables & Smartwatches,Logitech,884.9,1379.0,1.45
+PRD-1125,Logitech Wearables & Smartwatche V26,Electronics,Wearables & Smartwatches,Logitech,843.15,1249.0,1.45
+PRD-1126,OnePlus Cables & Adapter V71,Electronics,Cables & Adapters,OnePlus,815.01,1209.0,1.45
+PRD-1127,Portronics Computer Peripheral V71,Electronics,Computer Peripherals,Portronics,940.41,1249.0,1.45
+PRD-1128,Noise Audio & Headphone V16,Electronics,Audio & Headphones,Noise,428.6,599.0,1.45
+PRD-1129,Sony Wearables & Smartwatche V41,Electronics,Wearables & Smartwatches,Sony,343.97,529.0,1.45
+PRD-1130,Zebronics Audio & Headphone V38,Electronics,Audio & Headphones,Zebronics,300.57,409.0,1.45
+PRD-1131,JBL Smart Home Device V64,Electronics,Smart Home Devices,JBL,623.56,839.0,1.45
+PRD-1132,SanDisk Mobile Accessorie V36,Electronics,Mobile Accessories,SanDisk,691.64,949.0,1.45
+PRD-1133,Realme Cables & Adapter V80,Electronics,Cables & Adapters,Realme,400.6,599.0,1.45
+PRD-1134,Sony Audio & Headphone V47,Electronics,Audio & Headphones,Sony,1172.86,1649.0,1.45
+PRD-1135,Realme Audio & Headphone V19,Electronics,Audio & Headphones,Realme,541.76,729.0,1.45
+PRD-1136,Realme Cables & Adapter V94,Electronics,Cables & Adapters,Realme,335.34,469.0,1.45
+PRD-1137,JBL Wearables & Smartwatche V44,Electronics,Wearables & Smartwatches,JBL,933.53,1419.0,1.45
+PRD-1138,Noise Wearables & Smartwatche V82,Electronics,Wearables & Smartwatches,Noise,1414.99,1989.0,1.45
+PRD-1139,OnePlus Mobile Accessorie V44,Electronics,Mobile Accessories,OnePlus,1367.58,1889.0,1.45
+PRD-1140,Zebronics Smart Home Device V65,Electronics,Smart Home Devices,Zebronics,386.23,599.0,1.45
+PRD-1141,Portronics Cables & Adapter V96,Electronics,Cables & Adapters,Portronics,379.79,569.0,1.45
+PRD-1142,SanDisk Smart Home Device V44,Electronics,Smart Home Devices,SanDisk,395.65,549.0,1.45
+PRD-1143,Boat Smart Home Device V66,Electronics,Smart Home Devices,Boat,181.89,259.0,1.45
+PRD-1144,Sony Mobile Accessorie V21,Electronics,Mobile Accessories,Sony,257.46,349.0,1.45
+PRD-1145,Portronics Computer Peripheral V30,Electronics,Computer Peripherals,Portronics,495.29,759.0,1.45
+PRD-1146,JBL Mobile Accessorie V80,Electronics,Mobile Accessories,JBL,225.27,299.0,1.45
+PRD-1147,OnePlus Audio & Headphone V61,Electronics,Audio & Headphones,OnePlus,947.52,1449.0,1.45
+PRD-1148,Boat Smart Home Device V34,Electronics,Smart Home Devices,Boat,268.25,389.0,1.45
+PRD-1149,Portronics Smart Home Device V16,Electronics,Smart Home Devices,Portronics,602.26,869.0,1.45
+PRD-1150,Logitech Wearables & Smartwatche V99,Electronics,Wearables & Smartwatches,Logitech,795.77,1149.0,1.45
+PRD-1151,Noise Computer Peripheral V30,Electronics,Computer Peripherals,Noise,1345.99,1829.0,1.45
+PRD-1152,Zebronics Mobile Accessorie V24,Electronics,Mobile Accessories,Zebronics,1073.15,1609.0,1.45
+PRD-1153,Noise Computer Peripheral V47,Electronics,Computer Peripherals,Noise,488.0,649.0,1.45
+PRD-1154,Logitech Smart Home Device V68,Electronics,Smart Home Devices,Logitech,598.44,859.0,1.45
+PRD-1155,Sony Smart Home Device V27,Electronics,Smart Home Devices,Sony,805.44,1149.0,1.45
+PRD-1156,Logitech Audio & Headphone V74,Electronics,Audio & Headphones,Logitech,339.71,499.0,1.45
+PRD-1157,Boat Mobile Accessorie V94,Electronics,Mobile Accessories,Boat,525.01,739.0,1.45
+PRD-1158,Sony Computer Peripheral V79,Electronics,Computer Peripherals,Sony,584.03,859.0,1.45
+PRD-1159,OnePlus Computer Peripheral V40,Electronics,Computer Peripherals,OnePlus,378.09,499.0,1.45
+PRD-1160,JBL Smart Home Device V70,Electronics,Smart Home Devices,JBL,1270.47,1969.0,1.45
+PRD-1161,JBL Cables & Adapter V29,Electronics,Cables & Adapters,JBL,722.98,979.0,1.45
+PRD-1162,Boat Computer Peripheral V22,Electronics,Computer Peripherals,Boat,1467.77,2159.0,1.45
+PRD-1163,Noise Computer Peripheral V62,Electronics,Computer Peripherals,Noise,616.96,849.0,1.45
+PRD-1164,Sony Cables & Adapter V89,Electronics,Cables & Adapters,Sony,1329.5,1979.0,1.45
+PRD-1165,JBL Cables & Adapter V78,Electronics,Cables & Adapters,JBL,815.77,1099.0,1.45
+PRD-1166,Portronics Computer Peripheral V79,Electronics,Computer Peripherals,Portronics,788.67,1129.0,1.45
+PRD-1167,SanDisk Audio & Headphone V39,Electronics,Audio & Headphones,SanDisk,1372.69,1829.0,1.45
+PRD-1168,Noise Cables & Adapter V22,Electronics,Cables & Adapters,Noise,436.07,609.0,1.45
+PRD-1169,Sony Computer Peripheral V17,Electronics,Computer Peripherals,Sony,335.02,519.0,1.45
+PRD-1170,Portronics Mobile Accessorie V82,Electronics,Mobile Accessories,Portronics,449.69,639.0,1.45
+PRD-1171,Sony Cables & Adapter V89,Electronics,Cables & Adapters,Sony,952.22,1279.0,1.45
+PRD-1172,Realme Cables & Adapter V91,Electronics,Cables & Adapters,Realme,620.44,929.0,1.45
+PRD-1173,OnePlus Mobile Accessorie V46,Electronics,Mobile Accessories,OnePlus,411.73,559.0,1.45
+PRD-1174,Zebronics Cables & Adapter V85,Electronics,Cables & Adapters,Zebronics,1116.93,1639.0,1.45
+PRD-1175,JBL Mobile Accessorie V59,Electronics,Mobile Accessories,JBL,242.78,359.0,1.45
+PRD-1176,Noise Computer Peripheral V99,Electronics,Computer Peripherals,Noise,1254.18,1769.0,1.45
+PRD-1177,Boat Mobile Accessorie V82,Electronics,Mobile Accessories,Boat,288.69,429.0,1.45
+PRD-1178,Boat Cables & Adapter V46,Electronics,Cables & Adapters,Boat,339.63,459.0,1.45
+PRD-1179,SanDisk Wearables & Smartwatche V42,Electronics,Wearables & Smartwatches,SanDisk,184.93,279.0,1.45
+PRD-1180,Sony Cables & Adapter V49,Electronics,Cables & Adapters,Sony,817.3,1139.0,1.45
+PRD-1181,Zara Jeans & Trouser V21,Fashion & Apparel,Jeans & Trousers,Zara,429.87,779.0,1.25
+PRD-1182,Biba Ethnic Kurta V26,Fashion & Apparel,Ethnic Kurtas,Biba,428.58,949.0,1.25
+PRD-1183,Biba Activewear V31,Fashion & Apparel,Activewear,Biba,426.05,729.0,1.25
+PRD-1184,Puma Ethnic Kurta V53,Fashion & Apparel,Ethnic Kurtas,Puma,553.08,1169.0,1.25
+PRD-1185,Puma Men's T-Shirt V38,Fashion & Apparel,Men's T-Shirts,Puma,516.14,1159.0,1.25
+PRD-1186,Van Heusen Dresse V56,Fashion & Apparel,Dresses,Van Heusen,660.28,1169.0,1.25
+PRD-1187,Van Heusen Men's T-Shirt V68,Fashion & Apparel,Men's T-Shirts,Van Heusen,107.97,209.0,1.25
+PRD-1188,Allen Solly Ethnic Kurta V57,Fashion & Apparel,Ethnic Kurtas,Allen Solly,442.5,779.0,1.25
+PRD-1189,FabIndia Men's T-Shirt V81,Fashion & Apparel,Men's T-Shirts,FabIndia,355.59,669.0,1.25
+PRD-1190,FabIndia Ethnic Kurta V69,Fashion & Apparel,Ethnic Kurtas,FabIndia,453.68,849.0,1.25
+PRD-1191,Allen Solly Dresse V15,Fashion & Apparel,Dresses,Allen Solly,374.41,849.0,1.25
+PRD-1192,Allen Solly Men's T-Shirt V40,Fashion & Apparel,Men's T-Shirts,Allen Solly,524.23,1189.0,1.25
+PRD-1193,H&M Activewear V99,Fashion & Apparel,Activewear,H&M,286.71,589.0,1.25
+PRD-1194,Van Heusen Activewear V63,Fashion & Apparel,Activewear,Van Heusen,434.57,789.0,1.25
+PRD-1195,Levi's Dresse V45,Fashion & Apparel,Dresses,Levi's,546.21,1029.0,1.25
+PRD-1196,Biba Men's T-Shirt V40,Fashion & Apparel,Men's T-Shirts,Biba,209.52,419.0,1.25
+PRD-1197,Levi's Ethnic Kurta V92,Fashion & Apparel,Ethnic Kurtas,Levi's,573.14,1179.0,1.25
+PRD-1198,Zara Ethnic Kurta V25,Fashion & Apparel,Ethnic Kurtas,Zara,272.05,599.0,1.25
+PRD-1199,Levi's Jeans & Trouser V86,Fashion & Apparel,Jeans & Trousers,Levi's,460.0,859.0,1.25
+PRD-1200,Zara Men's T-Shirt V26,Fashion & Apparel,Men's T-Shirts,Zara,458.74,989.0,1.25
+PRD-1201,FabIndia Activewear V36,Fashion & Apparel,Activewear,FabIndia,150.03,269.0,1.25
+PRD-1202,FabIndia Activewear V28,Fashion & Apparel,Activewear,FabIndia,466.1,1009.0,1.25
+PRD-1203,Zara Activewear V26,Fashion & Apparel,Activewear,Zara,286.02,479.0,1.25
+PRD-1204,Allen Solly Activewear V13,Fashion & Apparel,Activewear,Allen Solly,439.35,999.0,1.25
+PRD-1205,Zara Women's Tops & Tee V85,Fashion & Apparel,Women's Tops & Tees,Zara,314.11,559.0,1.25
+PRD-1206,Zara Ethnic Kurta V63,Fashion & Apparel,Ethnic Kurtas,Zara,158.46,369.0,1.25
+PRD-1207,Levi's Activewear V56,Fashion & Apparel,Activewear,Levi's,474.88,939.0,1.25
+PRD-1208,Levi's Activewear V88,Fashion & Apparel,Activewear,Levi's,298.46,649.0,1.25
+PRD-1209,Max Men's T-Shirt V13,Fashion & Apparel,Men's T-Shirts,Max,267.36,499.0,1.25
+PRD-1210,Puma Men's T-Shirt V23,Fashion & Apparel,Men's T-Shirts,Puma,521.07,1049.0,1.25
+PRD-1211,Puma Jeans & Trouser V87,Fashion & Apparel,Jeans & Trousers,Puma,116.89,269.0,1.25
+PRD-1212,Levi's Women's Tops & Tee V84,Fashion & Apparel,Women's Tops & Tees,Levi's,175.15,329.0,1.25
+PRD-1213,Biba Activewear V47,Fashion & Apparel,Activewear,Biba,305.44,579.0,1.25
+PRD-1214,Max Jeans & Trouser V99,Fashion & Apparel,Jeans & Trousers,Max,349.84,799.0,1.25
+PRD-1215,Max Men's T-Shirt V67,Fashion & Apparel,Men's T-Shirts,Max,421.55,919.0,1.25
+PRD-1216,Van Heusen Women's Tops & Tee V63,Fashion & Apparel,Women's Tops & Tees,Van Heusen,270.38,539.0,1.25
+PRD-1217,Levi's Dresse V42,Fashion & Apparel,Dresses,Levi's,242.41,509.0,1.25
+PRD-1218,H&M Ethnic Kurta V21,Fashion & Apparel,Ethnic Kurtas,H&M,449.27,889.0,1.25
+PRD-1219,Levi's Men's T-Shirt V57,Fashion & Apparel,Men's T-Shirts,Levi's,348.48,629.0,1.25
+PRD-1220,Max Women's Tops & Tee V81,Fashion & Apparel,Women's Tops & Tees,Max,153.38,259.0,1.25
+PRD-1221,Levi's Ethnic Kurta V64,Fashion & Apparel,Ethnic Kurtas,Levi's,351.54,609.0,1.25
+PRD-1222,Zara Dresse V55,Fashion & Apparel,Dresses,Zara,617.32,1169.0,1.25
+PRD-1223,Max Men's T-Shirt V38,Fashion & Apparel,Men's T-Shirts,Max,220.13,409.0,1.25
+PRD-1224,Biba Men's T-Shirt V45,Fashion & Apparel,Men's T-Shirts,Biba,505.12,1039.0,1.25
+PRD-1225,FabIndia Activewear V89,Fashion & Apparel,Activewear,FabIndia,577.28,1009.0,1.25
+PRD-1226,Max Activewear V98,Fashion & Apparel,Activewear,Max,134.48,229.0,1.25
+PRD-1227,Zara Ethnic Kurta V49,Fashion & Apparel,Ethnic Kurtas,Zara,207.12,379.0,1.25
+PRD-1228,Biba Ethnic Kurta V82,Fashion & Apparel,Ethnic Kurtas,Biba,120.5,209.0,1.25
+PRD-1229,Van Heusen Dresse V13,Fashion & Apparel,Dresses,Van Heusen,148.86,269.0,1.25
+PRD-1230,Max Men's T-Shirt V53,Fashion & Apparel,Men's T-Shirts,Max,202.69,409.0,1.25
+PRD-1231,Biba Women's Tops & Tee V82,Fashion & Apparel,Women's Tops & Tees,Biba,243.5,509.0,1.25
+PRD-1232,Levi's Activewear V89,Fashion & Apparel,Activewear,Levi's,483.4,1079.0,1.25
+PRD-1233,Levi's Men's T-Shirt V72,Fashion & Apparel,Men's T-Shirts,Levi's,252.86,469.0,1.25
+PRD-1234,Puma Activewear V75,Fashion & Apparel,Activewear,Puma,279.41,609.0,1.25
+PRD-1235,Biba Men's T-Shirt V96,Fashion & Apparel,Men's T-Shirts,Biba,296.25,629.0,1.25
+PRD-1236,Puma Activewear V38,Fashion & Apparel,Activewear,Puma,346.65,729.0,1.25
+PRD-1237,Zara Jeans & Trouser V37,Fashion & Apparel,Jeans & Trousers,Zara,99.12,209.0,1.25
+PRD-1238,Allen Solly Women's Tops & Tee V73,Fashion & Apparel,Women's Tops & Tees,Allen Solly,215.94,489.0,1.25
+PRD-1239,Van Heusen Dresse V39,Fashion & Apparel,Dresses,Van Heusen,180.23,369.0,1.25
+PRD-1240,Max Activewear V19,Fashion & Apparel,Activewear,Max,581.5,1029.0,1.25
+PRD-1241,Zara Jeans & Trouser V19,Fashion & Apparel,Jeans & Trousers,Zara,321.26,639.0,1.25
+PRD-1242,Van Heusen Ethnic Kurta V63,Fashion & Apparel,Ethnic Kurtas,Van Heusen,421.19,769.0,1.25
+PRD-1243,Levi's Ethnic Kurta V31,Fashion & Apparel,Ethnic Kurtas,Levi's,355.76,599.0,1.25
+PRD-1244,Puma Activewear V21,Fashion & Apparel,Activewear,Puma,602.54,1029.0,1.25
+PRD-1245,Levi's Jeans & Trouser V77,Fashion & Apparel,Jeans & Trousers,Levi's,230.91,439.0,1.25
+PRD-1246,Van Heusen Men's T-Shirt V38,Fashion & Apparel,Men's T-Shirts,Van Heusen,592.49,1069.0,1.25
+PRD-1247,H&M Ethnic Kurta V77,Fashion & Apparel,Ethnic Kurtas,H&M,148.98,279.0,1.25
+PRD-1248,FabIndia Activewear V92,Fashion & Apparel,Activewear,FabIndia,530.69,1099.0,1.25
+PRD-1249,FabIndia Women's Tops & Tee V32,Fashion & Apparel,Women's Tops & Tees,FabIndia,139.36,299.0,1.25
+PRD-1250,H&M Activewear V32,Fashion & Apparel,Activewear,H&M,515.93,959.0,1.25
+PRD-1251,Puma Dresse V84,Fashion & Apparel,Dresses,Puma,343.65,659.0,1.25
+PRD-1252,Biba Jeans & Trouser V29,Fashion & Apparel,Jeans & Trousers,Biba,564.34,1059.0,1.25
+PRD-1253,Levi's Jeans & Trouser V45,Fashion & Apparel,Jeans & Trousers,Levi's,357.01,669.0,1.25
+PRD-1254,Zara Activewear V69,Fashion & Apparel,Activewear,Zara,237.91,549.0,1.25
+PRD-1255,Zara Jeans & Trouser V19,Fashion & Apparel,Jeans & Trousers,Zara,147.55,259.0,1.25
+PRD-1256,Levi's Dresse V69,Fashion & Apparel,Dresses,Levi's,413.62,809.0,1.25
+PRD-1257,Max Activewear V15,Fashion & Apparel,Activewear,Max,635.4,1149.0,1.25
+PRD-1258,FabIndia Jeans & Trouser V29,Fashion & Apparel,Jeans & Trousers,FabIndia,262.41,519.0,1.25
+PRD-1259,Puma Men's T-Shirt V53,Fashion & Apparel,Men's T-Shirts,Puma,173.97,299.0,1.25
+PRD-1260,Levi's Dresse V41,Fashion & Apparel,Dresses,Levi's,315.29,699.0,1.25
+PRD-1261,Puma Dresse V88,Fashion & Apparel,Dresses,Puma,611.54,1189.0,1.25
+PRD-1262,Biba Women's Tops & Tee V62,Fashion & Apparel,Women's Tops & Tees,Biba,267.95,569.0,1.25
+PRD-1263,Zara Ethnic Kurta V18,Fashion & Apparel,Ethnic Kurtas,Zara,530.61,989.0,1.25
+PRD-1264,Levi's Ethnic Kurta V42,Fashion & Apparel,Ethnic Kurtas,Levi's,371.59,759.0,1.25
+PRD-1265,H&M Dresse V28,Fashion & Apparel,Dresses,H&M,277.67,529.0,1.25
+PRD-1266,Allen Solly Ethnic Kurta V60,Fashion & Apparel,Ethnic Kurtas,Allen Solly,637.95,1169.0,1.25
+PRD-1267,Levi's Women's Tops & Tee V52,Fashion & Apparel,Women's Tops & Tees,Levi's,248.29,509.0,1.25
+PRD-1268,Max Women's Tops & Tee V75,Fashion & Apparel,Women's Tops & Tees,Max,156.26,289.0,1.25
+PRD-1269,Zara Ethnic Kurta V37,Fashion & Apparel,Ethnic Kurtas,Zara,252.92,559.0,1.25
+PRD-1270,Puma Ethnic Kurta V29,Fashion & Apparel,Ethnic Kurtas,Puma,233.4,389.0,1.25
+PRD-1271,Allen Solly Men's T-Shirt V79,Fashion & Apparel,Men's T-Shirts,Allen Solly,455.3,1039.0,1.25
+PRD-1272,Max Dresse V89,Fashion & Apparel,Dresses,Max,114.87,239.0,1.25
+PRD-1273,Van Heusen Women's Tops & Tee V98,Fashion & Apparel,Women's Tops & Tees,Van Heusen,157.94,349.0,1.25
+PRD-1274,H&M Activewear V56,Fashion & Apparel,Activewear,H&M,393.21,919.0,1.25
+PRD-1275,FabIndia Dresse V67,Fashion & Apparel,Dresses,FabIndia,619.46,1169.0,1.25
+PRD-1276,Max Women's Tops & Tee V70,Fashion & Apparel,Women's Tops & Tees,Max,260.68,439.0,1.25
+PRD-1277,Biba Women's Tops & Tee V66,Fashion & Apparel,Women's Tops & Tees,Biba,459.43,879.0,1.25
+PRD-1278,Allen Solly Jeans & Trouser V63,Fashion & Apparel,Jeans & Trousers,Allen Solly,499.8,979.0,1.25
+PRD-1279,FabIndia Women's Tops & Tee V42,Fashion & Apparel,Women's Tops & Tees,FabIndia,444.47,999.0,1.25
+PRD-1280,Puma Men's T-Shirt V23,Fashion & Apparel,Men's T-Shirts,Puma,555.68,1069.0,1.25
+PRD-1281,Max Dresse V30,Fashion & Apparel,Dresses,Max,494.41,1049.0,1.25
+PRD-1282,Puma Ethnic Kurta V65,Fashion & Apparel,Ethnic Kurtas,Puma,490.73,1099.0,1.25
+PRD-1283,FabIndia Men's T-Shirt V13,Fashion & Apparel,Men's T-Shirts,FabIndia,590.24,1019.0,1.25
+PRD-1284,Zara Jeans & Trouser V59,Fashion & Apparel,Jeans & Trousers,Zara,291.9,599.0,1.25
+PRD-1285,Biba Men's T-Shirt V22,Fashion & Apparel,Men's T-Shirts,Biba,200.02,419.0,1.25
+PRD-1286,Biba Dresse V46,Fashion & Apparel,Dresses,Biba,439.88,989.0,1.25
+PRD-1287,H&M Jeans & Trouser V88,Fashion & Apparel,Jeans & Trousers,H&M,483.76,959.0,1.25
+PRD-1288,Levi's Men's T-Shirt V29,Fashion & Apparel,Men's T-Shirts,Levi's,100.48,219.0,1.25
+PRD-1289,Max Activewear V40,Fashion & Apparel,Activewear,Max,346.46,619.0,1.25
+PRD-1290,Levi's Ethnic Kurta V89,Fashion & Apparel,Ethnic Kurtas,Levi's,123.4,249.0,1.25
+PRD-1291,Levi's Jeans & Trouser V86,Fashion & Apparel,Jeans & Trousers,Levi's,180.12,309.0,1.25
+PRD-1292,Zara Activewear V28,Fashion & Apparel,Activewear,Zara,433.99,829.0,1.25
+PRD-1293,Van Heusen Ethnic Kurta V83,Fashion & Apparel,Ethnic Kurtas,Van Heusen,96.22,199.0,1.25
+PRD-1294,H&M Jeans & Trouser V56,Fashion & Apparel,Jeans & Trousers,H&M,374.02,859.0,1.25
+PRD-1295,Max Men's T-Shirt V74,Fashion & Apparel,Men's T-Shirts,Max,414.99,739.0,1.25
+PRD-1296,Zara Activewear V91,Fashion & Apparel,Activewear,Zara,297.22,589.0,1.25
+PRD-1297,Biba Jeans & Trouser V18,Fashion & Apparel,Jeans & Trousers,Biba,189.89,449.0,1.25
+PRD-1298,FabIndia Ethnic Kurta V84,Fashion & Apparel,Ethnic Kurtas,FabIndia,495.24,929.0,1.25
+PRD-1299,Biba Dresse V53,Fashion & Apparel,Dresses,Biba,159.04,329.0,1.25
+PRD-1300,H&M Dresse V99,Fashion & Apparel,Dresses,H&M,559.0,1029.0,1.25
+PRD-1301,H&M Jeans & Trouser V68,Fashion & Apparel,Jeans & Trousers,H&M,435.24,1009.0,1.25
+PRD-1302,Allen Solly Men's T-Shirt V15,Fashion & Apparel,Men's T-Shirts,Allen Solly,224.4,399.0,1.25
+PRD-1303,Allen Solly Ethnic Kurta V79,Fashion & Apparel,Ethnic Kurtas,Allen Solly,424.01,709.0,1.25
+PRD-1304,Allen Solly Jeans & Trouser V46,Fashion & Apparel,Jeans & Trousers,Allen Solly,128.21,239.0,1.25
+PRD-1305,Zara Ethnic Kurta V25,Fashion & Apparel,Ethnic Kurtas,Zara,508.05,1059.0,1.25
+PRD-1306,Van Heusen Ethnic Kurta V59,Fashion & Apparel,Ethnic Kurtas,Van Heusen,603.08,1089.0,1.25
+PRD-1307,H&M Ethnic Kurta V76,Fashion & Apparel,Ethnic Kurtas,H&M,356.18,699.0,1.25
+PRD-1308,Levi's Ethnic Kurta V87,Fashion & Apparel,Ethnic Kurtas,Levi's,403.38,929.0,1.25
+PRD-1309,Max Women's Tops & Tee V51,Fashion & Apparel,Women's Tops & Tees,Max,214.41,489.0,1.25
+PRD-1310,Allen Solly Dresse V64,Fashion & Apparel,Dresses,Allen Solly,268.99,509.0,1.25
+PRD-1311,Puma Women's Tops & Tee V55,Fashion & Apparel,Women's Tops & Tees,Puma,234.77,549.0,1.25
+PRD-1312,Van Heusen Activewear V17,Fashion & Apparel,Activewear,Van Heusen,279.71,469.0,1.25
+PRD-1313,Van Heusen Men's T-Shirt V96,Fashion & Apparel,Men's T-Shirts,Van Heusen,315.39,559.0,1.25
+PRD-1314,Zara Women's Tops & Tee V66,Fashion & Apparel,Women's Tops & Tees,Zara,179.45,339.0,1.25
+PRD-1315,H&M Men's T-Shirt V56,Fashion & Apparel,Men's T-Shirts,H&M,150.68,269.0,1.25
+PRD-1316,Van Heusen Ethnic Kurta V29,Fashion & Apparel,Ethnic Kurtas,Van Heusen,489.28,1149.0,1.25
+PRD-1317,Puma Dresse V19,Fashion & Apparel,Dresses,Puma,559.52,1149.0,1.25
+PRD-1318,H&M Activewear V93,Fashion & Apparel,Activewear,H&M,358.41,729.0,1.25
+PRD-1319,FabIndia Ethnic Kurta V33,Fashion & Apparel,Ethnic Kurtas,FabIndia,492.19,1159.0,1.25
+PRD-1320,Max Jeans & Trouser V43,Fashion & Apparel,Jeans & Trousers,Max,306.93,589.0,1.25
+PRD-1321,Puma Ethnic Kurta V98,Fashion & Apparel,Ethnic Kurtas,Puma,216.83,409.0,1.25
+PRD-1322,FabIndia Jeans & Trouser V67,Fashion & Apparel,Jeans & Trousers,FabIndia,182.95,319.0,1.25
+PRD-1323,Puma Women's Tops & Tee V50,Fashion & Apparel,Women's Tops & Tees,Puma,678.5,1199.0,1.25
+PRD-1324,Biba Dresse V47,Fashion & Apparel,Dresses,Biba,471.77,909.0,1.25
+PRD-1325,H&M Ethnic Kurta V91,Fashion & Apparel,Ethnic Kurtas,H&M,533.51,909.0,1.25
+PRD-1326,Biba Women's Tops & Tee V35,Fashion & Apparel,Women's Tops & Tees,Biba,313.27,709.0,1.25
+PRD-1327,FabIndia Women's Tops & Tee V80,Fashion & Apparel,Women's Tops & Tees,FabIndia,420.06,989.0,1.25
+PRD-1328,Biba Activewear V26,Fashion & Apparel,Activewear,Biba,399.35,669.0,1.25
+PRD-1329,Levi's Activewear V71,Fashion & Apparel,Activewear,Levi's,127.34,259.0,1.25
+PRD-1330,Van Heusen Activewear V19,Fashion & Apparel,Activewear,Van Heusen,550.59,969.0,1.25
+PRD-1331,Biba Women's Tops & Tee V97,Fashion & Apparel,Women's Tops & Tees,Biba,420.34,839.0,1.25
+PRD-1332,Biba Activewear V80,Fashion & Apparel,Activewear,Biba,187.28,329.0,1.25
+PRD-1333,H&M Dresse V74,Fashion & Apparel,Dresses,H&M,429.49,969.0,1.25
+PRD-1334,Levi's Men's T-Shirt V30,Fashion & Apparel,Men's T-Shirts,Levi's,341.34,719.0,1.25
+PRD-1335,FabIndia Ethnic Kurta V46,Fashion & Apparel,Ethnic Kurtas,FabIndia,323.56,549.0,1.25
+PRD-1336,Allen Solly Men's T-Shirt V45,Fashion & Apparel,Men's T-Shirts,Allen Solly,236.27,399.0,1.25
+PRD-1337,Allen Solly Women's Tops & Tee V92,Fashion & Apparel,Women's Tops & Tees,Allen Solly,353.39,809.0,1.25
+PRD-1338,H&M Women's Tops & Tee V87,Fashion & Apparel,Women's Tops & Tees,H&M,196.46,369.0,1.25
+PRD-1339,Zara Ethnic Kurta V15,Fashion & Apparel,Ethnic Kurtas,Zara,433.18,1019.0,1.25
+PRD-1340,Allen Solly Dresse V63,Fashion & Apparel,Dresses,Allen Solly,473.79,849.0,1.25
+PRD-1341,Prestige Storage & Container V47,Home & Kitchen,Storage & Containers,Prestige,435.91,720.0,1.1
+PRD-1342,Cello Tableware V97,Home & Kitchen,Tableware,Cello,448.66,700.0,1.1
+PRD-1343,Cello Bedding & Linen V30,Home & Kitchen,Bedding & Linen,Cello,413.87,670.0,1.1
+PRD-1344,Bombay Dyeing Bedding & Linen V87,Home & Kitchen,Bedding & Linen,Bombay Dyeing,369.77,710.0,1.1
+PRD-1345,Wakefit Kitchen Tool V54,Home & Kitchen,Kitchen Tools,Wakefit,620.0,1140.0,1.1
+PRD-1346,Borosil Bedding & Linen V23,Home & Kitchen,Bedding & Linen,Borosil,594.66,1020.0,1.1
+PRD-1347,Pigeon Home Decor V41,Home & Kitchen,Home Decor,Pigeon,368.11,690.0,1.1
+PRD-1348,Milton Kitchen Tool V88,Home & Kitchen,Kitchen Tools,Milton,140.51,210.0,1.1
+PRD-1349,Pigeon Bedding & Linen V51,Home & Kitchen,Bedding & Linen,Pigeon,832.18,1260.0,1.1
+PRD-1350,Wakefit Storage & Container V75,Home & Kitchen,Storage & Containers,Wakefit,189.39,370.0,1.1
+PRD-1351,Hawkins Bedding & Linen V21,Home & Kitchen,Bedding & Linen,Hawkins,672.19,1160.0,1.1
+PRD-1352,Hawkins Bedding & Linen V55,Home & Kitchen,Bedding & Linen,Hawkins,659.02,1260.0,1.1
+PRD-1353,Prestige Cookware & Pan V93,Home & Kitchen,Cookware & Pans,Prestige,281.77,470.0,1.1
+PRD-1354,Hawkins Tableware V23,Home & Kitchen,Tableware,Hawkins,231.19,480.0,1.1
+PRD-1355,Borosil Bedding & Linen V61,Home & Kitchen,Bedding & Linen,Borosil,725.58,1160.0,1.1
+PRD-1356,Prestige Home Decor V34,Home & Kitchen,Home Decor,Prestige,362.37,610.0,1.1
+PRD-1357,Cello Home Decor V80,Home & Kitchen,Home Decor,Cello,133.6,230.0,1.1
+PRD-1358,Milton Home Decor V57,Home & Kitchen,Home Decor,Milton,149.8,300.0,1.1
+PRD-1359,Wakefit Home Decor V75,Home & Kitchen,Home Decor,Wakefit,530.21,1020.0,1.1
+PRD-1360,Prestige Bedding & Linen V52,Home & Kitchen,Bedding & Linen,Prestige,101.48,200.0,1.1
+PRD-1361,Hawkins Bedding & Linen V27,Home & Kitchen,Bedding & Linen,Hawkins,210.76,320.0,1.1
+PRD-1362,Wakefit Home Decor V48,Home & Kitchen,Home Decor,Wakefit,230.56,340.0,1.1
+PRD-1363,Wakefit Storage & Container V72,Home & Kitchen,Storage & Containers,Wakefit,424.82,730.0,1.1
+PRD-1364,Cello Tableware V52,Home & Kitchen,Tableware,Cello,338.33,700.0,1.1
+PRD-1365,Milton Tableware V98,Home & Kitchen,Tableware,Milton,763.83,1280.0,1.1
+PRD-1366,Prestige Tableware V93,Home & Kitchen,Tableware,Prestige,447.81,840.0,1.1
+PRD-1367,Pigeon Storage & Container V31,Home & Kitchen,Storage & Containers,Pigeon,584.77,980.0,1.1
+PRD-1368,Bombay Dyeing Storage & Container V14,Home & Kitchen,Storage & Containers,Bombay Dyeing,197.17,320.0,1.1
+PRD-1369,Milton Storage & Container V63,Home & Kitchen,Storage & Containers,Milton,210.24,370.0,1.1
+PRD-1370,Bombay Dyeing Kitchen Tool V88,Home & Kitchen,Kitchen Tools,Bombay Dyeing,528.35,940.0,1.1
+PRD-1371,Prestige Bedding & Linen V81,Home & Kitchen,Bedding & Linen,Prestige,560.39,960.0,1.1
+PRD-1372,Hawkins Home Decor V32,Home & Kitchen,Home Decor,Hawkins,407.06,750.0,1.1
+PRD-1373,Wakefit Bedding & Linen V97,Home & Kitchen,Bedding & Linen,Wakefit,479.84,780.0,1.1
+PRD-1374,Cello Tableware V41,Home & Kitchen,Tableware,Cello,440.68,850.0,1.1
+PRD-1375,Cello Home Decor V48,Home & Kitchen,Home Decor,Cello,276.58,410.0,1.1
+PRD-1376,Pigeon Home Decor V71,Home & Kitchen,Home Decor,Pigeon,543.13,940.0,1.1
+PRD-1377,Cello Home Decor V79,Home & Kitchen,Home Decor,Cello,285.45,480.0,1.1
+PRD-1378,Bombay Dyeing Bedding & Linen V28,Home & Kitchen,Bedding & Linen,Bombay Dyeing,731.3,1090.0,1.1
+PRD-1379,Prestige Home Decor V54,Home & Kitchen,Home Decor,Prestige,298.96,480.0,1.1
+PRD-1380,Cello Bedding & Linen V78,Home & Kitchen,Bedding & Linen,Cello,528.03,1010.0,1.1
+PRD-1381,Cello Home Decor V85,Home & Kitchen,Home Decor,Cello,186.97,310.0,1.1
+PRD-1382,Pigeon Kitchen Tool V38,Home & Kitchen,Kitchen Tools,Pigeon,138.82,210.0,1.1
+PRD-1383,Pigeon Tableware V70,Home & Kitchen,Tableware,Pigeon,118.16,210.0,1.1
+PRD-1384,Borosil Cookware & Pan V30,Home & Kitchen,Cookware & Pans,Borosil,88.51,150.0,1.1
+PRD-1385,Hawkins Bedding & Linen V46,Home & Kitchen,Bedding & Linen,Hawkins,363.92,700.0,1.1
+PRD-1386,Cello Home Decor V21,Home & Kitchen,Home Decor,Cello,588.81,890.0,1.1
+PRD-1387,Pigeon Tableware V14,Home & Kitchen,Tableware,Pigeon,474.71,760.0,1.1
+PRD-1388,Bombay Dyeing Kitchen Tool V14,Home & Kitchen,Kitchen Tools,Bombay Dyeing,597.58,1160.0,1.1
+PRD-1389,Hawkins Bedding & Linen V47,Home & Kitchen,Bedding & Linen,Hawkins,226.73,360.0,1.1
+PRD-1390,Prestige Cookware & Pan V52,Home & Kitchen,Cookware & Pans,Prestige,294.27,490.0,1.1
+PRD-1391,Hawkins Home Decor V73,Home & Kitchen,Home Decor,Hawkins,759.37,1290.0,1.1
+PRD-1392,Hawkins Kitchen Tool V52,Home & Kitchen,Kitchen Tools,Hawkins,295.21,460.0,1.1
+PRD-1393,Hawkins Kitchen Tool V11,Home & Kitchen,Kitchen Tools,Hawkins,555.11,890.0,1.1
+PRD-1394,Wakefit Tableware V34,Home & Kitchen,Tableware,Wakefit,629.17,1060.0,1.1
+PRD-1395,Bombay Dyeing Kitchen Tool V21,Home & Kitchen,Kitchen Tools,Bombay Dyeing,641.36,1100.0,1.1
+PRD-1396,Milton Bedding & Linen V51,Home & Kitchen,Bedding & Linen,Milton,182.92,360.0,1.1
+PRD-1397,Prestige Kitchen Tool V44,Home & Kitchen,Kitchen Tools,Prestige,237.2,450.0,1.1
+PRD-1398,Cello Home Decor V43,Home & Kitchen,Home Decor,Cello,487.55,820.0,1.1
+PRD-1399,Wakefit Tableware V25,Home & Kitchen,Tableware,Wakefit,467.8,950.0,1.1
+PRD-1400,Cello Bedding & Linen V49,Home & Kitchen,Bedding & Linen,Cello,203.68,330.0,1.1
+PRD-1401,Milton Tableware V57,Home & Kitchen,Tableware,Milton,587.95,880.0,1.1
+PRD-1402,Pigeon Storage & Container V29,Home & Kitchen,Storage & Containers,Pigeon,202.69,400.0,1.1
+PRD-1403,Wakefit Bedding & Linen V70,Home & Kitchen,Bedding & Linen,Wakefit,371.6,630.0,1.1
+PRD-1404,Pigeon Storage & Container V86,Home & Kitchen,Storage & Containers,Pigeon,634.55,1030.0,1.1
+PRD-1405,Hawkins Cookware & Pan V82,Home & Kitchen,Cookware & Pans,Hawkins,419.79,760.0,1.1
+PRD-1406,Prestige Cookware & Pan V35,Home & Kitchen,Cookware & Pans,Prestige,726.64,1100.0,1.1
+PRD-1407,Borosil Storage & Container V66,Home & Kitchen,Storage & Containers,Borosil,221.31,340.0,1.1
+PRD-1408,Pigeon Cookware & Pan V75,Home & Kitchen,Cookware & Pans,Pigeon,560.43,970.0,1.1
+PRD-1409,Prestige Bedding & Linen V68,Home & Kitchen,Bedding & Linen,Prestige,390.38,670.0,1.1
+PRD-1410,Prestige Storage & Container V49,Home & Kitchen,Storage & Containers,Prestige,485.5,790.0,1.1
+PRD-1411,Prestige Tableware V37,Home & Kitchen,Tableware,Prestige,385.97,600.0,1.1
+PRD-1412,Milton Storage & Container V18,Home & Kitchen,Storage & Containers,Milton,109.78,200.0,1.1
+PRD-1413,Prestige Storage & Container V70,Home & Kitchen,Storage & Containers,Prestige,602.44,1220.0,1.1
+PRD-1414,Cello Cookware & Pan V92,Home & Kitchen,Cookware & Pans,Cello,392.95,620.0,1.1
+PRD-1415,Bombay Dyeing Tableware V67,Home & Kitchen,Tableware,Bombay Dyeing,381.79,580.0,1.1
+PRD-1416,Bombay Dyeing Bedding & Linen V79,Home & Kitchen,Bedding & Linen,Bombay Dyeing,161.48,240.0,1.1
+PRD-1417,Wakefit Kitchen Tool V60,Home & Kitchen,Kitchen Tools,Wakefit,196.79,290.0,1.1
+PRD-1418,Borosil Storage & Container V10,Home & Kitchen,Storage & Containers,Borosil,519.29,990.0,1.1
+PRD-1419,Cello Cookware & Pan V64,Home & Kitchen,Cookware & Pans,Cello,424.2,680.0,1.1
+PRD-1420,Bombay Dyeing Storage & Container V54,Home & Kitchen,Storage & Containers,Bombay Dyeing,582.45,1100.0,1.1
+PRD-1421,Cello Kitchen Tool V24,Home & Kitchen,Kitchen Tools,Cello,242.37,370.0,1.1
+PRD-1422,Bombay Dyeing Cookware & Pan V12,Home & Kitchen,Cookware & Pans,Bombay Dyeing,573.83,860.0,1.1
+PRD-1423,Pigeon Kitchen Tool V67,Home & Kitchen,Kitchen Tools,Pigeon,137.72,230.0,1.1
+PRD-1424,Prestige Storage & Container V66,Home & Kitchen,Storage & Containers,Prestige,210.2,430.0,1.1
+PRD-1425,Pigeon Kitchen Tool V27,Home & Kitchen,Kitchen Tools,Pigeon,647.92,1020.0,1.1
+PRD-1426,Cello Storage & Container V83,Home & Kitchen,Storage & Containers,Cello,278.58,420.0,1.1
+PRD-1427,Wakefit Home Decor V94,Home & Kitchen,Home Decor,Wakefit,275.21,420.0,1.1
+PRD-1428,Pigeon Storage & Container V81,Home & Kitchen,Storage & Containers,Pigeon,331.72,620.0,1.1
+PRD-1429,Borosil Storage & Container V73,Home & Kitchen,Storage & Containers,Borosil,491.93,870.0,1.1
+PRD-1430,Wakefit Cookware & Pan V77,Home & Kitchen,Cookware & Pans,Wakefit,755.55,1230.0,1.1
+PRD-1431,Bombay Dyeing Home Decor V33,Home & Kitchen,Home Decor,Bombay Dyeing,334.79,620.0,1.1
+PRD-1432,Hawkins Storage & Container V28,Home & Kitchen,Storage & Containers,Hawkins,225.78,430.0,1.1
+PRD-1433,Prestige Bedding & Linen V81,Home & Kitchen,Bedding & Linen,Prestige,538.85,800.0,1.1
+PRD-1434,Borosil Storage & Container V52,Home & Kitchen,Storage & Containers,Borosil,318.6,600.0,1.1
+PRD-1435,Milton Tableware V21,Home & Kitchen,Tableware,Milton,785.81,1210.0,1.1
+PRD-1436,Pigeon Storage & Container V87,Home & Kitchen,Storage & Containers,Pigeon,116.64,210.0,1.1
+PRD-1437,Prestige Storage & Container V85,Home & Kitchen,Storage & Containers,Prestige,595.28,1150.0,1.1
+PRD-1438,Pigeon Tableware V52,Home & Kitchen,Tableware,Pigeon,457.73,700.0,1.1
+PRD-1439,Prestige Home Decor V25,Home & Kitchen,Home Decor,Prestige,202.02,390.0,1.1
+PRD-1440,Hawkins Tableware V36,Home & Kitchen,Tableware,Hawkins,742.95,1200.0,1.1
+PRD-1441,Pigeon Bedding & Linen V58,Home & Kitchen,Bedding & Linen,Pigeon,495.38,780.0,1.1
+PRD-1442,Wakefit Bedding & Linen V73,Home & Kitchen,Bedding & Linen,Wakefit,275.96,500.0,1.1
+PRD-1443,Milton Bedding & Linen V50,Home & Kitchen,Bedding & Linen,Milton,668.2,1070.0,1.1
+PRD-1444,Wakefit Kitchen Tool V38,Home & Kitchen,Kitchen Tools,Wakefit,249.46,510.0,1.1
+PRD-1445,Borosil Tableware V84,Home & Kitchen,Tableware,Borosil,100.41,170.0,1.1
+PRD-1446,Bombay Dyeing Storage & Container V39,Home & Kitchen,Storage & Containers,Bombay Dyeing,254.43,490.0,1.1
+PRD-1447,Pigeon Bedding & Linen V97,Home & Kitchen,Bedding & Linen,Pigeon,439.86,720.0,1.1
+PRD-1448,Cello Home Decor V92,Home & Kitchen,Home Decor,Cello,595.06,1030.0,1.1
+PRD-1449,Hawkins Tableware V55,Home & Kitchen,Tableware,Hawkins,426.06,680.0,1.1
+PRD-1450,Borosil Kitchen Tool V79,Home & Kitchen,Kitchen Tools,Borosil,566.11,980.0,1.1
+PRD-1451,Prestige Tableware V19,Home & Kitchen,Tableware,Prestige,485.86,750.0,1.1
+PRD-1452,Prestige Tableware V90,Home & Kitchen,Tableware,Prestige,579.35,1030.0,1.1
+PRD-1453,Milton Kitchen Tool V74,Home & Kitchen,Kitchen Tools,Milton,462.56,960.0,1.1
+PRD-1454,Wakefit Bedding & Linen V88,Home & Kitchen,Bedding & Linen,Wakefit,133.66,220.0,1.1
+PRD-1455,Hawkins Bedding & Linen V62,Home & Kitchen,Bedding & Linen,Hawkins,99.7,170.0,1.1
+PRD-1456,Prestige Cookware & Pan V46,Home & Kitchen,Cookware & Pans,Prestige,406.56,760.0,1.1
+PRD-1457,Bombay Dyeing Cookware & Pan V23,Home & Kitchen,Cookware & Pans,Bombay Dyeing,714.91,1080.0,1.1
+PRD-1458,Borosil Cookware & Pan V42,Home & Kitchen,Cookware & Pans,Borosil,259.7,430.0,1.1
+PRD-1459,Cello Home Decor V61,Home & Kitchen,Home Decor,Cello,525.55,1060.0,1.1
+PRD-1460,Pigeon Bedding & Linen V97,Home & Kitchen,Bedding & Linen,Pigeon,677.47,1290.0,1.1
+PRD-1461,Prestige Cookware & Pan V80,Home & Kitchen,Cookware & Pans,Prestige,144.52,260.0,1.1
+PRD-1462,Prestige Bedding & Linen V20,Home & Kitchen,Bedding & Linen,Prestige,546.1,880.0,1.1
+PRD-1463,Bombay Dyeing Bedding & Linen V22,Home & Kitchen,Bedding & Linen,Bombay Dyeing,486.17,890.0,1.1
+PRD-1464,Prestige Storage & Container V98,Home & Kitchen,Storage & Containers,Prestige,270.7,410.0,1.1
+PRD-1465,Hawkins Storage & Container V97,Home & Kitchen,Storage & Containers,Hawkins,305.82,460.0,1.1
+PRD-1466,Prestige Home Decor V12,Home & Kitchen,Home Decor,Prestige,234.03,360.0,1.1
+PRD-1467,Borosil Kitchen Tool V60,Home & Kitchen,Kitchen Tools,Borosil,628.77,1010.0,1.1
+PRD-1468,Cello Cookware & Pan V59,Home & Kitchen,Cookware & Pans,Cello,179.55,340.0,1.1
+PRD-1469,Wakefit Tableware V98,Home & Kitchen,Tableware,Wakefit,370.49,590.0,1.1
+PRD-1470,Milton Tableware V16,Home & Kitchen,Tableware,Milton,485.9,720.0,1.1
+PRD-1471,Biotique Face Care & Serum V87,Beauty & Personal Care,Face Care & Serums,Biotique,102.75,260.0,1.05
+PRD-1472,Biotique Grooming & Shaving V91,Beauty & Personal Care,Grooming & Shaving,Biotique,347.31,780.0,1.05
+PRD-1473,Dove Body Lotion V58,Beauty & Personal Care,Body Lotions,Dove,198.51,440.0,1.05
+PRD-1474,Mamaearth Fragrances & Deo V20,Beauty & Personal Care,Fragrances & Deos,Mamaearth,291.92,570.0,1.05
+PRD-1475,The Body Shop Grooming & Shaving V20,Beauty & Personal Care,Grooming & Shaving,The Body Shop,344.93,660.0,1.05
+PRD-1476,Mamaearth Body Lotion V29,Beauty & Personal Care,Body Lotions,Mamaearth,193.24,360.0,1.05
+PRD-1477,Maybelline Fragrances & Deo V49,Beauty & Personal Care,Fragrances & Deos,Maybelline,139.41,350.0,1.05
+PRD-1478,Maybelline Fragrances & Deo V21,Beauty & Personal Care,Fragrances & Deos,Maybelline,252.28,630.0,1.05
+PRD-1479,Biotique Hair Shampoo & Oil V62,Beauty & Personal Care,Hair Shampoo & Oils,Biotique,201.29,410.0,1.05
+PRD-1480,L'Oreal Face Care & Serum V86,Beauty & Personal Care,Face Care & Serums,L'Oreal,78.54,160.0,1.05
+PRD-1481,Maybelline Grooming & Shaving V62,Beauty & Personal Care,Grooming & Shaving,Maybelline,267.73,700.0,1.05
+PRD-1482,Nivea Fragrances & Deo V41,Beauty & Personal Care,Fragrances & Deos,Nivea,300.06,610.0,1.05
+PRD-1483,Mamaearth Grooming & Shaving V44,Beauty & Personal Care,Grooming & Shaving,Mamaearth,240.06,580.0,1.05
+PRD-1484,The Body Shop Body Lotion V65,Beauty & Personal Care,Body Lotions,The Body Shop,172.77,440.0,1.05
+PRD-1485,Biotique Body Lotion V56,Beauty & Personal Care,Body Lotions,Biotique,166.33,310.0,1.05
+PRD-1486,Nykaa Body Lotion V88,Beauty & Personal Care,Body Lotions,Nykaa,287.5,600.0,1.05
+PRD-1487,Dove Hair Shampoo & Oil V60,Beauty & Personal Care,Hair Shampoo & Oils,Dove,74.96,170.0,1.05
+PRD-1488,Biotique Body Lotion V52,Beauty & Personal Care,Body Lotions,Biotique,294.3,660.0,1.05
+PRD-1489,Mamaearth Fragrances & Deo V98,Beauty & Personal Care,Fragrances & Deos,Mamaearth,155.2,310.0,1.05
+PRD-1490,Dove Hair Shampoo & Oil V50,Beauty & Personal Care,Hair Shampoo & Oils,Dove,183.33,320.0,1.05
+PRD-1491,Dove Body Lotion V51,Beauty & Personal Care,Body Lotions,Dove,418.39,780.0,1.05
+PRD-1492,The Body Shop Fragrances & Deo V24,Beauty & Personal Care,Fragrances & Deos,The Body Shop,307.25,670.0,1.05
+PRD-1493,Nykaa Grooming & Shaving V97,Beauty & Personal Care,Grooming & Shaving,Nykaa,249.45,510.0,1.05
+PRD-1494,L'Oreal Grooming & Shaving V36,Beauty & Personal Care,Grooming & Shaving,L'Oreal,363.69,770.0,1.05
+PRD-1495,The Body Shop Fragrances & Deo V62,Beauty & Personal Care,Fragrances & Deos,The Body Shop,267.81,680.0,1.05
+PRD-1496,Mamaearth Fragrances & Deo V94,Beauty & Personal Care,Fragrances & Deos,Mamaearth,231.34,540.0,1.05
+PRD-1497,Biotique Hair Shampoo & Oil V86,Beauty & Personal Care,Hair Shampoo & Oils,Biotique,256.62,650.0,1.05
+PRD-1498,Biotique Fragrances & Deo V98,Beauty & Personal Care,Fragrances & Deos,Biotique,265.41,470.0,1.05
+PRD-1499,L'Oreal Fragrances & Deo V78,Beauty & Personal Care,Fragrances & Deos,L'Oreal,293.74,650.0,1.05
+PRD-1500,Nivea Grooming & Shaving V95,Beauty & Personal Care,Grooming & Shaving,Nivea,77.34,180.0,1.05
+PRD-1501,Mamaearth Body Lotion V92,Beauty & Personal Care,Body Lotions,Mamaearth,213.87,550.0,1.05
+PRD-1502,Maybelline Fragrances & Deo V11,Beauty & Personal Care,Fragrances & Deos,Maybelline,363.55,780.0,1.05
+PRD-1503,The Body Shop Face Care & Serum V81,Beauty & Personal Care,Face Care & Serums,The Body Shop,132.34,250.0,1.05
+PRD-1504,Nykaa Grooming & Shaving V96,Beauty & Personal Care,Grooming & Shaving,Nykaa,187.87,410.0,1.05
+PRD-1505,Mamaearth Grooming & Shaving V23,Beauty & Personal Care,Grooming & Shaving,Mamaearth,130.87,340.0,1.05
+PRD-1506,Biotique Body Lotion V28,Beauty & Personal Care,Body Lotions,Biotique,293.91,740.0,1.05
+PRD-1507,The Body Shop Body Lotion V76,Beauty & Personal Care,Body Lotions,The Body Shop,182.53,340.0,1.05
+PRD-1508,Maybelline Fragrances & Deo V99,Beauty & Personal Care,Fragrances & Deos,Maybelline,201.08,430.0,1.05
+PRD-1509,Maybelline Fragrances & Deo V24,Beauty & Personal Care,Fragrances & Deos,Maybelline,58.34,150.0,1.05
+PRD-1510,Maybelline Face Care & Serum V31,Beauty & Personal Care,Face Care & Serums,Maybelline,283.49,550.0,1.05
+PRD-1511,Mamaearth Hair Shampoo & Oil V64,Beauty & Personal Care,Hair Shampoo & Oils,Mamaearth,218.64,490.0,1.05
+PRD-1512,Nykaa Fragrances & Deo V33,Beauty & Personal Care,Fragrances & Deos,Nykaa,333.93,660.0,1.05
+PRD-1513,Biotique Fragrances & Deo V35,Beauty & Personal Care,Fragrances & Deos,Biotique,60.34,120.0,1.05
+PRD-1514,Biotique Fragrances & Deo V36,Beauty & Personal Care,Fragrances & Deos,Biotique,192.75,370.0,1.05
+PRD-1515,Nivea Body Lotion V78,Beauty & Personal Care,Body Lotions,Nivea,269.95,500.0,1.05
+PRD-1516,Maybelline Hair Shampoo & Oil V43,Beauty & Personal Care,Hair Shampoo & Oils,Maybelline,155.6,330.0,1.05
+PRD-1517,Maybelline Fragrances & Deo V85,Beauty & Personal Care,Fragrances & Deos,Maybelline,261.18,520.0,1.05
+PRD-1518,Maybelline Face Care & Serum V32,Beauty & Personal Care,Face Care & Serums,Maybelline,165.05,350.0,1.05
+PRD-1519,Nivea Body Lotion V40,Beauty & Personal Care,Body Lotions,Nivea,252.3,570.0,1.05
+PRD-1520,Nivea Body Lotion V75,Beauty & Personal Care,Body Lotions,Nivea,119.3,230.0,1.05
+PRD-1521,Biotique Fragrances & Deo V64,Beauty & Personal Care,Fragrances & Deos,Biotique,257.38,520.0,1.05
+PRD-1522,Dove Hair Shampoo & Oil V92,Beauty & Personal Care,Hair Shampoo & Oils,Dove,280.09,540.0,1.05
+PRD-1523,Mamaearth Hair Shampoo & Oil V50,Beauty & Personal Care,Hair Shampoo & Oils,Mamaearth,179.55,440.0,1.05
+PRD-1524,L'Oreal Fragrances & Deo V72,Beauty & Personal Care,Fragrances & Deos,L'Oreal,399.26,700.0,1.05
+PRD-1525,Nykaa Hair Shampoo & Oil V74,Beauty & Personal Care,Hair Shampoo & Oils,Nykaa,383.75,670.0,1.05
+PRD-1526,Biotique Fragrances & Deo V66,Beauty & Personal Care,Fragrances & Deos,Biotique,268.61,580.0,1.05
+PRD-1527,Mamaearth Fragrances & Deo V38,Beauty & Personal Care,Fragrances & Deos,Mamaearth,61.79,160.0,1.05
+PRD-1528,L'Oreal Body Lotion V31,Beauty & Personal Care,Body Lotions,L'Oreal,141.38,290.0,1.05
+PRD-1529,Dove Fragrances & Deo V24,Beauty & Personal Care,Fragrances & Deos,Dove,193.27,480.0,1.05
+PRD-1530,Maybelline Body Lotion V66,Beauty & Personal Care,Body Lotions,Maybelline,255.05,480.0,1.05
+PRD-1531,Nykaa Grooming & Shaving V93,Beauty & Personal Care,Grooming & Shaving,Nykaa,316.38,790.0,1.05
+PRD-1532,The Body Shop Hair Shampoo & Oil V43,Beauty & Personal Care,Hair Shampoo & Oils,The Body Shop,274.38,710.0,1.05
+PRD-1533,Nivea Body Lotion V40,Beauty & Personal Care,Body Lotions,Nivea,237.3,410.0,1.05
+PRD-1534,Maybelline Hair Shampoo & Oil V64,Beauty & Personal Care,Hair Shampoo & Oils,Maybelline,351.44,700.0,1.05
+PRD-1535,Mamaearth Hair Shampoo & Oil V17,Beauty & Personal Care,Hair Shampoo & Oils,Mamaearth,352.76,650.0,1.05
+PRD-1536,Maybelline Grooming & Shaving V31,Beauty & Personal Care,Grooming & Shaving,Maybelline,234.7,470.0,1.05
+PRD-1537,The Body Shop Body Lotion V75,Beauty & Personal Care,Body Lotions,The Body Shop,130.04,300.0,1.05
+PRD-1538,Mamaearth Face Care & Serum V17,Beauty & Personal Care,Face Care & Serums,Mamaearth,413.6,770.0,1.05
+PRD-1539,Mamaearth Body Lotion V28,Beauty & Personal Care,Body Lotions,Mamaearth,239.86,590.0,1.05
+PRD-1540,Nykaa Body Lotion V72,Beauty & Personal Care,Body Lotions,Nykaa,324.61,630.0,1.05
+PRD-1541,The Body Shop Hair Shampoo & Oil V19,Beauty & Personal Care,Hair Shampoo & Oils,The Body Shop,245.72,540.0,1.05
+PRD-1542,Biotique Face Care & Serum V57,Beauty & Personal Care,Face Care & Serums,Biotique,200.4,460.0,1.05
+PRD-1543,Dove Fragrances & Deo V21,Beauty & Personal Care,Fragrances & Deos,Dove,125.56,330.0,1.05
+PRD-1544,Maybelline Fragrances & Deo V60,Beauty & Personal Care,Fragrances & Deos,Maybelline,372.0,690.0,1.05
+PRD-1545,Biotique Hair Shampoo & Oil V51,Beauty & Personal Care,Hair Shampoo & Oils,Biotique,325.68,680.0,1.05
+PRD-1546,Maybelline Body Lotion V72,Beauty & Personal Care,Body Lotions,Maybelline,194.94,480.0,1.05
+PRD-1547,L'Oreal Body Lotion V68,Beauty & Personal Care,Body Lotions,L'Oreal,65.68,130.0,1.05
+PRD-1548,Nivea Face Care & Serum V68,Beauty & Personal Care,Face Care & Serums,Nivea,308.7,750.0,1.05
+PRD-1549,Biotique Face Care & Serum V26,Beauty & Personal Care,Face Care & Serums,Biotique,124.25,240.0,1.05
+PRD-1550,Mamaearth Body Lotion V21,Beauty & Personal Care,Body Lotions,Mamaearth,394.28,710.0,1.05
+PRD-1551,The Body Shop Body Lotion V93,Beauty & Personal Care,Body Lotions,The Body Shop,82.06,160.0,1.05
+PRD-1552,L'Oreal Hair Shampoo & Oil V99,Beauty & Personal Care,Hair Shampoo & Oils,L'Oreal,167.62,380.0,1.05
+PRD-1553,Biotique Hair Shampoo & Oil V10,Beauty & Personal Care,Hair Shampoo & Oils,Biotique,291.61,560.0,1.05
+PRD-1554,Dove Hair Shampoo & Oil V76,Beauty & Personal Care,Hair Shampoo & Oils,Dove,74.81,150.0,1.05
+PRD-1555,L'Oreal Fragrances & Deo V25,Beauty & Personal Care,Fragrances & Deos,L'Oreal,44.87,100.0,1.05
+PRD-1556,Mamaearth Fragrances & Deo V21,Beauty & Personal Care,Fragrances & Deos,Mamaearth,183.09,430.0,1.05
+PRD-1557,Nivea Face Care & Serum V27,Beauty & Personal Care,Face Care & Serums,Nivea,177.98,320.0,1.05
+PRD-1558,Mamaearth Fragrances & Deo V18,Beauty & Personal Care,Fragrances & Deos,Mamaearth,283.49,550.0,1.05
+PRD-1559,L'Oreal Grooming & Shaving V54,Beauty & Personal Care,Grooming & Shaving,L'Oreal,218.8,530.0,1.05
+PRD-1560,Mamaearth Hair Shampoo & Oil V66,Beauty & Personal Care,Hair Shampoo & Oils,Mamaearth,372.38,740.0,1.05
+PRD-1561,Nivea Hair Shampoo & Oil V25,Beauty & Personal Care,Hair Shampoo & Oils,Nivea,297.84,730.0,1.05
+PRD-1562,Biotique Grooming & Shaving V27,Beauty & Personal Care,Grooming & Shaving,Biotique,163.06,350.0,1.05
+PRD-1563,The Body Shop Hair Shampoo & Oil V86,Beauty & Personal Care,Hair Shampoo & Oils,The Body Shop,236.3,550.0,1.05
+PRD-1564,The Body Shop Grooming & Shaving V94,Beauty & Personal Care,Grooming & Shaving,The Body Shop,331.58,640.0,1.05
+PRD-1565,Nykaa Body Lotion V60,Beauty & Personal Care,Body Lotions,Nykaa,221.68,460.0,1.05
+PRD-1566,L'Oreal Body Lotion V40,Beauty & Personal Care,Body Lotions,L'Oreal,350.19,650.0,1.05
+PRD-1567,Biotique Fragrances & Deo V86,Beauty & Personal Care,Fragrances & Deos,Biotique,86.38,180.0,1.05
+PRD-1568,L'Oreal Face Care & Serum V26,Beauty & Personal Care,Face Care & Serums,L'Oreal,447.76,790.0,1.05
+PRD-1569,Biotique Fragrances & Deo V70,Beauty & Personal Care,Fragrances & Deos,Biotique,180.81,350.0,1.05
+PRD-1570,L'Oreal Face Care & Serum V37,Beauty & Personal Care,Face Care & Serums,L'Oreal,195.21,510.0,1.05
+PRD-1571,L'Oreal Face Care & Serum V46,Beauty & Personal Care,Face Care & Serums,L'Oreal,349.29,760.0,1.05
+PRD-1572,Biotique Grooming & Shaving V91,Beauty & Personal Care,Grooming & Shaving,Biotique,184.18,400.0,1.05
+PRD-1573,Mamaearth Grooming & Shaving V75,Beauty & Personal Care,Grooming & Shaving,Mamaearth,128.17,290.0,1.05
+PRD-1574,Mamaearth Hair Shampoo & Oil V91,Beauty & Personal Care,Hair Shampoo & Oils,Mamaearth,215.33,470.0,1.05
+PRD-1575,The Body Shop Face Care & Serum V40,Beauty & Personal Care,Face Care & Serums,The Body Shop,310.34,590.0,1.05
+PRD-1576,Nykaa Face Care & Serum V68,Beauty & Personal Care,Face Care & Serums,Nykaa,74.7,160.0,1.05
+PRD-1577,L'Oreal Grooming & Shaving V32,Beauty & Personal Care,Grooming & Shaving,L'Oreal,169.07,320.0,1.05
+PRD-1578,L'Oreal Face Care & Serum V30,Beauty & Personal Care,Face Care & Serums,L'Oreal,306.98,590.0,1.05
+PRD-1579,Maybelline Fragrances & Deo V43,Beauty & Personal Care,Fragrances & Deos,Maybelline,252.2,470.0,1.05
+PRD-1580,Maybelline Hair Shampoo & Oil V44,Beauty & Personal Care,Hair Shampoo & Oils,Maybelline,101.88,190.0,1.05
+PRD-1581,Bata Casual Sneaker V77,Footwear,Casual Sneakers,Bata,350.53,629.0,0.95
+PRD-1582,Campus Casual Sneaker V19,Footwear,Casual Sneakers,Campus,624.08,1069.0,0.95
+PRD-1583,Liberty Sandals & Floater V82,Footwear,Sandals & Floaters,Liberty,411.09,839.0,0.95
+PRD-1584,Woodland Formal Shoe V83,Footwear,Formal Shoes,Woodland,265.64,429.0,0.95
+PRD-1585,Sparx Casual Sneaker V11,Footwear,Casual Sneakers,Sparx,528.03,1099.0,0.95
+PRD-1586,Bata Formal Shoe V29,Footwear,Formal Shoes,Bata,433.11,789.0,0.95
+PRD-1587,Bata Formal Shoe V93,Footwear,Formal Shoes,Bata,566.52,879.0,0.95
+PRD-1588,Sparx Sandals & Floater V50,Footwear,Sandals & Floaters,Sparx,343.5,619.0,0.95
+PRD-1589,Puma Sports Shoe V96,Footwear,Sports Shoes,Puma,455.86,909.0,0.95
+PRD-1590,Red Tape Casual Sneaker V15,Footwear,Casual Sneakers,Red Tape,291.58,509.0,0.95
+PRD-1591,Puma Sandals & Floater V49,Footwear,Sandals & Floaters,Puma,800.58,1259.0,0.95
+PRD-1592,Puma Sports Shoe V35,Footwear,Sports Shoes,Puma,428.0,889.0,0.95
+PRD-1593,Campus Sports Shoe V57,Footwear,Sports Shoes,Campus,575.51,1099.0,0.95
+PRD-1594,Liberty Slippers & Flip Flop V79,Footwear,Slippers & Flip Flops,Liberty,866.9,1399.0,0.95
+PRD-1595,Red Tape Formal Shoe V39,Footwear,Formal Shoes,Red Tape,143.44,259.0,0.95
+PRD-1596,Woodland Slippers & Flip Flop V11,Footwear,Slippers & Flip Flops,Woodland,592.12,979.0,0.95
+PRD-1597,Bata Sports Shoe V49,Footwear,Sports Shoes,Bata,612.91,1119.0,0.95
+PRD-1598,Sparx Casual Sneaker V72,Footwear,Casual Sneakers,Sparx,449.15,859.0,0.95
+PRD-1599,Red Tape Casual Sneaker V39,Footwear,Casual Sneakers,Red Tape,531.02,1069.0,0.95
+PRD-1600,Crocs Slippers & Flip Flop V20,Footwear,Slippers & Flip Flops,Crocs,573.85,1049.0,0.95
+PRD-1601,Puma Slippers & Flip Flop V60,Footwear,Slippers & Flip Flops,Puma,493.01,829.0,0.95
+PRD-1602,Bata Casual Sneaker V40,Footwear,Casual Sneakers,Bata,489.52,749.0,0.95
+PRD-1603,Campus Sports Shoe V60,Footwear,Sports Shoes,Campus,794.78,1229.0,0.95
+PRD-1604,Woodland Sports Shoe V35,Footwear,Sports Shoes,Woodland,401.46,769.0,0.95
+PRD-1605,Puma Formal Shoe V69,Footwear,Formal Shoes,Puma,218.61,429.0,0.95
+PRD-1606,Crocs Sports Shoe V36,Footwear,Sports Shoes,Crocs,211.81,389.0,0.95
+PRD-1607,Campus Sandals & Floater V21,Footwear,Sandals & Floaters,Campus,493.46,779.0,0.95
+PRD-1608,Campus Formal Shoe V15,Footwear,Formal Shoes,Campus,725.92,1199.0,0.95
+PRD-1609,Woodland Formal Shoe V55,Footwear,Formal Shoes,Woodland,254.76,419.0,0.95
+PRD-1610,Bata Sandals & Floater V32,Footwear,Sandals & Floaters,Bata,542.11,1029.0,0.95
+PRD-1611,Crocs Casual Sneaker V80,Footwear,Casual Sneakers,Crocs,712.91,1229.0,0.95
+PRD-1612,Puma Formal Shoe V27,Footwear,Formal Shoes,Puma,486.64,779.0,0.95
+PRD-1613,Bata Casual Sneaker V38,Footwear,Casual Sneakers,Bata,197.96,319.0,0.95
+PRD-1614,Sparx Formal Shoe V90,Footwear,Formal Shoes,Sparx,655.86,1199.0,0.95
+PRD-1615,Campus Casual Sneaker V18,Footwear,Casual Sneakers,Campus,641.05,1299.0,0.95
+PRD-1616,Liberty Formal Shoe V52,Footwear,Formal Shoes,Liberty,585.44,1179.0,0.95
+PRD-1617,Bata Casual Sneaker V83,Footwear,Casual Sneakers,Bata,650.03,1329.0,0.95
+PRD-1618,Crocs Sandals & Floater V64,Footwear,Sandals & Floaters,Crocs,449.54,819.0,0.95
+PRD-1619,Woodland Formal Shoe V45,Footwear,Formal Shoes,Woodland,256.33,499.0,0.95
+PRD-1620,Red Tape Sandals & Floater V41,Footwear,Sandals & Floaters,Red Tape,170.93,289.0,0.95
+PRD-1621,Liberty Sports Shoe V17,Footwear,Sports Shoes,Liberty,416.39,719.0,0.95
+PRD-1622,Campus Casual Sneaker V92,Footwear,Casual Sneakers,Campus,382.71,689.0,0.95
+PRD-1623,Sparx Slippers & Flip Flop V12,Footwear,Slippers & Flip Flops,Sparx,605.03,969.0,0.95
+PRD-1624,Woodland Sandals & Floater V54,Footwear,Sandals & Floaters,Woodland,495.91,799.0,0.95
+PRD-1625,Woodland Slippers & Flip Flop V50,Footwear,Slippers & Flip Flops,Woodland,358.14,699.0,0.95
+PRD-1626,Sparx Slippers & Flip Flop V45,Footwear,Slippers & Flip Flops,Sparx,174.63,279.0,0.95
+PRD-1627,Liberty Casual Sneaker V39,Footwear,Casual Sneakers,Liberty,530.89,859.0,0.95
+PRD-1628,Puma Formal Shoe V78,Footwear,Formal Shoes,Puma,276.88,529.0,0.95
+PRD-1629,Sparx Casual Sneaker V59,Footwear,Casual Sneakers,Sparx,597.1,909.0,0.95
+PRD-1630,Red Tape Sports Shoe V99,Footwear,Sports Shoes,Red Tape,263.41,449.0,0.95
+PRD-1631,Bata Sports Shoe V82,Footwear,Sports Shoes,Bata,575.36,1059.0,0.95
+PRD-1632,Red Tape Slippers & Flip Flop V73,Footwear,Slippers & Flip Flops,Red Tape,461.98,899.0,0.95
+PRD-1633,Campus Slippers & Flip Flop V17,Footwear,Slippers & Flip Flops,Campus,218.59,449.0,0.95
+PRD-1634,Sparx Formal Shoe V52,Footwear,Formal Shoes,Sparx,152.26,269.0,0.95
+PRD-1635,Sparx Slippers & Flip Flop V32,Footwear,Slippers & Flip Flops,Sparx,638.24,1179.0,0.95
+PRD-1636,Bata Sports Shoe V28,Footwear,Sports Shoes,Bata,157.52,269.0,0.95
+PRD-1637,Woodland Casual Sneaker V94,Footwear,Casual Sneakers,Woodland,738.24,1349.0,0.95
+PRD-1638,Puma Sandals & Floater V30,Footwear,Sandals & Floaters,Puma,343.83,639.0,0.95
+PRD-1639,Liberty Sandals & Floater V81,Footwear,Sandals & Floaters,Liberty,510.85,999.0,0.95
+PRD-1640,Woodland Slippers & Flip Flop V32,Footwear,Slippers & Flip Flops,Woodland,298.28,509.0,0.95
+PRD-1641,Campus Sandals & Floater V32,Footwear,Sandals & Floaters,Campus,580.45,1089.0,0.95
+PRD-1642,Crocs Casual Sneaker V82,Footwear,Casual Sneakers,Crocs,760.44,1229.0,0.95
+PRD-1643,Red Tape Casual Sneaker V88,Footwear,Casual Sneakers,Red Tape,606.39,939.0,0.95
+PRD-1644,Puma Formal Shoe V19,Footwear,Formal Shoes,Puma,671.56,1329.0,0.95
+PRD-1645,Woodland Formal Shoe V21,Footwear,Formal Shoes,Woodland,703.59,1379.0,0.95
+PRD-1646,Liberty Sports Shoe V98,Footwear,Sports Shoes,Liberty,134.1,259.0,0.95
+PRD-1647,Woodland Casual Sneaker V10,Footwear,Casual Sneakers,Woodland,269.2,539.0,0.95
+PRD-1648,Crocs Casual Sneaker V31,Footwear,Casual Sneakers,Crocs,416.1,749.0,0.95
+PRD-1649,Liberty Sandals & Floater V58,Footwear,Sandals & Floaters,Liberty,683.92,1259.0,0.95
+PRD-1650,Liberty Casual Sneaker V97,Footwear,Casual Sneakers,Liberty,676.91,1159.0,0.95
+PRD-1651,Red Tape Formal Shoe V14,Footwear,Formal Shoes,Red Tape,479.74,769.0,0.95
+PRD-1652,Bata Sports Shoe V19,Footwear,Sports Shoes,Bata,403.15,619.0,0.95
+PRD-1653,Red Tape Sports Shoe V19,Footwear,Sports Shoes,Red Tape,645.87,1269.0,0.95
+PRD-1654,Puma Slippers & Flip Flop V71,Footwear,Slippers & Flip Flops,Puma,420.05,639.0,0.95
+PRD-1655,Crocs Casual Sneaker V65,Footwear,Casual Sneakers,Crocs,677.39,1329.0,0.95
+PRD-1656,Bata Formal Shoe V34,Footwear,Formal Shoes,Bata,190.77,369.0,0.95
+PRD-1657,Campus Sandals & Floater V22,Footwear,Sandals & Floaters,Campus,538.33,1009.0,0.95
+PRD-1658,Crocs Casual Sneaker V29,Footwear,Casual Sneakers,Crocs,573.74,909.0,0.95
+PRD-1659,Woodland Casual Sneaker V94,Footwear,Casual Sneakers,Woodland,123.45,249.0,0.95
+PRD-1660,Liberty Slippers & Flip Flop V31,Footwear,Slippers & Flip Flops,Liberty,232.14,479.0,0.95
+PRD-1661,Puma Sports Shoe V60,Footwear,Sports Shoes,Puma,395.12,789.0,0.95
+PRD-1662,Liberty Sandals & Floater V92,Footwear,Sandals & Floaters,Liberty,674.93,1279.0,0.95
+PRD-1663,Crocs Slippers & Flip Flop V57,Footwear,Slippers & Flip Flops,Crocs,293.48,459.0,0.95
+PRD-1664,Liberty Formal Shoe V43,Footwear,Formal Shoes,Liberty,167.19,299.0,0.95
+PRD-1665,Campus Formal Shoe V99,Footwear,Formal Shoes,Campus,455.98,899.0,0.95
+PRD-1666,Puma Casual Sneaker V62,Footwear,Casual Sneakers,Puma,637.36,1019.0,0.95
+PRD-1667,Sparx Slippers & Flip Flop V76,Footwear,Slippers & Flip Flops,Sparx,561.26,889.0,0.95
+PRD-1668,Liberty Sandals & Floater V48,Footwear,Sandals & Floaters,Liberty,474.88,909.0,0.95
+PRD-1669,Crocs Casual Sneaker V74,Footwear,Casual Sneakers,Crocs,784.45,1289.0,0.95
+PRD-1670,Red Tape Slippers & Flip Flop V32,Footwear,Slippers & Flip Flops,Red Tape,239.74,389.0,0.95
+PRD-1671,Sparx Formal Shoe V64,Footwear,Formal Shoes,Sparx,592.7,1179.0,0.95
+PRD-1672,Crocs Casual Sneaker V28,Footwear,Casual Sneakers,Crocs,300.84,479.0,0.95
+PRD-1673,Campus Slippers & Flip Flop V18,Footwear,Slippers & Flip Flops,Campus,378.13,619.0,0.95
+PRD-1674,Crocs Casual Sneaker V45,Footwear,Casual Sneakers,Crocs,515.06,889.0,0.95
+PRD-1675,Liberty Slippers & Flip Flop V99,Footwear,Slippers & Flip Flops,Liberty,626.41,1299.0,0.95
+PRD-1676,Crocs Slippers & Flip Flop V82,Footwear,Slippers & Flip Flops,Crocs,192.13,379.0,0.95
+PRD-1677,Puma Slippers & Flip Flop V22,Footwear,Slippers & Flip Flops,Puma,760.9,1309.0,0.95
+PRD-1678,Woodland Sports Shoe V93,Footwear,Sports Shoes,Woodland,664.18,1259.0,0.95
+PRD-1679,Liberty Sandals & Floater V28,Footwear,Sandals & Floaters,Liberty,153.05,289.0,0.95
+PRD-1680,Crocs Slippers & Flip Flop V52,Footwear,Slippers & Flip Flops,Crocs,185.0,289.0,0.95
+PRD-1681,Decathlon Yoga Mat V57,Sports & Fitness,Yoga Mats,Decathlon,619.15,930.0,0.85
+PRD-1682,Yonex Gym Dumbbells & Band V45,Sports & Fitness,Gym Dumbbells & Bands,Yonex,560.1,1010.0,0.85
+PRD-1683,Strauss Fitness Tracker V39,Sports & Fitness,Fitness Trackers,Strauss,455.56,880.0,0.85
+PRD-1684,Yonex Yoga Mat V51,Sports & Fitness,Yoga Mats,Yonex,678.32,1170.0,0.85
+PRD-1685,Kore Badminton & Tenni V34,Sports & Fitness,Badminton & Tennis,Kore,363.56,590.0,0.85
+PRD-1686,Nivia Fitness Tracker V72,Sports & Fitness,Fitness Trackers,Nivia,636.35,1110.0,0.85
+PRD-1687,Strauss Sports Bottle V30,Sports & Fitness,Sports Bottles,Strauss,275.46,540.0,0.85
+PRD-1688,Yonex Gym Dumbbells & Band V77,Sports & Fitness,Gym Dumbbells & Bands,Yonex,509.62,890.0,0.85
+PRD-1689,Decathlon Sports Bottle V35,Sports & Fitness,Sports Bottles,Decathlon,216.99,330.0,0.85
+PRD-1690,Nivia Gym Dumbbells & Band V56,Sports & Fitness,Gym Dumbbells & Bands,Nivia,91.64,180.0,0.85
+PRD-1691,Yonex Yoga Mat V60,Sports & Fitness,Yoga Mats,Yonex,315.12,540.0,0.85
+PRD-1692,Kore Gym Dumbbells & Band V86,Sports & Fitness,Gym Dumbbells & Bands,Kore,102.07,180.0,0.85
+PRD-1693,Nivia Fitness Tracker V80,Sports & Fitness,Fitness Trackers,Nivia,679.09,1160.0,0.85
+PRD-1694,Yonex Badminton & Tenni V98,Sports & Fitness,Badminton & Tennis,Yonex,211.52,320.0,0.85
+PRD-1695,Yonex Gym Dumbbells & Band V83,Sports & Fitness,Gym Dumbbells & Bands,Yonex,91.61,180.0,0.85
+PRD-1696,Strauss Yoga Mat V36,Sports & Fitness,Yoga Mats,Strauss,205.4,380.0,0.85
+PRD-1697,Kore Badminton & Tenni V97,Sports & Fitness,Badminton & Tennis,Kore,292.09,580.0,0.85
+PRD-1698,Cosco Gym Dumbbells & Band V86,Sports & Fitness,Gym Dumbbells & Bands,Cosco,684.34,1110.0,0.85
+PRD-1699,Nivia Gym Dumbbells & Band V49,Sports & Fitness,Gym Dumbbells & Bands,Nivia,264.42,410.0,0.85
+PRD-1700,Cosco Badminton & Tenni V68,Sports & Fitness,Badminton & Tennis,Cosco,712.08,1090.0,0.85
+PRD-1701,Nivia Badminton & Tenni V89,Sports & Fitness,Badminton & Tennis,Nivia,398.01,640.0,0.85
+PRD-1702,Boldfit Fitness Tracker V94,Sports & Fitness,Fitness Trackers,Boldfit,153.94,260.0,0.85
+PRD-1703,Boldfit Badminton & Tenni V48,Sports & Fitness,Badminton & Tennis,Boldfit,505.99,830.0,0.85
+PRD-1704,Cosco Gym Dumbbells & Band V91,Sports & Fitness,Gym Dumbbells & Bands,Cosco,149.14,220.0,0.85
+PRD-1705,Strauss Badminton & Tenni V93,Sports & Fitness,Badminton & Tennis,Strauss,271.96,440.0,0.85
+PRD-1706,Nivia Badminton & Tenni V17,Sports & Fitness,Badminton & Tennis,Nivia,197.71,310.0,0.85
+PRD-1707,Cosco Sports Bottle V13,Sports & Fitness,Sports Bottles,Cosco,522.93,840.0,0.85
+PRD-1708,Yonex Fitness Tracker V59,Sports & Fitness,Fitness Trackers,Yonex,241.64,420.0,0.85
+PRD-1709,Boldfit Gym Dumbbells & Band V34,Sports & Fitness,Gym Dumbbells & Bands,Boldfit,536.64,890.0,0.85
+PRD-1710,Kore Badminton & Tenni V91,Sports & Fitness,Badminton & Tennis,Kore,561.18,900.0,0.85
+PRD-1711,Kore Fitness Tracker V31,Sports & Fitness,Fitness Trackers,Kore,293.64,530.0,0.85
+PRD-1712,Nivia Sports Bottle V43,Sports & Fitness,Sports Bottles,Nivia,268.98,460.0,0.85
+PRD-1713,Strauss Sports Bottle V52,Sports & Fitness,Sports Bottles,Strauss,744.2,1110.0,0.85
+PRD-1714,Nivia Gym Dumbbells & Band V49,Sports & Fitness,Gym Dumbbells & Bands,Nivia,329.66,520.0,0.85
+PRD-1715,Strauss Fitness Tracker V84,Sports & Fitness,Fitness Trackers,Strauss,612.26,1080.0,0.85
+PRD-1716,Cosco Badminton & Tenni V91,Sports & Fitness,Badminton & Tennis,Cosco,608.08,1040.0,0.85
+PRD-1717,Boldfit Sports Bottle V34,Sports & Fitness,Sports Bottles,Boldfit,584.61,1140.0,0.85
+PRD-1718,Decathlon Sports Bottle V48,Sports & Fitness,Sports Bottles,Decathlon,602.82,1060.0,0.85
+PRD-1719,Decathlon Fitness Tracker V35,Sports & Fitness,Fitness Trackers,Decathlon,558.77,1060.0,0.85
+PRD-1720,Cosco Badminton & Tenni V68,Sports & Fitness,Badminton & Tennis,Cosco,786.25,1190.0,0.85
+PRD-1721,Yonex Yoga Mat V20,Sports & Fitness,Yoga Mats,Yonex,559.09,1050.0,0.85
+PRD-1722,Yonex Fitness Tracker V91,Sports & Fitness,Fitness Trackers,Yonex,430.78,810.0,0.85
+PRD-1723,Decathlon Gym Dumbbells & Band V31,Sports & Fitness,Gym Dumbbells & Bands,Decathlon,333.37,620.0,0.85
+PRD-1724,Strauss Sports Bottle V21,Sports & Fitness,Sports Bottles,Strauss,205.23,320.0,0.85
+PRD-1725,Boldfit Yoga Mat V64,Sports & Fitness,Yoga Mats,Boldfit,346.38,600.0,0.85
+PRD-1726,Cosco Fitness Tracker V57,Sports & Fitness,Fitness Trackers,Cosco,89.41,150.0,0.85
+PRD-1727,Yonex Gym Dumbbells & Band V12,Sports & Fitness,Gym Dumbbells & Bands,Yonex,559.85,940.0,0.85
+PRD-1728,Kore Gym Dumbbells & Band V54,Sports & Fitness,Gym Dumbbells & Bands,Kore,497.47,920.0,0.85
+PRD-1729,Nivia Badminton & Tenni V49,Sports & Fitness,Badminton & Tennis,Nivia,153.56,260.0,0.85
+PRD-1730,Decathlon Yoga Mat V47,Sports & Fitness,Yoga Mats,Decathlon,559.21,1010.0,0.85
+PRD-1731,Kore Fitness Tracker V65,Sports & Fitness,Fitness Trackers,Kore,416.04,700.0,0.85
+PRD-1732,Yonex Yoga Mat V34,Sports & Fitness,Yoga Mats,Yonex,700.0,1190.0,0.85
+PRD-1733,Strauss Yoga Mat V26,Sports & Fitness,Yoga Mats,Strauss,308.44,570.0,0.85
+PRD-1734,Kore Yoga Mat V25,Sports & Fitness,Yoga Mats,Kore,100.44,170.0,0.85
+PRD-1735,Kore Badminton & Tenni V91,Sports & Fitness,Badminton & Tennis,Kore,420.58,830.0,0.85
+PRD-1736,Strauss Badminton & Tenni V16,Sports & Fitness,Badminton & Tennis,Strauss,361.21,710.0,0.85
+PRD-1737,Kore Gym Dumbbells & Band V24,Sports & Fitness,Gym Dumbbells & Bands,Kore,523.94,1030.0,0.85
+PRD-1738,Cosco Fitness Tracker V70,Sports & Fitness,Fitness Trackers,Cosco,329.18,550.0,0.85
+PRD-1739,Nivia Yoga Mat V48,Sports & Fitness,Yoga Mats,Nivia,539.84,880.0,0.85
+PRD-1740,Kore Fitness Tracker V89,Sports & Fitness,Fitness Trackers,Kore,154.35,260.0,0.85
+PRD-1741,Kore Sports Bottle V23,Sports & Fitness,Sports Bottles,Kore,188.36,290.0,0.85
+PRD-1742,Kore Sports Bottle V23,Sports & Fitness,Sports Bottles,Kore,440.71,800.0,0.85
+PRD-1743,Nivia Fitness Tracker V76,Sports & Fitness,Fitness Trackers,Nivia,505.63,790.0,0.85
+PRD-1744,Yonex Yoga Mat V15,Sports & Fitness,Yoga Mats,Yonex,492.32,890.0,0.85
+PRD-1745,Cosco Sports Bottle V71,Sports & Fitness,Sports Bottles,Cosco,686.26,1100.0,0.85
+PRD-1746,Nivia Badminton & Tenni V24,Sports & Fitness,Badminton & Tennis,Nivia,93.13,150.0,0.85
+PRD-1747,Kore Sports Bottle V75,Sports & Fitness,Sports Bottles,Kore,449.5,670.0,0.85
+PRD-1748,Kore Gym Dumbbells & Band V92,Sports & Fitness,Gym Dumbbells & Bands,Kore,603.2,910.0,0.85
+PRD-1749,Cosco Yoga Mat V69,Sports & Fitness,Yoga Mats,Cosco,658.41,1190.0,0.85
+PRD-1750,Decathlon Gym Dumbbells & Band V47,Sports & Fitness,Gym Dumbbells & Bands,Decathlon,657.35,1000.0,0.85
+PRD-1751,Strauss Badminton & Tenni V24,Sports & Fitness,Badminton & Tennis,Strauss,495.94,860.0,0.85
+PRD-1752,Strauss Gym Dumbbells & Band V27,Sports & Fitness,Gym Dumbbells & Bands,Strauss,482.85,950.0,0.85
+PRD-1753,Yonex Yoga Mat V89,Sports & Fitness,Yoga Mats,Yonex,300.97,520.0,0.85
+PRD-1754,Kore Badminton & Tenni V33,Sports & Fitness,Badminton & Tennis,Kore,161.67,250.0,0.85
+PRD-1755,Cosco Gym Dumbbells & Band V59,Sports & Fitness,Gym Dumbbells & Bands,Cosco,331.84,570.0,0.85
+PRD-1756,Strauss Fitness Tracker V31,Sports & Fitness,Fitness Trackers,Strauss,389.11,590.0,0.85
+PRD-1757,Nivia Gym Dumbbells & Band V30,Sports & Fitness,Gym Dumbbells & Bands,Nivia,449.29,880.0,0.85
+PRD-1758,Cosco Gym Dumbbells & Band V82,Sports & Fitness,Gym Dumbbells & Bands,Cosco,651.44,1110.0,0.85
+PRD-1759,Nivia Fitness Tracker V88,Sports & Fitness,Fitness Trackers,Nivia,505.8,790.0,0.85
+PRD-1760,Strauss Gym Dumbbells & Band V26,Sports & Fitness,Gym Dumbbells & Bands,Strauss,566.31,870.0,0.85
+PRD-1761,Cosco Fitness Tracker V15,Sports & Fitness,Fitness Trackers,Cosco,154.99,270.0,0.85
+PRD-1762,Yonex Gym Dumbbells & Band V96,Sports & Fitness,Gym Dumbbells & Bands,Yonex,421.87,840.0,0.85
+PRD-1763,Strauss Sports Bottle V38,Sports & Fitness,Sports Bottles,Strauss,586.16,930.0,0.85
+PRD-1764,Boldfit Badminton & Tenni V22,Sports & Fitness,Badminton & Tennis,Boldfit,438.27,700.0,0.85
+PRD-1765,Kore Fitness Tracker V94,Sports & Fitness,Fitness Trackers,Kore,533.94,910.0,0.85
+PRD-1766,Nivia Fitness Tracker V88,Sports & Fitness,Fitness Trackers,Nivia,618.52,1030.0,0.85
+PRD-1767,Decathlon Gym Dumbbells & Band V70,Sports & Fitness,Gym Dumbbells & Bands,Decathlon,433.16,820.0,0.85
+PRD-1768,Strauss Fitness Tracker V51,Sports & Fitness,Fitness Trackers,Strauss,203.28,320.0,0.85
+PRD-1769,Yonex Yoga Mat V38,Sports & Fitness,Yoga Mats,Yonex,595.6,1170.0,0.85
+PRD-1770,Kore Sports Bottle V20,Sports & Fitness,Sports Bottles,Kore,355.89,550.0,0.85
+PRD-1771,Parker Pens & Desk Set V73,Books & Stationery,Pens & Desk Sets,Parker,205.64,420.0,0.8
+PRD-1772,Classmate Pens & Desk Set V93,Books & Stationery,Pens & Desk Sets,Classmate,64.93,130.0,0.8
+PRD-1773,Penguin Self-Help & Busine V80,Books & Stationery,Self-Help & Business,Penguin,101.79,250.0,0.8
+PRD-1774,Luxor Self-Help & Busine V89,Books & Stationery,Self-Help & Business,Luxor,62.5,120.0,0.8
+PRD-1775,Faber-Castell Notebooks & Diarie V68,Books & Stationery,Notebooks & Diaries,Faber-Castell,169.89,320.0,0.8
+PRD-1776,Classmate Notebooks & Diarie V68,Books & Stationery,Notebooks & Diaries,Classmate,242.23,430.0,0.8
+PRD-1777,Faber-Castell Notebooks & Diarie V94,Books & Stationery,Notebooks & Diaries,Faber-Castell,208.0,400.0,0.8
+PRD-1778,Camlin Notebooks & Diarie V94,Books & Stationery,Notebooks & Diaries,Camlin,113.26,270.0,0.8
+PRD-1779,Penguin Fiction & Novel V47,Books & Stationery,Fiction & Novels,Penguin,124.51,220.0,0.8
+PRD-1780,Faber-Castell Art & Craft Supplie V31,Books & Stationery,Art & Craft Supplies,Faber-Castell,101.1,240.0,0.8
+PRD-1781,HarperCollins Pens & Desk Set V62,Books & Stationery,Pens & Desk Sets,HarperCollins,230.37,420.0,0.8
+PRD-1782,Classmate Self-Help & Busine V60,Books & Stationery,Self-Help & Business,Classmate,148.75,340.0,0.8
+PRD-1783,Parker Fiction & Novel V53,Books & Stationery,Fiction & Novels,Parker,188.39,430.0,0.8
+PRD-1784,Luxor Self-Help & Busine V96,Books & Stationery,Self-Help & Business,Luxor,146.33,250.0,0.8
+PRD-1785,Penguin Art & Craft Supplie V94,Books & Stationery,Art & Craft Supplies,Penguin,196.04,400.0,0.8
+PRD-1786,Faber-Castell Art & Craft Supplie V77,Books & Stationery,Art & Craft Supplies,Faber-Castell,69.97,140.0,0.8
+PRD-1787,Faber-Castell Self-Help & Busine V71,Books & Stationery,Self-Help & Business,Faber-Castell,266.85,470.0,0.8
+PRD-1788,Luxor Art & Craft Supplie V84,Books & Stationery,Art & Craft Supplies,Luxor,204.66,470.0,0.8
+PRD-1789,Camlin Fiction & Novel V94,Books & Stationery,Fiction & Novels,Camlin,176.7,420.0,0.8
+PRD-1790,Faber-Castell Art & Craft Supplie V59,Books & Stationery,Art & Craft Supplies,Faber-Castell,225.37,450.0,0.8
+PRD-1791,Faber-Castell Pens & Desk Set V45,Books & Stationery,Pens & Desk Sets,Faber-Castell,254.14,460.0,0.8
+PRD-1792,Classmate Pens & Desk Set V27,Books & Stationery,Pens & Desk Sets,Classmate,240.38,490.0,0.8
+PRD-1793,Parker Fiction & Novel V75,Books & Stationery,Fiction & Novels,Parker,190.5,330.0,0.8
+PRD-1794,Luxor Notebooks & Diarie V80,Books & Stationery,Notebooks & Diaries,Luxor,211.69,370.0,0.8
+PRD-1795,HarperCollins Fiction & Novel V97,Books & Stationery,Fiction & Novels,HarperCollins,92.29,170.0,0.8
+PRD-1796,Camlin Notebooks & Diarie V32,Books & Stationery,Notebooks & Diaries,Camlin,70.47,130.0,0.8
+PRD-1797,Faber-Castell Art & Craft Supplie V24,Books & Stationery,Art & Craft Supplies,Faber-Castell,171.86,370.0,0.8
+PRD-1798,Faber-Castell Notebooks & Diarie V95,Books & Stationery,Notebooks & Diaries,Faber-Castell,143.96,280.0,0.8
+PRD-1799,Camlin Pens & Desk Set V46,Books & Stationery,Pens & Desk Sets,Camlin,221.63,390.0,0.8
+PRD-1800,Luxor Pens & Desk Set V58,Books & Stationery,Pens & Desk Sets,Luxor,33.7,80.0,0.8
+PRD-1801,Penguin Fiction & Novel V30,Books & Stationery,Fiction & Novels,Penguin,158.39,360.0,0.8
+PRD-1802,Camlin Notebooks & Diarie V98,Books & Stationery,Notebooks & Diaries,Camlin,102.22,180.0,0.8
+PRD-1803,HarperCollins Notebooks & Diarie V67,Books & Stationery,Notebooks & Diaries,HarperCollins,162.58,400.0,0.8
+PRD-1804,Faber-Castell Self-Help & Busine V38,Books & Stationery,Self-Help & Business,Faber-Castell,241.08,440.0,0.8
+PRD-1805,Parker Art & Craft Supplie V99,Books & Stationery,Art & Craft Supplies,Parker,100.24,180.0,0.8
+PRD-1806,Camlin Notebooks & Diarie V59,Books & Stationery,Notebooks & Diaries,Camlin,210.71,360.0,0.8
+PRD-1807,Luxor Pens & Desk Set V80,Books & Stationery,Pens & Desk Sets,Luxor,226.64,490.0,0.8
+PRD-1808,Penguin Self-Help & Busine V66,Books & Stationery,Self-Help & Business,Penguin,171.84,390.0,0.8
+PRD-1809,Camlin Fiction & Novel V85,Books & Stationery,Fiction & Novels,Camlin,195.92,370.0,0.8
+PRD-1810,Camlin Art & Craft Supplie V34,Books & Stationery,Art & Craft Supplies,Camlin,183.23,330.0,0.8
+PRD-1811,Parker Notebooks & Diarie V33,Books & Stationery,Notebooks & Diaries,Parker,80.48,150.0,0.8
+PRD-1812,Camlin Fiction & Novel V64,Books & Stationery,Fiction & Novels,Camlin,137.88,290.0,0.8
+PRD-1813,Faber-Castell Notebooks & Diarie V42,Books & Stationery,Notebooks & Diaries,Faber-Castell,82.12,190.0,0.8
+PRD-1814,Classmate Self-Help & Busine V15,Books & Stationery,Self-Help & Business,Classmate,158.62,270.0,0.8
+PRD-1815,Classmate Fiction & Novel V90,Books & Stationery,Fiction & Novels,Classmate,183.06,330.0,0.8
+PRD-1816,Luxor Art & Craft Supplie V83,Books & Stationery,Art & Craft Supplies,Luxor,179.32,360.0,0.8
+PRD-1817,Classmate Art & Craft Supplie V77,Books & Stationery,Art & Craft Supplies,Classmate,59.57,110.0,0.8
+PRD-1818,HarperCollins Fiction & Novel V30,Books & Stationery,Fiction & Novels,HarperCollins,167.18,300.0,0.8
+PRD-1819,Faber-Castell Pens & Desk Set V38,Books & Stationery,Pens & Desk Sets,Faber-Castell,125.52,300.0,0.8
+PRD-1820,Camlin Fiction & Novel V37,Books & Stationery,Fiction & Novels,Camlin,103.88,220.0,0.8
+PRD-1821,Faber-Castell Art & Craft Supplie V93,Books & Stationery,Art & Craft Supplies,Faber-Castell,143.43,280.0,0.8
+PRD-1822,Penguin Self-Help & Busine V92,Books & Stationery,Self-Help & Business,Penguin,176.09,360.0,0.8
+PRD-1823,Faber-Castell Art & Craft Supplie V51,Books & Stationery,Art & Craft Supplies,Faber-Castell,73.44,180.0,0.8
+PRD-1824,Luxor Pens & Desk Set V79,Books & Stationery,Pens & Desk Sets,Luxor,229.04,480.0,0.8
+PRD-1825,Penguin Notebooks & Diarie V57,Books & Stationery,Notebooks & Diaries,Penguin,259.63,460.0,0.8
+PRD-1826,Luxor Art & Craft Supplie V47,Books & Stationery,Art & Craft Supplies,Luxor,144.23,290.0,0.8
+PRD-1827,Classmate Fiction & Novel V31,Books & Stationery,Fiction & Novels,Classmate,171.0,290.0,0.8
+PRD-1828,Faber-Castell Art & Craft Supplie V95,Books & Stationery,Art & Craft Supplies,Faber-Castell,33.05,80.0,0.8
+PRD-1829,Luxor Fiction & Novel V36,Books & Stationery,Fiction & Novels,Luxor,209.84,370.0,0.8
+PRD-1830,Luxor Art & Craft Supplie V65,Books & Stationery,Art & Craft Supplies,Luxor,220.24,370.0,0.8
+PRD-1831,Camlin Self-Help & Busine V52,Books & Stationery,Self-Help & Business,Camlin,149.76,370.0,0.8
+PRD-1832,Penguin Self-Help & Busine V42,Books & Stationery,Self-Help & Business,Penguin,47.92,110.0,0.8
+PRD-1833,Penguin Art & Craft Supplie V43,Books & Stationery,Art & Craft Supplies,Penguin,142.57,320.0,0.8
+PRD-1834,Parker Pens & Desk Set V50,Books & Stationery,Pens & Desk Sets,Parker,129.84,270.0,0.8
+PRD-1835,Parker Self-Help & Busine V92,Books & Stationery,Self-Help & Business,Parker,182.51,360.0,0.8
+PRD-1836,Penguin Art & Craft Supplie V99,Books & Stationery,Art & Craft Supplies,Penguin,206.85,400.0,0.8
+PRD-1837,Classmate Self-Help & Busine V97,Books & Stationery,Self-Help & Business,Classmate,197.98,470.0,0.8
+PRD-1838,Faber-Castell Notebooks & Diarie V66,Books & Stationery,Notebooks & Diaries,Faber-Castell,66.37,120.0,0.8
+PRD-1839,Parker Pens & Desk Set V30,Books & Stationery,Pens & Desk Sets,Parker,170.59,420.0,0.8
+PRD-1840,HarperCollins Art & Craft Supplie V79,Books & Stationery,Art & Craft Supplies,HarperCollins,66.95,140.0,0.8
+PRD-1841,Camlin Notebooks & Diarie V92,Books & Stationery,Notebooks & Diaries,Camlin,74.96,140.0,0.8
+PRD-1842,Penguin Notebooks & Diarie V25,Books & Stationery,Notebooks & Diaries,Penguin,158.41,310.0,0.8
+PRD-1843,Penguin Self-Help & Busine V80,Books & Stationery,Self-Help & Business,Penguin,153.22,320.0,0.8
+PRD-1844,Classmate Self-Help & Busine V54,Books & Stationery,Self-Help & Business,Classmate,93.21,170.0,0.8
+PRD-1845,Parker Fiction & Novel V28,Books & Stationery,Fiction & Novels,Parker,262.33,460.0,0.8
+PRD-1846,HarperCollins Fiction & Novel V34,Books & Stationery,Fiction & Novels,HarperCollins,96.38,170.0,0.8
+PRD-1847,HarperCollins Self-Help & Busine V16,Books & Stationery,Self-Help & Business,HarperCollins,184.85,360.0,0.8
+PRD-1848,Parker Art & Craft Supplie V95,Books & Stationery,Art & Craft Supplies,Parker,145.12,350.0,0.8
+PRD-1849,Classmate Self-Help & Busine V72,Books & Stationery,Self-Help & Business,Classmate,65.41,120.0,0.8
+PRD-1850,Classmate Notebooks & Diarie V22,Books & Stationery,Notebooks & Diaries,Classmate,69.04,130.0,0.8
+PRD-1851,Faber-Castell Notebooks & Diarie V72,Books & Stationery,Notebooks & Diaries,Faber-Castell,48.26,110.0,0.8
+PRD-1852,Classmate Pens & Desk Set V84,Books & Stationery,Pens & Desk Sets,Classmate,156.79,340.0,0.8
+PRD-1853,Faber-Castell Fiction & Novel V64,Books & Stationery,Fiction & Novels,Faber-Castell,179.69,320.0,0.8
+PRD-1854,Penguin Fiction & Novel V92,Books & Stationery,Fiction & Novels,Penguin,117.0,210.0,0.8
+PRD-1855,Classmate Pens & Desk Set V52,Books & Stationery,Pens & Desk Sets,Classmate,183.55,430.0,0.8
+PRD-1856,Parker Pens & Desk Set V72,Books & Stationery,Pens & Desk Sets,Parker,149.84,270.0,0.8
+PRD-1857,Penguin Art & Craft Supplie V45,Books & Stationery,Art & Craft Supplies,Penguin,78.2,150.0,0.8
+PRD-1858,Faber-Castell Fiction & Novel V90,Books & Stationery,Fiction & Novels,Faber-Castell,87.47,160.0,0.8
+PRD-1859,Camlin Self-Help & Busine V74,Books & Stationery,Self-Help & Business,Camlin,44.41,110.0,0.8
+PRD-1860,Luxor Self-Help & Busine V85,Books & Stationery,Self-Help & Business,Luxor,153.93,320.0,0.8
+PRD-1861,Lego Building Blocks & Lego V79,Toys & Games,Building Blocks & Lego,Lego,307.28,550.0,0.75
+PRD-1862,Skillmatics Remote Control Car V38,Toys & Games,Remote Control Cars,Skillmatics,376.68,720.0,0.75
+PRD-1863,Skillmatics Educational Game V74,Toys & Games,Educational Games,Skillmatics,376.65,790.0,0.75
+PRD-1864,Lego Educational Game V94,Toys & Games,Educational Games,Lego,236.69,430.0,0.75
+PRD-1865,Hot Wheels Building Blocks & Lego V27,Toys & Games,Building Blocks & Lego,Hot Wheels,390.94,650.0,0.75
+PRD-1866,Hasbro Remote Control Car V94,Toys & Games,Remote Control Cars,Hasbro,166.33,260.0,0.75
+PRD-1867,Skillmatics Building Blocks & Lego V15,Toys & Games,Building Blocks & Lego,Skillmatics,440.11,690.0,0.75
+PRD-1868,Funskool Building Blocks & Lego V39,Toys & Games,Building Blocks & Lego,Funskool,150.86,300.0,0.75
+PRD-1869,Skillmatics Board Games & Puzzle V56,Toys & Games,Board Games & Puzzles,Skillmatics,176.83,280.0,0.75
+PRD-1870,Funskool Remote Control Car V15,Toys & Games,Remote Control Cars,Funskool,519.84,830.0,0.75
+PRD-1871,Lego Action Figures & Doll V45,Toys & Games,Action Figures & Dolls,Lego,371.36,670.0,0.75
+PRD-1872,Hot Wheels Action Figures & Doll V93,Toys & Games,Action Figures & Dolls,Hot Wheels,261.78,540.0,0.75
+PRD-1873,Mattel Remote Control Car V19,Toys & Games,Remote Control Cars,Mattel,365.19,580.0,0.75
+PRD-1874,Mattel Educational Game V76,Toys & Games,Educational Games,Mattel,258.89,410.0,0.75
+PRD-1875,Mattel Remote Control Car V71,Toys & Games,Remote Control Cars,Mattel,394.44,760.0,0.75
+PRD-1876,Lego Educational Game V31,Toys & Games,Educational Games,Lego,243.67,510.0,0.75
+PRD-1877,Lego Building Blocks & Lego V29,Toys & Games,Building Blocks & Lego,Lego,263.2,520.0,0.75
+PRD-1878,Hasbro Building Blocks & Lego V25,Toys & Games,Building Blocks & Lego,Hasbro,237.38,400.0,0.75
+PRD-1879,Funskool Building Blocks & Lego V71,Toys & Games,Building Blocks & Lego,Funskool,445.54,750.0,0.75
+PRD-1880,Funskool Remote Control Car V62,Toys & Games,Remote Control Cars,Funskool,135.03,280.0,0.75
+PRD-1881,Hasbro Board Games & Puzzle V30,Toys & Games,Board Games & Puzzles,Hasbro,84.7,150.0,0.75
+PRD-1882,Skillmatics Building Blocks & Lego V28,Toys & Games,Building Blocks & Lego,Skillmatics,326.64,520.0,0.75
+PRD-1883,Hasbro Board Games & Puzzle V61,Toys & Games,Board Games & Puzzles,Hasbro,155.52,320.0,0.75
+PRD-1884,Hot Wheels Educational Game V94,Toys & Games,Educational Games,Hot Wheels,387.94,620.0,0.75
+PRD-1885,Lego Action Figures & Doll V70,Toys & Games,Action Figures & Dolls,Lego,165.68,290.0,0.75
+PRD-1886,Hasbro Remote Control Car V28,Toys & Games,Remote Control Cars,Hasbro,154.32,290.0,0.75
+PRD-1887,Hasbro Educational Game V31,Toys & Games,Educational Games,Hasbro,336.82,610.0,0.75
+PRD-1888,Funskool Action Figures & Doll V58,Toys & Games,Action Figures & Dolls,Funskool,268.99,580.0,0.75
+PRD-1889,Hasbro Remote Control Car V74,Toys & Games,Remote Control Cars,Hasbro,98.09,200.0,0.75
+PRD-1890,Hasbro Remote Control Car V88,Toys & Games,Remote Control Cars,Hasbro,286.44,590.0,0.75
+PRD-1891,Lego Educational Game V25,Toys & Games,Educational Games,Lego,445.03,800.0,0.75
+PRD-1892,Funskool Board Games & Puzzle V79,Toys & Games,Board Games & Puzzles,Funskool,397.15,630.0,0.75
+PRD-1893,Skillmatics Board Games & Puzzle V57,Toys & Games,Board Games & Puzzles,Skillmatics,349.28,630.0,0.75
+PRD-1894,Skillmatics Board Games & Puzzle V71,Toys & Games,Board Games & Puzzles,Skillmatics,262.83,530.0,0.75
+PRD-1895,Mattel Remote Control Car V99,Toys & Games,Remote Control Cars,Mattel,347.0,580.0,0.75
+PRD-1896,Lego Educational Game V39,Toys & Games,Educational Games,Lego,225.41,450.0,0.75
+PRD-1897,Mattel Board Games & Puzzle V42,Toys & Games,Board Games & Puzzles,Mattel,329.66,590.0,0.75
+PRD-1898,Lego Building Blocks & Lego V83,Toys & Games,Building Blocks & Lego,Lego,407.28,670.0,0.75
+PRD-1899,Lego Educational Game V36,Toys & Games,Educational Games,Lego,273.0,520.0,0.75
+PRD-1900,Funskool Action Figures & Doll V93,Toys & Games,Action Figures & Dolls,Funskool,192.38,400.0,0.75
+PRD-1901,Mattel Educational Game V82,Toys & Games,Educational Games,Mattel,178.31,320.0,0.75
+PRD-1902,Hot Wheels Action Figures & Doll V36,Toys & Games,Action Figures & Dolls,Hot Wheels,193.42,330.0,0.75
+PRD-1903,Hot Wheels Remote Control Car V57,Toys & Games,Remote Control Cars,Hot Wheels,398.94,730.0,0.75
+PRD-1904,Hot Wheels Educational Game V83,Toys & Games,Educational Games,Hot Wheels,323.85,500.0,0.75
+PRD-1905,Skillmatics Action Figures & Doll V94,Toys & Games,Action Figures & Dolls,Skillmatics,205.37,430.0,0.75
+PRD-1906,Skillmatics Board Games & Puzzle V30,Toys & Games,Board Games & Puzzles,Skillmatics,181.99,300.0,0.75
+PRD-1907,Hasbro Board Games & Puzzle V80,Toys & Games,Board Games & Puzzles,Hasbro,315.75,520.0,0.75
+PRD-1908,Skillmatics Educational Game V59,Toys & Games,Educational Games,Skillmatics,299.27,650.0,0.75
+PRD-1909,Lego Board Games & Puzzle V86,Toys & Games,Board Games & Puzzles,Lego,413.69,760.0,0.75
+PRD-1910,Lego Remote Control Car V20,Toys & Games,Remote Control Cars,Lego,84.04,170.0,0.75
+PRD-1911,Lego Educational Game V61,Toys & Games,Educational Games,Lego,432.57,680.0,0.75
+PRD-1912,Skillmatics Educational Game V86,Toys & Games,Educational Games,Skillmatics,313.93,530.0,0.75
+PRD-1913,Hasbro Board Games & Puzzle V35,Toys & Games,Board Games & Puzzles,Hasbro,333.43,620.0,0.75
+PRD-1914,Mattel Educational Game V75,Toys & Games,Educational Games,Mattel,163.83,270.0,0.75
+PRD-1915,Skillmatics Educational Game V14,Toys & Games,Educational Games,Skillmatics,145.17,300.0,0.75
+PRD-1916,Hasbro Action Figures & Doll V21,Toys & Games,Action Figures & Dolls,Hasbro,406.43,630.0,0.75
+PRD-1917,Funskool Action Figures & Doll V85,Toys & Games,Action Figures & Dolls,Funskool,206.32,390.0,0.75
+PRD-1918,Hot Wheels Building Blocks & Lego V21,Toys & Games,Building Blocks & Lego,Hot Wheels,76.79,130.0,0.75
+PRD-1919,Mattel Educational Game V84,Toys & Games,Educational Games,Mattel,387.66,690.0,0.75
+PRD-1920,Mattel Action Figures & Doll V87,Toys & Games,Action Figures & Dolls,Mattel,439.61,870.0,0.75
+PRD-1921,Funskool Building Blocks & Lego V43,Toys & Games,Building Blocks & Lego,Funskool,474.58,840.0,0.75
+PRD-1922,Funskool Building Blocks & Lego V74,Toys & Games,Building Blocks & Lego,Funskool,286.48,510.0,0.75
+PRD-1923,Mattel Action Figures & Doll V42,Toys & Games,Action Figures & Dolls,Mattel,525.11,860.0,0.75
+PRD-1924,Hot Wheels Educational Game V58,Toys & Games,Educational Games,Hot Wheels,166.95,310.0,0.75
+PRD-1925,Funskool Educational Game V68,Toys & Games,Educational Games,Funskool,433.08,720.0,0.75
+PRD-1926,Hot Wheels Remote Control Car V43,Toys & Games,Remote Control Cars,Hot Wheels,431.65,790.0,0.75
+PRD-1927,Funskool Board Games & Puzzle V96,Toys & Games,Board Games & Puzzles,Funskool,395.79,610.0,0.75
+PRD-1928,Mattel Building Blocks & Lego V78,Toys & Games,Building Blocks & Lego,Mattel,229.07,440.0,0.75
+PRD-1929,Skillmatics Board Games & Puzzle V21,Toys & Games,Board Games & Puzzles,Skillmatics,384.73,770.0,0.75
+PRD-1930,Skillmatics Remote Control Car V80,Toys & Games,Remote Control Cars,Skillmatics,362.88,700.0,0.75
+PRD-1931,Funskool Building Blocks & Lego V83,Toys & Games,Building Blocks & Lego,Funskool,177.74,360.0,0.75
+PRD-1932,Hasbro Action Figures & Doll V34,Toys & Games,Action Figures & Dolls,Hasbro,504.49,860.0,0.75
+PRD-1933,Skillmatics Remote Control Car V43,Toys & Games,Remote Control Cars,Skillmatics,161.21,270.0,0.75
+PRD-1934,Hasbro Building Blocks & Lego V89,Toys & Games,Building Blocks & Lego,Hasbro,139.98,280.0,0.75
+PRD-1935,Hasbro Action Figures & Doll V20,Toys & Games,Action Figures & Dolls,Hasbro,346.0,730.0,0.75
+PRD-1936,Hot Wheels Remote Control Car V15,Toys & Games,Remote Control Cars,Hot Wheels,74.57,120.0,0.75
+PRD-1937,Mattel Remote Control Car V83,Toys & Games,Remote Control Cars,Mattel,329.08,600.0,0.75
+PRD-1938,Funskool Action Figures & Doll V75,Toys & Games,Action Figures & Dolls,Funskool,156.74,260.0,0.75
+PRD-1939,Funskool Action Figures & Doll V16,Toys & Games,Action Figures & Dolls,Funskool,163.95,290.0,0.75
+PRD-1940,Funskool Educational Game V74,Toys & Games,Educational Games,Funskool,273.5,490.0,0.75
+PRD-1941,Cadbury Healthy Snack V68,Grocery & Gourmet,Healthy Snacks,Cadbury,282.42,390.0,0.9
+PRD-1942,Kellogg's Tea & Coffee Blend V11,Grocery & Gourmet,Tea & Coffee Blends,Kellogg's,169.13,260.0,0.9
+PRD-1943,Kellogg's Tea & Coffee Blend V51,Grocery & Gourmet,Tea & Coffee Blends,Kellogg's,97.01,140.0,0.9
+PRD-1944,Organic India Healthy Snack V43,Grocery & Gourmet,Healthy Snacks,Organic India,251.98,400.0,0.9
+PRD-1945,Happilo Dry Fruits & Nut V56,Grocery & Gourmet,Dry Fruits & Nuts,Happilo,167.54,240.0,0.9
+PRD-1946,Cadbury Dry Fruits & Nut V57,Grocery & Gourmet,Dry Fruits & Nuts,Cadbury,146.75,220.0,0.9
+PRD-1947,Yoga Bar Healthy Snack V83,Grocery & Gourmet,Healthy Snacks,Yoga Bar,147.87,220.0,0.9
+PRD-1948,Organic India Dry Fruits & Nut V44,Grocery & Gourmet,Dry Fruits & Nuts,Organic India,240.99,330.0,0.9
+PRD-1949,Organic India Dry Fruits & Nut V28,Grocery & Gourmet,Dry Fruits & Nuts,Organic India,152.02,230.0,0.9
+PRD-1950,Cadbury Dry Fruits & Nut V73,Grocery & Gourmet,Dry Fruits & Nuts,Cadbury,232.46,370.0,0.9
+PRD-1951,Yoga Bar Dry Fruits & Nut V50,Grocery & Gourmet,Dry Fruits & Nuts,Yoga Bar,205.63,300.0,0.9
+PRD-1952,Happilo Artisanal Chocolate V16,Grocery & Gourmet,Artisanal Chocolates,Happilo,117.98,160.0,0.9
+PRD-1953,Tata Tea Artisanal Chocolate V42,Grocery & Gourmet,Artisanal Chocolates,Tata Tea,201.17,330.0,0.9
+PRD-1954,Yoga Bar Artisanal Chocolate V52,Grocery & Gourmet,Artisanal Chocolates,Yoga Bar,201.59,300.0,0.9
+PRD-1955,Happilo Healthy Snack V42,Grocery & Gourmet,Healthy Snacks,Happilo,137.84,200.0,0.9
+PRD-1956,Tata Tea Healthy Snack V96,Grocery & Gourmet,Healthy Snacks,Tata Tea,144.36,220.0,0.9
+PRD-1957,Nescafe Breakfast Cereal V78,Grocery & Gourmet,Breakfast Cereals,Nescafe,197.11,280.0,0.9
+PRD-1958,Yoga Bar Dry Fruits & Nut V75,Grocery & Gourmet,Dry Fruits & Nuts,Yoga Bar,110.84,170.0,0.9
+PRD-1959,Yoga Bar Artisanal Chocolate V58,Grocery & Gourmet,Artisanal Chocolates,Yoga Bar,259.82,350.0,0.9
+PRD-1960,Happilo Breakfast Cereal V31,Grocery & Gourmet,Breakfast Cereals,Happilo,180.73,240.0,0.9
+PRD-1961,Cadbury Healthy Snack V19,Grocery & Gourmet,Healthy Snacks,Cadbury,214.35,310.0,0.9
+PRD-1962,Nescafe Tea & Coffee Blend V93,Grocery & Gourmet,Tea & Coffee Blends,Nescafe,123.53,190.0,0.9
+PRD-1963,Kellogg's Healthy Snack V44,Grocery & Gourmet,Healthy Snacks,Kellogg's,112.5,160.0,0.9
+PRD-1964,Yoga Bar Artisanal Chocolate V85,Grocery & Gourmet,Artisanal Chocolates,Yoga Bar,263.24,400.0,0.9
+PRD-1965,Cadbury Breakfast Cereal V12,Grocery & Gourmet,Breakfast Cereals,Cadbury,138.47,220.0,0.9
+PRD-1966,Kellogg's Dry Fruits & Nut V99,Grocery & Gourmet,Dry Fruits & Nuts,Kellogg's,96.04,150.0,0.9
+PRD-1967,Nescafe Tea & Coffee Blend V18,Grocery & Gourmet,Tea & Coffee Blends,Nescafe,73.98,120.0,0.9
+PRD-1968,Organic India Artisanal Chocolate V77,Grocery & Gourmet,Artisanal Chocolates,Organic India,57.87,80.0,0.9
+PRD-1969,Tata Tea Tea & Coffee Blend V93,Grocery & Gourmet,Tea & Coffee Blends,Tata Tea,99.98,160.0,0.9
+PRD-1970,Happilo Artisanal Chocolate V66,Grocery & Gourmet,Artisanal Chocolates,Happilo,107.7,150.0,0.9
+PRD-1971,Nescafe Dry Fruits & Nut V14,Grocery & Gourmet,Dry Fruits & Nuts,Nescafe,163.1,260.0,0.9
+PRD-1972,Yoga Bar Healthy Snack V69,Grocery & Gourmet,Healthy Snacks,Yoga Bar,310.08,420.0,0.9
+PRD-1973,Happilo Breakfast Cereal V99,Grocery & Gourmet,Breakfast Cereals,Happilo,167.84,270.0,0.9
+PRD-1974,Nescafe Breakfast Cereal V91,Grocery & Gourmet,Breakfast Cereals,Nescafe,195.18,290.0,0.9
+PRD-1975,Cadbury Breakfast Cereal V49,Grocery & Gourmet,Breakfast Cereals,Cadbury,182.6,260.0,0.9
+PRD-1976,Cadbury Healthy Snack V66,Grocery & Gourmet,Healthy Snacks,Cadbury,196.76,270.0,0.9
+PRD-1977,Happilo Healthy Snack V11,Grocery & Gourmet,Healthy Snacks,Happilo,137.48,220.0,0.9
+PRD-1978,Organic India Tea & Coffee Blend V54,Grocery & Gourmet,Tea & Coffee Blends,Organic India,279.56,380.0,0.9
+PRD-1979,Cadbury Healthy Snack V72,Grocery & Gourmet,Healthy Snacks,Cadbury,191.71,270.0,0.9
+PRD-1980,Happilo Artisanal Chocolate V47,Grocery & Gourmet,Artisanal Chocolates,Happilo,40.13,60.0,0.9
+PRD-1981,Nescafe Breakfast Cereal V34,Grocery & Gourmet,Breakfast Cereals,Nescafe,254.45,370.0,0.9
+PRD-1982,Organic India Artisanal Chocolate V92,Grocery & Gourmet,Artisanal Chocolates,Organic India,147.2,230.0,0.9
+PRD-1983,Yoga Bar Artisanal Chocolate V64,Grocery & Gourmet,Artisanal Chocolates,Yoga Bar,134.84,210.0,0.9
+PRD-1984,Organic India Dry Fruits & Nut V98,Grocery & Gourmet,Dry Fruits & Nuts,Organic India,268.41,360.0,0.9
+PRD-1985,Happilo Healthy Snack V44,Grocery & Gourmet,Healthy Snacks,Happilo,212.38,310.0,0.9
+PRD-1986,Nescafe Artisanal Chocolate V47,Grocery & Gourmet,Artisanal Chocolates,Nescafe,245.38,390.0,0.9
+PRD-1987,Kellogg's Tea & Coffee Blend V99,Grocery & Gourmet,Tea & Coffee Blends,Kellogg's,161.39,240.0,0.9
+PRD-1988,Cadbury Breakfast Cereal V16,Grocery & Gourmet,Breakfast Cereals,Cadbury,78.4,130.0,0.9
+PRD-1989,Tata Tea Breakfast Cereal V44,Grocery & Gourmet,Breakfast Cereals,Tata Tea,80.13,130.0,0.9
+PRD-1990,Kellogg's Dry Fruits & Nut V21,Grocery & Gourmet,Dry Fruits & Nuts,Kellogg's,138.3,230.0,0.9
+PRD-1991,Tata Tea Dry Fruits & Nut V49,Grocery & Gourmet,Dry Fruits & Nuts,Tata Tea,163.68,250.0,0.9
+PRD-1992,Happilo Artisanal Chocolate V52,Grocery & Gourmet,Artisanal Chocolates,Happilo,174.39,240.0,0.9
+PRD-1993,Yoga Bar Tea & Coffee Blend V44,Grocery & Gourmet,Tea & Coffee Blends,Yoga Bar,218.18,350.0,0.9
+PRD-1994,Tata Tea Artisanal Chocolate V42,Grocery & Gourmet,Artisanal Chocolates,Tata Tea,169.85,270.0,0.9
+PRD-1995,Yoga Bar Artisanal Chocolate V41,Grocery & Gourmet,Artisanal Chocolates,Yoga Bar,45.36,60.0,0.9
+PRD-1996,Yoga Bar Artisanal Chocolate V14,Grocery & Gourmet,Artisanal Chocolates,Yoga Bar,281.4,440.0,0.9
+PRD-1997,Cadbury Dry Fruits & Nut V95,Grocery & Gourmet,Dry Fruits & Nuts,Cadbury,215.26,350.0,0.9
+PRD-1998,Cadbury Dry Fruits & Nut V51,Grocery & Gourmet,Dry Fruits & Nuts,Cadbury,158.3,210.0,0.9
+PRD-1999,Kellogg's Dry Fruits & Nut V80,Grocery & Gourmet,Dry Fruits & Nuts,Kellogg's,244.51,340.0,0.9
+PRD-2000,Tata Tea Breakfast Cereal V35,Grocery & Gourmet,Breakfast Cereals,Tata Tea,112.35,160.0,0.9
+PRD-2001,Tata Tea Healthy Snack V24,Grocery & Gourmet,Healthy Snacks,Tata Tea,253.94,400.0,0.9
+PRD-2002,Kellogg's Dry Fruits & Nut V45,Grocery & Gourmet,Dry Fruits & Nuts,Kellogg's,138.55,230.0,0.9
+PRD-2003,Tata Tea Breakfast Cereal V15,Grocery & Gourmet,Breakfast Cereals,Tata Tea,134.17,210.0,0.9
+PRD-2004,Yoga Bar Breakfast Cereal V29,Grocery & Gourmet,Breakfast Cereals,Yoga Bar,234.35,330.0,0.9
+PRD-2005,Yoga Bar Healthy Snack V21,Grocery & Gourmet,Healthy Snacks,Yoga Bar,56.27,90.0,0.9
+PRD-2006,Happilo Breakfast Cereal V90,Grocery & Gourmet,Breakfast Cereals,Happilo,319.0,420.0,0.9
+PRD-2007,Tata Tea Tea & Coffee Blend V78,Grocery & Gourmet,Tea & Coffee Blends,Tata Tea,124.93,200.0,0.9
+PRD-2008,Nescafe Tea & Coffee Blend V81,Grocery & Gourmet,Tea & Coffee Blends,Nescafe,162.67,250.0,0.9
+PRD-2009,Yoga Bar Healthy Snack V12,Grocery & Gourmet,Healthy Snacks,Yoga Bar,294.1,410.0,0.9
+PRD-2010,Happilo Artisanal Chocolate V15,Grocery & Gourmet,Artisanal Chocolates,Happilo,217.64,340.0,0.9
+PRD-2011,Kellogg's Artisanal Chocolate V99,Grocery & Gourmet,Artisanal Chocolates,Kellogg's,148.85,230.0,0.9
+PRD-2012,Nescafe Artisanal Chocolate V51,Grocery & Gourmet,Artisanal Chocolates,Nescafe,192.35,280.0,0.9
+PRD-2013,Happilo Artisanal Chocolate V80,Grocery & Gourmet,Artisanal Chocolates,Happilo,278.32,400.0,0.9
+PRD-2014,Tata Tea Dry Fruits & Nut V43,Grocery & Gourmet,Dry Fruits & Nuts,Tata Tea,181.41,270.0,0.9
+PRD-2015,Happilo Breakfast Cereal V74,Grocery & Gourmet,Breakfast Cereals,Happilo,173.8,240.0,0.9
+PRD-2016,Kellogg's Artisanal Chocolate V56,Grocery & Gourmet,Artisanal Chocolates,Kellogg's,78.39,130.0,0.9
+PRD-2017,Nescafe Breakfast Cereal V78,Grocery & Gourmet,Breakfast Cereals,Nescafe,109.82,180.0,0.9
+PRD-2018,Nescafe Artisanal Chocolate V80,Grocery & Gourmet,Artisanal Chocolates,Nescafe,176.7,260.0,0.9
+PRD-2019,Organic India Dry Fruits & Nut V51,Grocery & Gourmet,Dry Fruits & Nuts,Organic India,113.15,170.0,0.9
+PRD-2020,Tata Tea Tea & Coffee Blend V26,Grocery & Gourmet,Tea & Coffee Blends,Tata Tea,158.77,260.0,0.9
+PRD-2021,Himalaya Ayurvedic Supplement V22,Health & Wellness,Ayurvedic Supplements,Himalaya,151.82,280.0,0.72
+PRD-2022,Fast&Up Multivitamins & Omega-3 V72,Health & Wellness,Multivitamins & Omega-3,Fast&Up,324.78,620.0,0.72
+PRD-2023,Fast&Up BP & Sugar Monitor V56,Health & Wellness,BP & Sugar Monitors,Fast&Up,334.08,670.0,0.72
+PRD-2024,Fast&Up Ayurvedic Supplement V36,Health & Wellness,Ayurvedic Supplements,Fast&Up,307.69,680.0,0.72
+PRD-2025,Himalaya Protein Powders (Mini) V56,Health & Wellness,Protein Powders (Mini),Himalaya,274.27,480.0,0.72
+PRD-2026,Kapiva BP & Sugar Monitor V57,Health & Wellness,BP & Sugar Monitors,Kapiva,449.68,850.0,0.72
+PRD-2027,Fast&Up Multivitamins & Omega-3 V19,Health & Wellness,Multivitamins & Omega-3,Fast&Up,151.05,330.0,0.72
+PRD-2028,Himalaya Immunity Booster V22,Health & Wellness,Immunity Boosters,Himalaya,543.96,860.0,0.72
+PRD-2029,Kapiva Multivitamins & Omega-3 V34,Health & Wellness,Multivitamins & Omega-3,Kapiva,156.96,300.0,0.72
+PRD-2030,Kapiva BP & Sugar Monitor V32,Health & Wellness,BP & Sugar Monitors,Kapiva,176.33,310.0,0.72
+PRD-2031,Kapiva BP & Sugar Monitor V91,Health & Wellness,BP & Sugar Monitors,Kapiva,325.47,550.0,0.72
+PRD-2032,MuscleBlaze BP & Sugar Monitor V64,Health & Wellness,BP & Sugar Monitors,MuscleBlaze,379.26,650.0,0.72
+PRD-2033,Dabur Multivitamins & Omega-3 V74,Health & Wellness,Multivitamins & Omega-3,Dabur,410.33,740.0,0.72
+PRD-2034,Kapiva Immunity Booster V66,Health & Wellness,Immunity Boosters,Kapiva,153.53,240.0,0.72
+PRD-2035,MuscleBlaze Immunity Booster V57,Health & Wellness,Immunity Boosters,MuscleBlaze,351.67,550.0,0.72
+PRD-2036,Kapiva Protein Powders (Mini) V87,Health & Wellness,Protein Powders (Mini),Kapiva,264.56,450.0,0.72
+PRD-2037,Fast&Up Ayurvedic Supplement V80,Health & Wellness,Ayurvedic Supplements,Fast&Up,281.48,540.0,0.72
+PRD-2038,MuscleBlaze Immunity Booster V60,Health & Wellness,Immunity Boosters,MuscleBlaze,465.47,870.0,0.72
+PRD-2039,Kapiva Multivitamins & Omega-3 V12,Health & Wellness,Multivitamins & Omega-3,Kapiva,75.61,150.0,0.72
+PRD-2040,Dabur BP & Sugar Monitor V48,Health & Wellness,BP & Sugar Monitors,Dabur,451.54,890.0,0.72
+PRD-2041,Dabur Ayurvedic Supplement V98,Health & Wellness,Ayurvedic Supplements,Dabur,358.76,790.0,0.72
+PRD-2042,Fast&Up Immunity Booster V83,Health & Wellness,Immunity Boosters,Fast&Up,290.38,520.0,0.72
+PRD-2043,Himalaya Ayurvedic Supplement V27,Health & Wellness,Ayurvedic Supplements,Himalaya,77.64,150.0,0.72
+PRD-2044,MuscleBlaze Immunity Booster V42,Health & Wellness,Immunity Boosters,MuscleBlaze,402.95,810.0,0.72
+PRD-2045,Himalaya Immunity Booster V37,Health & Wellness,Immunity Boosters,Himalaya,312.55,560.0,0.72
+PRD-2046,Kapiva Multivitamins & Omega-3 V72,Health & Wellness,Multivitamins & Omega-3,Kapiva,200.42,370.0,0.72
+PRD-2047,Himalaya BP & Sugar Monitor V83,Health & Wellness,BP & Sugar Monitors,Himalaya,294.1,580.0,0.72
+PRD-2048,Himalaya Protein Powders (Mini) V52,Health & Wellness,Protein Powders (Mini),Himalaya,456.36,730.0,0.72
+PRD-2049,Dr. Morepen Immunity Booster V39,Health & Wellness,Immunity Boosters,Dr. Morepen,270.55,440.0,0.72
+PRD-2050,Himalaya BP & Sugar Monitor V16,Health & Wellness,BP & Sugar Monitors,Himalaya,347.77,610.0,0.72
+PRD-2051,Fast&Up Immunity Booster V29,Health & Wellness,Immunity Boosters,Fast&Up,82.89,150.0,0.72
+PRD-2052,Fast&Up Immunity Booster V96,Health & Wellness,Immunity Boosters,Fast&Up,316.21,660.0,0.72
+PRD-2053,Dr. Morepen Protein Powders (Mini) V21,Health & Wellness,Protein Powders (Mini),Dr. Morepen,397.1,710.0,0.72
+PRD-2054,Dr. Morepen Ayurvedic Supplement V26,Health & Wellness,Ayurvedic Supplements,Dr. Morepen,183.72,350.0,0.72
+PRD-2055,Himalaya Immunity Booster V80,Health & Wellness,Immunity Boosters,Himalaya,289.89,490.0,0.72
+PRD-2056,MuscleBlaze Protein Powders (Mini) V99,Health & Wellness,Protein Powders (Mini),MuscleBlaze,103.62,190.0,0.72
+PRD-2057,Dabur Ayurvedic Supplement V60,Health & Wellness,Ayurvedic Supplements,Dabur,238.94,490.0,0.72
+PRD-2058,Dabur BP & Sugar Monitor V77,Health & Wellness,BP & Sugar Monitors,Dabur,358.09,560.0,0.72
+PRD-2059,Dabur Ayurvedic Supplement V51,Health & Wellness,Ayurvedic Supplements,Dabur,101.59,170.0,0.72
+PRD-2060,Himalaya BP & Sugar Monitor V56,Health & Wellness,BP & Sugar Monitors,Himalaya,111.0,210.0,0.72
+PRD-2061,Dabur Immunity Booster V13,Health & Wellness,Immunity Boosters,Dabur,208.25,370.0,0.72
+PRD-2062,Dabur Immunity Booster V66,Health & Wellness,Immunity Boosters,Dabur,504.7,890.0,0.72
+PRD-2063,Dabur BP & Sugar Monitor V39,Health & Wellness,BP & Sugar Monitors,Dabur,287.78,460.0,0.72
+PRD-2064,Kapiva Ayurvedic Supplement V20,Health & Wellness,Ayurvedic Supplements,Kapiva,243.53,410.0,0.72
+PRD-2065,Kapiva Multivitamins & Omega-3 V28,Health & Wellness,Multivitamins & Omega-3,Kapiva,100.85,160.0,0.72
+PRD-2066,Himalaya Immunity Booster V49,Health & Wellness,Immunity Boosters,Himalaya,235.1,390.0,0.72
+PRD-2067,Dr. Morepen Protein Powders (Mini) V78,Health & Wellness,Protein Powders (Mini),Dr. Morepen,68.56,140.0,0.72
+PRD-2068,Dabur Ayurvedic Supplement V80,Health & Wellness,Ayurvedic Supplements,Dabur,325.91,550.0,0.72
+PRD-2069,Fast&Up Protein Powders (Mini) V99,Health & Wellness,Protein Powders (Mini),Fast&Up,329.03,690.0,0.72
+PRD-2070,Dr. Morepen Multivitamins & Omega-3 V15,Health & Wellness,Multivitamins & Omega-3,Dr. Morepen,328.36,570.0,0.72
+PRD-2071,Dabur Immunity Booster V99,Health & Wellness,Immunity Boosters,Dabur,82.98,170.0,0.72
+PRD-2072,MuscleBlaze BP & Sugar Monitor V11,Health & Wellness,BP & Sugar Monitors,MuscleBlaze,91.9,160.0,0.72
+PRD-2073,Dr. Morepen Multivitamins & Omega-3 V94,Health & Wellness,Multivitamins & Omega-3,Dr. Morepen,362.86,630.0,0.72
+PRD-2074,Himalaya Immunity Booster V93,Health & Wellness,Immunity Boosters,Himalaya,79.93,130.0,0.72
+PRD-2075,Dabur Protein Powders (Mini) V22,Health & Wellness,Protein Powders (Mini),Dabur,481.03,880.0,0.72
+PRD-2076,Dr. Morepen Immunity Booster V33,Health & Wellness,Immunity Boosters,Dr. Morepen,440.8,800.0,0.72
+PRD-2077,Fast&Up Ayurvedic Supplement V12,Health & Wellness,Ayurvedic Supplements,Fast&Up,484.18,870.0,0.72
+PRD-2078,Dabur Multivitamins & Omega-3 V72,Health & Wellness,Multivitamins & Omega-3,Dabur,426.67,840.0,0.72
+PRD-2079,Kapiva Protein Powders (Mini) V55,Health & Wellness,Protein Powders (Mini),Kapiva,123.81,240.0,0.72
+PRD-2080,Kapiva Immunity Booster V74,Health & Wellness,Immunity Boosters,Kapiva,223.73,350.0,0.72
+PRD-2081,Himalaya Immunity Booster V13,Health & Wellness,Immunity Boosters,Himalaya,376.34,610.0,0.72
+PRD-2082,MuscleBlaze BP & Sugar Monitor V60,Health & Wellness,BP & Sugar Monitors,MuscleBlaze,149.33,290.0,0.72
+PRD-2083,Himalaya Ayurvedic Supplement V96,Health & Wellness,Ayurvedic Supplements,Himalaya,378.77,690.0,0.72
+PRD-2084,Kapiva BP & Sugar Monitor V83,Health & Wellness,BP & Sugar Monitors,Kapiva,344.04,650.0,0.72
+PRD-2085,Dr. Morepen Ayurvedic Supplement V52,Health & Wellness,Ayurvedic Supplements,Dr. Morepen,548.11,880.0,0.72
+PRD-2086,Fast&Up Protein Powders (Mini) V84,Health & Wellness,Protein Powders (Mini),Fast&Up,126.27,220.0,0.72
+PRD-2087,Kapiva BP & Sugar Monitor V49,Health & Wellness,BP & Sugar Monitors,Kapiva,454.28,740.0,0.72
+PRD-2088,Dabur BP & Sugar Monitor V28,Health & Wellness,BP & Sugar Monitors,Dabur,280.22,450.0,0.72
+PRD-2089,Dabur BP & Sugar Monitor V25,Health & Wellness,BP & Sugar Monitors,Dabur,205.68,370.0,0.72
+PRD-2090,MuscleBlaze Ayurvedic Supplement V13,Health & Wellness,Ayurvedic Supplements,MuscleBlaze,367.79,770.0,0.72
+PRD-2091,Amblin Microfiber Cleaning Kit V91,Automotive Accessories,Microfiber Cleaning Kits,Amblin,594.31,1060.0,0.65
+PRD-2092,3M Microfiber Cleaning Kit V33,Automotive Accessories,Microfiber Cleaning Kits,3M,458.79,880.0,0.65
+PRD-2093,Bergmann Car Phone Holder V88,Automotive Accessories,Car Phone Holders,Bergmann,447.21,720.0,0.65
+PRD-2094,Bergmann Car Air Freshener V55,Automotive Accessories,Car Air Fresheners,Bergmann,223.12,350.0,0.65
+PRD-2095,Portronics Car Phone Holder V87,Automotive Accessories,Car Phone Holders,Portronics,463.6,880.0,0.65
+PRD-2096,Portronics Tyre Inflator V59,Automotive Accessories,Tyre Inflators,Portronics,407.96,760.0,0.65
+PRD-2097,Amblin Tyre Inflator V14,Automotive Accessories,Tyre Inflators,Amblin,134.66,250.0,0.65
+PRD-2098,Bosch Tyre Inflator V38,Automotive Accessories,Tyre Inflators,Bosch,710.74,1030.0,0.65
+PRD-2099,3M Car Air Freshener V66,Automotive Accessories,Car Air Fresheners,3M,123.38,180.0,0.65
+PRD-2100,Amblin Seat Cushion V41,Automotive Accessories,Seat Cushions,Amblin,531.95,790.0,0.65
+PRD-2101,Amblin Tyre Inflator V58,Automotive Accessories,Tyre Inflators,Amblin,547.0,880.0,0.65
+PRD-2102,Amblin Microfiber Cleaning Kit V86,Automotive Accessories,Microfiber Cleaning Kits,Amblin,466.92,720.0,0.65
+PRD-2103,Bergmann Seat Cushion V14,Automotive Accessories,Seat Cushions,Bergmann,480.62,750.0,0.65
+PRD-2104,Bosch Seat Cushion V15,Automotive Accessories,Seat Cushions,Bosch,372.63,560.0,0.65
+PRD-2105,Bergmann Car Air Freshener V15,Automotive Accessories,Car Air Fresheners,Bergmann,452.9,650.0,0.65
+PRD-2106,Amblin Seat Cushion V16,Automotive Accessories,Seat Cushions,Amblin,388.2,620.0,0.65
+PRD-2107,Godrej aer Car Air Freshener V46,Automotive Accessories,Car Air Fresheners,Godrej aer,372.28,550.0,0.65
+PRD-2108,3M Tyre Inflator V16,Automotive Accessories,Tyre Inflators,3M,329.99,530.0,0.65
+PRD-2109,3M Seat Cushion V21,Automotive Accessories,Seat Cushions,3M,358.66,570.0,0.65
+PRD-2110,Bosch Seat Cushion V99,Automotive Accessories,Seat Cushions,Bosch,185.13,300.0,0.65
+PRD-2111,3M Seat Cushion V13,Automotive Accessories,Seat Cushions,3M,282.35,500.0,0.65
+PRD-2112,Amblin Car Air Freshener V35,Automotive Accessories,Car Air Fresheners,Amblin,449.77,700.0,0.65
+PRD-2113,Bosch Tyre Inflator V30,Automotive Accessories,Tyre Inflators,Bosch,229.8,360.0,0.65
+PRD-2114,Bosch Car Phone Holder V56,Automotive Accessories,Car Phone Holders,Bosch,135.67,230.0,0.65
+PRD-2115,Bergmann Car Phone Holder V75,Automotive Accessories,Car Phone Holders,Bergmann,522.75,810.0,0.65
+PRD-2116,3M Seat Cushion V31,Automotive Accessories,Seat Cushions,3M,282.3,490.0,0.65
+PRD-2117,Bergmann Microfiber Cleaning Kit V30,Automotive Accessories,Microfiber Cleaning Kits,Bergmann,652.36,970.0,0.65
+PRD-2118,3M Car Air Freshener V49,Automotive Accessories,Car Air Fresheners,3M,443.93,870.0,0.65
+PRD-2119,Portronics Microfiber Cleaning Kit V90,Automotive Accessories,Microfiber Cleaning Kits,Portronics,512.65,870.0,0.65
+PRD-2120,Bosch Car Air Freshener V10,Automotive Accessories,Car Air Fresheners,Bosch,692.09,1000.0,0.65
+PRD-2121,Godrej aer Seat Cushion V73,Automotive Accessories,Seat Cushions,Godrej aer,77.94,130.0,0.65
+PRD-2122,Bosch Seat Cushion V37,Automotive Accessories,Seat Cushions,Bosch,425.07,710.0,0.65
+PRD-2123,Portronics Seat Cushion V20,Automotive Accessories,Seat Cushions,Portronics,343.4,590.0,0.65
+PRD-2124,Bergmann Seat Cushion V45,Automotive Accessories,Seat Cushions,Bergmann,87.94,130.0,0.65
+PRD-2125,Portronics Seat Cushion V16,Automotive Accessories,Seat Cushions,Portronics,445.58,670.0,0.65
+PRD-2126,3M Car Air Freshener V28,Automotive Accessories,Car Air Fresheners,3M,96.87,170.0,0.65
+PRD-2127,Portronics Car Phone Holder V52,Automotive Accessories,Car Phone Holders,Portronics,428.25,690.0,0.65
+PRD-2128,Bosch Car Phone Holder V30,Automotive Accessories,Car Phone Holders,Bosch,160.71,230.0,0.65
+PRD-2129,Bergmann Microfiber Cleaning Kit V83,Automotive Accessories,Microfiber Cleaning Kits,Bergmann,492.78,770.0,0.65
+PRD-2130,3M Seat Cushion V56,Automotive Accessories,Seat Cushions,3M,695.36,1070.0,0.65
+PRD-2131,Bosch Car Phone Holder V58,Automotive Accessories,Car Phone Holders,Bosch,491.17,870.0,0.65
+PRD-2132,Amblin Car Phone Holder V70,Automotive Accessories,Car Phone Holders,Amblin,487.34,950.0,0.65
+PRD-2133,Bosch Car Air Freshener V77,Automotive Accessories,Car Air Fresheners,Bosch,443.91,800.0,0.65
+PRD-2134,Bergmann Tyre Inflator V17,Automotive Accessories,Tyre Inflators,Bergmann,173.38,320.0,0.65
+PRD-2135,Bergmann Car Phone Holder V21,Automotive Accessories,Car Phone Holders,Bergmann,519.41,830.0,0.65
+PRD-2136,Portronics Tyre Inflator V46,Automotive Accessories,Tyre Inflators,Portronics,542.55,790.0,0.65
+PRD-2137,Bergmann Tyre Inflator V83,Automotive Accessories,Tyre Inflators,Bergmann,524.34,950.0,0.65
+PRD-2138,Godrej aer Seat Cushion V73,Automotive Accessories,Seat Cushions,Godrej aer,641.54,1030.0,0.65
+PRD-2139,Portronics Seat Cushion V33,Automotive Accessories,Seat Cushions,Portronics,442.89,740.0,0.65
+PRD-2140,3M Seat Cushion V10,Automotive Accessories,Seat Cushions,3M,563.64,810.0,0.65
+PRD-2141,Bosch Car Phone Holder V36,Automotive Accessories,Car Phone Holders,Bosch,375.83,570.0,0.65
+PRD-2142,Amblin Seat Cushion V81,Automotive Accessories,Seat Cushions,Amblin,294.71,520.0,0.65
+PRD-2143,Bosch Car Air Freshener V42,Automotive Accessories,Car Air Fresheners,Bosch,478.5,750.0,0.65
+PRD-2144,Godrej aer Car Phone Holder V10,Automotive Accessories,Car Phone Holders,Godrej aer,250.1,410.0,0.65
+PRD-2145,Portronics Car Phone Holder V82,Automotive Accessories,Car Phone Holders,Portronics,260.64,450.0,0.65
+PRD-2146,Bosch Seat Cushion V53,Automotive Accessories,Seat Cushions,Bosch,501.09,930.0,0.65
+PRD-2147,Amblin Tyre Inflator V71,Automotive Accessories,Tyre Inflators,Amblin,566.22,900.0,0.65
+PRD-2148,Portronics Car Air Freshener V52,Automotive Accessories,Car Air Fresheners,Portronics,383.64,570.0,0.65
+PRD-2149,Amblin Tyre Inflator V76,Automotive Accessories,Tyre Inflators,Amblin,526.54,1030.0,0.65
+PRD-2150,Bergmann Microfiber Cleaning Kit V78,Automotive Accessories,Microfiber Cleaning Kits,Bergmann,467.37,830.0,0.65
+PRD-2151,3M Car Phone Holder V55,Automotive Accessories,Car Phone Holders,3M,385.11,680.0,0.65
+PRD-2152,3M Car Phone Holder V58,Automotive Accessories,Car Phone Holders,3M,197.43,390.0,0.65
+PRD-2153,3M Seat Cushion V86,Automotive Accessories,Seat Cushions,3M,392.98,680.0,0.65
+PRD-2154,Godrej aer Car Phone Holder V14,Automotive Accessories,Car Phone Holders,Godrej aer,455.95,810.0,0.65
+PRD-2155,Amblin Microfiber Cleaning Kit V57,Automotive Accessories,Microfiber Cleaning Kits,Amblin,135.08,200.0,0.65
+PRD-2156,Godrej aer Tyre Inflator V24,Automotive Accessories,Tyre Inflators,Godrej aer,184.95,330.0,0.65
+PRD-2157,Bosch Microfiber Cleaning Kit V66,Automotive Accessories,Microfiber Cleaning Kits,Bosch,600.75,880.0,0.65
+PRD-2158,Bosch Seat Cushion V29,Automotive Accessories,Seat Cushions,Bosch,612.89,900.0,0.65
+PRD-2159,Godrej aer Car Air Freshener V77,Automotive Accessories,Car Air Fresheners,Godrej aer,659.42,1020.0,0.65
+PRD-2160,Godrej aer Microfiber Cleaning Kit V76,Automotive Accessories,Microfiber Cleaning Kits,Godrej aer,175.33,260.0,0.65
+PRD-2161,Philips LED Strip Light V76,Home Improvement,LED Strip Lights,Philips,514.69,900.0,0.6
+PRD-2162,Taparia Screwdriver & Tool Set V86,Home Improvement,Screwdriver & Tool Sets,Taparia,224.85,460.0,0.6
+PRD-2163,Wipro Screwdriver & Tool Set V76,Home Improvement,Screwdriver & Tool Sets,Wipro,308.21,630.0,0.6
+PRD-2164,Taparia Smart Plug V36,Home Improvement,Smart Plugs,Taparia,406.82,750.0,0.6
+PRD-2165,Philips Smart Plug V50,Home Improvement,Smart Plugs,Philips,182.01,340.0,0.6
+PRD-2166,Bosch Door Locks & Hardware V45,Home Improvement,Door Locks & Hardware,Bosch,127.47,250.0,0.6
+PRD-2167,Taparia Screwdriver & Tool Set V23,Home Improvement,Screwdriver & Tool Sets,Taparia,680.71,1150.0,0.6
+PRD-2168,Godrej LED Strip Light V28,Home Improvement,LED Strip Lights,Godrej,271.85,500.0,0.6
+PRD-2169,Godrej Smart Plug V88,Home Improvement,Smart Plugs,Godrej,192.76,390.0,0.6
+PRD-2170,Godrej Smart Plug V70,Home Improvement,Smart Plugs,Godrej,303.61,600.0,0.6
+PRD-2171,Taparia Screwdriver & Tool Set V60,Home Improvement,Screwdriver & Tool Sets,Taparia,268.5,540.0,0.6
+PRD-2172,Bosch LED Strip Light V98,Home Improvement,LED Strip Lights,Bosch,460.88,770.0,0.6
+PRD-2173,Godrej Door Locks & Hardware V35,Home Improvement,Door Locks & Hardware,Godrej,278.7,510.0,0.6
+PRD-2174,Taparia Gardening Tool V69,Home Improvement,Gardening Tools,Taparia,738.44,1170.0,0.6
+PRD-2175,Philips Gardening Tool V99,Home Improvement,Gardening Tools,Philips,147.31,230.0,0.6
+PRD-2176,Taparia Door Locks & Hardware V69,Home Improvement,Door Locks & Hardware,Taparia,382.48,620.0,0.6
+PRD-2177,Philips Door Locks & Hardware V88,Home Improvement,Door Locks & Hardware,Philips,579.97,1140.0,0.6
+PRD-2178,Wipro Smart Plug V95,Home Improvement,Smart Plugs,Wipro,340.96,550.0,0.6
+PRD-2179,Wipro Smart Plug V70,Home Improvement,Smart Plugs,Wipro,296.49,610.0,0.6
+PRD-2180,Wipro Screwdriver & Tool Set V46,Home Improvement,Screwdriver & Tool Sets,Wipro,415.46,640.0,0.6
+PRD-2181,Godrej Smart Plug V61,Home Improvement,Smart Plugs,Godrej,430.38,740.0,0.6
+PRD-2182,Wipro Screwdriver & Tool Set V48,Home Improvement,Screwdriver & Tool Sets,Wipro,355.81,720.0,0.6
+PRD-2183,Stanley Gardening Tool V89,Home Improvement,Gardening Tools,Stanley,315.11,560.0,0.6
+PRD-2184,Godrej LED Strip Light V18,Home Improvement,LED Strip Lights,Godrej,172.94,300.0,0.6
+PRD-2185,Philips Smart Plug V65,Home Improvement,Smart Plugs,Philips,598.19,1000.0,0.6
+PRD-2186,Wipro Gardening Tool V94,Home Improvement,Gardening Tools,Wipro,374.33,710.0,0.6
+PRD-2187,Bosch Screwdriver & Tool Set V72,Home Improvement,Screwdriver & Tool Sets,Bosch,672.17,1130.0,0.6
+PRD-2188,Godrej Screwdriver & Tool Set V22,Home Improvement,Screwdriver & Tool Sets,Godrej,419.71,770.0,0.6
+PRD-2189,Philips Door Locks & Hardware V86,Home Improvement,Door Locks & Hardware,Philips,258.13,460.0,0.6
+PRD-2190,Bosch Screwdriver & Tool Set V58,Home Improvement,Screwdriver & Tool Sets,Bosch,634.27,1000.0,0.6
+PRD-2191,Stanley Smart Plug V37,Home Improvement,Smart Plugs,Stanley,403.68,820.0,0.6
+PRD-2192,Godrej LED Strip Light V10,Home Improvement,LED Strip Lights,Godrej,667.95,1100.0,0.6
+PRD-2193,Bosch LED Strip Light V59,Home Improvement,LED Strip Lights,Bosch,170.01,290.0,0.6
+PRD-2194,Godrej Gardening Tool V50,Home Improvement,Gardening Tools,Godrej,317.89,610.0,0.6
+PRD-2195,Godrej Smart Plug V65,Home Improvement,Smart Plugs,Godrej,603.59,980.0,0.6
+PRD-2196,Taparia Smart Plug V75,Home Improvement,Smart Plugs,Taparia,451.72,750.0,0.6
+PRD-2197,Philips Door Locks & Hardware V80,Home Improvement,Door Locks & Hardware,Philips,512.18,1040.0,0.6
+PRD-2198,Taparia Screwdriver & Tool Set V55,Home Improvement,Screwdriver & Tool Sets,Taparia,566.85,880.0,0.6
+PRD-2199,Wipro Screwdriver & Tool Set V99,Home Improvement,Screwdriver & Tool Sets,Wipro,558.67,1060.0,0.6
+PRD-2200,Stanley Gardening Tool V61,Home Improvement,Gardening Tools,Stanley,497.88,800.0,0.6
+PRD-2201,Stanley Door Locks & Hardware V70,Home Improvement,Door Locks & Hardware,Stanley,434.87,710.0,0.6
+PRD-2202,Philips LED Strip Light V56,Home Improvement,LED Strip Lights,Philips,467.04,720.0,0.6
+PRD-2203,Philips Door Locks & Hardware V26,Home Improvement,Door Locks & Hardware,Philips,288.0,440.0,0.6
+PRD-2204,Taparia LED Strip Light V72,Home Improvement,LED Strip Lights,Taparia,101.46,210.0,0.6
+PRD-2205,Philips Door Locks & Hardware V63,Home Improvement,Door Locks & Hardware,Philips,133.86,220.0,0.6
+PRD-2206,Bosch Door Locks & Hardware V33,Home Improvement,Door Locks & Hardware,Bosch,440.81,780.0,0.6
+PRD-2207,Godrej Door Locks & Hardware V59,Home Improvement,Door Locks & Hardware,Godrej,373.53,580.0,0.6
+PRD-2208,Philips Smart Plug V83,Home Improvement,Smart Plugs,Philips,198.3,330.0,0.6
+PRD-2209,Bosch Door Locks & Hardware V62,Home Improvement,Door Locks & Hardware,Bosch,220.53,380.0,0.6
+PRD-2210,Godrej Gardening Tool V82,Home Improvement,Gardening Tools,Godrej,351.34,520.0,0.6
+PRD-2211,Bosch Door Locks & Hardware V98,Home Improvement,Door Locks & Hardware,Bosch,309.95,520.0,0.6
+PRD-2212,Philips Screwdriver & Tool Set V45,Home Improvement,Screwdriver & Tool Sets,Philips,532.61,910.0,0.6
+PRD-2213,Godrej Door Locks & Hardware V21,Home Improvement,Door Locks & Hardware,Godrej,138.18,210.0,0.6
+PRD-2214,Stanley LED Strip Light V95,Home Improvement,LED Strip Lights,Stanley,490.2,800.0,0.6
+PRD-2215,Bosch Screwdriver & Tool Set V49,Home Improvement,Screwdriver & Tool Sets,Bosch,518.09,810.0,0.6
+PRD-2216,Taparia Gardening Tool V11,Home Improvement,Gardening Tools,Taparia,645.71,1100.0,0.6
+PRD-2217,Stanley Door Locks & Hardware V52,Home Improvement,Door Locks & Hardware,Stanley,390.22,680.0,0.6
+PRD-2218,Wipro Door Locks & Hardware V47,Home Improvement,Door Locks & Hardware,Wipro,741.99,1160.0,0.6
+PRD-2219,Taparia LED Strip Light V48,Home Improvement,LED Strip Lights,Taparia,521.59,870.0,0.6
+PRD-2220,Wipro Gardening Tool V31,Home Improvement,Gardening Tools,Wipro,109.18,190.0,0.6

@@ -1,0 +1,7 @@
+region_id,region_name,state,zone
+REG-01,West,"Maharashtra, Gujarat, Goa",Western India
+REG-02,North,"Delhi NCR, Punjab, UP, Haryana",Northern India
+REG-03,South,"Karnataka, TN, Telangana, Kerala",Southern India
+REG-04,East,"West Bengal, Odisha, Bihar",Eastern India
+REG-05,Central,"Madhya Pradesh, Chhattisgarh",Central India
+REG-06,North-East,"Assam, Meghalaya, Tripura",North-Eastern India

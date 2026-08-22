@@ -1,0 +1,7 @@
+region_id,region_name,state,zone,weight
+REG-01,West,"Maharashtra, Gujarat, Goa",Western India,0.252
+REG-02,North,"Delhi NCR, Punjab, UP, Haryana",Northern India,0.224
+REG-03,South,"Karnataka, TN, Telangana, Kerala",Southern India,0.212
+REG-04,East,"West Bengal, Odisha, Bihar",Eastern India,0.144
+REG-05,Central,"Madhya Pradesh, Chhattisgarh",Central India,0.108
+REG-06,North-East,"Assam, Meghalaya, Tripura",North-Eastern India,0.06

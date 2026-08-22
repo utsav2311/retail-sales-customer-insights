@@ -1,0 +1,156 @@
+// ============================================================================
+// RETAIL SALES & CUSTOMER INSIGHTS — PRODUCTION DAX MEASURES LIBRARY
+// Author: Senior Power BI & Data Analytics Specialist
+// Model: Star Schema (fact_sales, dim_customer, dim_product, dim_region, dim_date)
+// ============================================================================
+
+// ----------------------------------------------------------------------------
+// 1. CORE VOLUME & TRANSACTION METRICS
+// ----------------------------------------------------------------------------
+
+// Total Transactions Count
+Total Transactions = 
+COUNTROWS('fact_sales')
+
+// Total Orders Count (Distinct Basket Checkouts)
+Total Orders = 
+DISTINCTCOUNT('fact_sales'[order_id])
+
+// Total Active Unique Customers
+Total Customers = 
+DISTINCTCOUNT('fact_sales'[customer_id])
+
+// Total Unique Products Sold
+Total Products = 
+DISTINCTCOUNT('fact_sales'[product_id])
+
+// Total Units Sold (Quantity)
+Total Quantity = 
+SUM('fact_sales'[quantity])
+
+
+// ----------------------------------------------------------------------------
+// 2. FINANCIAL & PROFITABILITY METRICS
+// ----------------------------------------------------------------------------
+
+// Total Net Revenue in INR (₹)
+Total Revenue = 
+SUM('fact_sales'[sales_amount])
+
+// Total Cost of Goods Sold (COGS)
+Total Cost = 
+SUM('fact_sales'[cost_amount])
+
+// Total Gross Profit in INR (₹)
+Total Profit = 
+SUM('fact_sales'[profit])
+
+// Gross Profit Margin Percentage
+Profit Margin % = 
+DIVIDE([Total Profit], [Total Revenue], 0)
+
+// Average Order Value (AOV)
+Average Order Value = 
+DIVIDE([Total Revenue], [Total Orders], 0)
+
+
+// ----------------------------------------------------------------------------
+// 3. CUSTOMER RETENTION & REPEAT METRICS
+// ----------------------------------------------------------------------------
+
+// Count of Customers who have placed more than 1 order
+Repeat Customers = 
+CALCULATE(
+    [Total Customers],
+    FILTER(
+        VALUES('fact_sales'[customer_id]),
+        CALCULATE(DISTINCTCOUNT('fact_sales'[order_id])) > 1
+    )
+)
+
+// Repeat Customer Rate % (Target: ~35%)
+Repeat Customer Rate % = 
+DIVIDE([Repeat Customers], [Total Customers], 0)
+
+// Average Revenue Generated per Customer
+Avg Customer Revenue = 
+DIVIDE([Total Revenue], [Total Customers], 0)
+
+
+// ----------------------------------------------------------------------------
+// 4. CONTRIBUTION & PERCENT OF TOTAL METRICS
+// ----------------------------------------------------------------------------
+
+// Regional Revenue Contribution %
+Region Revenue Contribution % = 
+DIVIDE(
+    [Total Revenue],
+    CALCULATE([Total Revenue], ALLSELECTED('dim_region')),
+    0
+)
+
+// Category Revenue Contribution %
+Category Revenue Contribution % = 
+DIVIDE(
+    [Total Revenue],
+    CALCULATE([Total Revenue], ALLSELECTED('dim_product')),
+    0
+)
+
+
+// ----------------------------------------------------------------------------
+// 5. TIME INTELLIGENCE & GROWTH METRICS
+// ----------------------------------------------------------------------------
+
+// Previous Month Revenue (MoM Comparison)
+Previous Month Revenue = 
+CALCULATE(
+    [Total Revenue],
+    DATEADD('dim_date'[date], -1, MONTH)
+)
+
+// Month-over-Month (MoM) Revenue Growth %
+MoM Revenue Growth % = 
+VAR PrevMonthRev = [Previous Month Revenue]
+RETURN
+    IF(
+        ISBLANK(PrevMonthRev),
+        BLANK(),
+        DIVIDE([Total Revenue] - PrevMonthRev, PrevMonthRev, 0)
+    )
+
+// Year-to-Date (YTD) Cumulative Revenue
+YTD Revenue = 
+TOTALYTD([Total Revenue], 'dim_date'[date])
+
+// Previous Year Same Period Revenue (YoY)
+PY Revenue = 
+CALCULATE(
+    [Total Revenue],
+    SAMEPERIODLASTYEAR('dim_date'[date])
+)
+
+// Year-over-Year (YoY) Revenue Growth %
+YoY Revenue Growth % = 
+VAR PYRev = [PY Revenue]
+RETURN
+    IF(
+        ISBLANK(PYRev),
+        BLANK(),
+        DIVIDE([Total Revenue] - PYRev, PYRev, 0)
+    )
+
+
+// ----------------------------------------------------------------------------
+// 6. DYNAMIC FORMATTING & LABELS
+// ----------------------------------------------------------------------------
+
+// Executive KPI Formatted Revenue String (Crores / Lakhs)
+Formatted Revenue = 
+VAR Rev = [Total Revenue]
+RETURN
+    IF(
+        Rev >= 10000000,
+        "₹" & FORMAT(Rev / 10000000, "0.00") & " Cr",
+        "₹" & FORMAT(Rev / 100000, "0.00") & " L"
+    )
